@@ -138,11 +138,23 @@ if not manager:
 # build-package.sh defaults the name, and PACKAGE_NAME may override it, so the
 # default is used only when the release workflow does not name one.
 package_name = ""
+project_metadata = re.search(
+    r"(?ms)^\[project\]\s*(.*?)(?=^\[|\Z)",
+    read("pyproject.toml"),
+)
+if project_metadata:
+    match = re.search(
+        r"(?m)^\s*name\s*=\s*[\"']([A-Za-z0-9._-]+)[\"']",
+        project_metadata.group(1),
+    )
+    if match:
+        package_name = match.group(1)
 release_workflow = read(os.path.join(".github", "workflows", "release.yml"))
-match = re.search(r"^\s*PACKAGE_NAME:\s*(\S+)\s*$", release_workflow, re.MULTILINE)
-if match:
-    package_name = match.group(1).strip("'\"")
-else:
+if not package_name:
+    match = re.search(r"^\s*PACKAGE_NAME:\s*(\S+)\s*$", release_workflow, re.MULTILINE)
+    if match:
+        package_name = match.group(1).strip("'\"")
+if not package_name:
     build_script = read(os.path.join(".devcontainer", "build-package.sh"))
     match = re.search(r"PACKAGE_NAME:-([A-Za-z0-9._-]+)", build_script)
     package_name = match.group(1) if match else ""

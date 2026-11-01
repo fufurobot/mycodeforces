@@ -1,0 +1,121 @@
+from __future__ import annotations
+
+import json
+import zipfile
+from pathlib import Path
+
+from mycodeforces.codeforces import map_pages_to_problems, parse_samples
+from mycodeforces.wiki import (
+    import_wiki,
+    index_source_pages,
+    rewrite_asset_links,
+    translate_markdown,
+)
+
+
+def test_translation_preserves_code_math_and_link_destinations() -> None:
+    seen: list[str] = []
+
+    def translate(text: str) -> str:
+        seen.append(text)
+        return text.replace("中文标题", "English title").replace("文字", "text")
+
+    translated = translate_markdown(
+        "## 中文标题\n\n保留 `代码` 与 $x^2$ 和 [链接](https://example.com).\n",
+        translate,
+    )
+
+    assert translated == (
+        "## English title\n\n保留 `代码` 与 $x^2$ 和 [链接](https://example.com).\n"
+    )
+    assert all("代码" not in text and "x^2" not in text for text in seen)
+    assert all("https://example.com" not in text for text in seen)
+
+
+def test_rewrite_asset_links_keeps_local_wiki_links() -> None:
+    markdown = "![图](./images/tree.svg) [其他页](../graph/bfs.md)"
+
+    rewritten = rewrite_asset_links(markdown, "ds/fenwick")
+
+    assert rewritten == (
+        "![图](https://oi-wiki.org/ds/images/tree.svg) [其他页](../graph/bfs.md)"
+    )
+
+
+def test_import_wiki_keeps_page_hierarchy_and_attribution(tmp_path: Path) -> None:
+    archive_path = tmp_path / "source.zip"
+    with zipfile.ZipFile(archive_path, "w") as archive:
+        archive.comment = b"abc123"
+        archive.writestr(
+            "OI-wiki-master/docs/graph/flow.md",
+            "# 流\n\n## 最大流\n",
+        )
+        archive.writestr("OI-wiki-master/docs/index.md", "# 首页\n")
+        archive.writestr("OI-wiki-master/README.md", "not a page")
+    readme = tmp_path / "README.md"
+    readme.write_text(
+        "# Project\n\n<!-- BEGIN OI WIKI OUTLINE -->\n<!-- END OI WIKI OUTLINE -->\n",
+        encoding="utf-8",
+    )
+
+    pages = import_wiki(tmp_path, archive_path, lambda text: text.replace("首页", "Home").replace("流", "Flow"))
+
+    assert [page["path"] for page in pages] == ["graph/flow", "index"]
+    generated = (tmp_path / "docs" / "graph" / "flow.md").read_text(encoding="utf-8")
+    assert "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow.md" in generated
+    assert "CC BY-SA 4.0" in generated
+    manifest = json.loads((tmp_path / "docs" / "manifest.json").read_text(encoding="utf-8"))
+    assert manifest["source_commit"] == "abc123"
+    outline = readme.read_text(encoding="utf-8")
+    assert "- Graph\n  - [Flow](docs/graph/flow.md)" in outline
+
+
+def test_index_source_pages_does_not_translate_or_create_pages(tmp_path: Path) -> None:
+    archive_path = tmp_path / "source.zip"
+    with zipfile.ZipFile(archive_path, "w") as archive:
+        archive.writestr("OI-wiki-master/docs/ds/fenwick.md", "# 树状数组\n")
+    (tmp_path / "docs").mkdir()
+
+    pages = index_source_pages(tmp_path, archive_path)
+
+    assert pages[0]["path"] == "ds/fenwick"
+    assert pages[0]["title"] == "树状数组"
+    assert not (tmp_path / "docs" / "ds" / "fenwick.md").exists()
+
+
+def test_map_pages_selects_five_tag_matched_problems() -> None:
+    problems = [
+        {
+            "contestId": contest_id,
+            "index": "A",
+            "type": "PROGRAMMING",
+            "rating": 800 + contest_id,
+            "tags": ["data structures"],
+        }
+        for contest_id in range(1, 7)
+    ]
+
+    mapping = map_pages_to_problems(
+        [{"path": "ds/fenwick"}],
+        {"problems": problems},
+        count=5,
+    )
+
+    assert len(mapping["ds/fenwick"]) == 5
+    assert "6A" not in mapping["ds/fenwick"]
+
+
+def test_parse_samples_preserves_newlines_and_output() -> None:
+    html = """
+    <div class="sample-test">
+      <div class="input"><pre><div>2</div><div>3 4</div></pre></div>
+      <div class="output"><pre><div>7</div></pre></div>
+      <div class="input"><pre>8<br>9</pre></div>
+      <div class="output"><pre>17</pre></div>
+    </div>
+    """
+
+    assert parse_samples(html, "https://codeforces.com/problemset/problem/1/A") == [
+        ("2\n3 4\n", "7\n"),
+        ("8\n9\n", "17\n"),
+    ]

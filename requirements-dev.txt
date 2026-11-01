@@ -1,5 +1,4 @@
 jupyterlab
-pytest
 deep-translator
 
 # versions

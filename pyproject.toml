@@ -1,16 +1,32 @@
 [project]
 name = "mycodeforces"
 version = "0.1.0"
+description = "Study OI Wiki topics and test Codeforces solutions against samples"
+readme = "README.md"
+license = "AGPL-3.0-or-later"
 requires-python = ">=3.10"
 dependencies = [
     "beautifulsoup4>=4.15.0",
+    "pytest>=9.2.0",
     "requests>=2.34.2",
 ]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+mycodeforce = "mycodeforces.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mycodeforces"]
+
+[project.urls]
+Repository = "https://github.com/fufurobot/mycodeforces"
 
 [dependency-groups]
 dev = [
     "bump-my-version>=1.7.0",
     "deep-translator>=1.11.4",
     "jupyterlab>=4.6.5",
-    "pytest>=9.2.0",
 ]

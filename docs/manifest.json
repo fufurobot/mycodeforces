@@ -1,0 +1,6051 @@
+{
+  "source": "https://github.com/OI-wiki/OI-wiki/tree/master/docs",
+  "source_commit": "f7f00425c2189791c1c2e92f47c95ffb4dadec94",
+  "pages": [
+    {
+      "path": "basic/amortized-analysis",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/amortized-analysis.md",
+      "source_sha256": "5797b4c9d3ea280052590c4b65856edf8afafeae679d1255f24402cd80971e3c",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/binary",
+      "title": "二分查找",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/binary.md",
+      "source_sha256": "2caa30dccea167bd7f2c27f761edb1edba5c0ffd27cc7d3b834c530b843e666a",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/binary-lifting",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/binary-lifting.md",
+      "source_sha256": "75cec2f087219fa46baae384c840e8198b2b6542da71f89b6a630a43ef7d38b8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/bubble-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/bubble-sort.md",
+      "source_sha256": "b3c3c9eb0dcf7e58cbabd174cf4bd27333ef19c0af39349df8d014d2f197c4c3",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/bucket-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/bucket-sort.md",
+      "source_sha256": "518a8c80b7d13177dbb775b7659bd8e79e8cfdb3bb5173ecb37ab169f3f3dec7",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/complexity",
+      "title": "基本操作数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/complexity.md",
+      "source_sha256": "d3b9b3579eb5dcabadf64178beb8311a6ab68b1e1805780340f7eadfdbb63561",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/construction",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/construction.md",
+      "source_sha256": "0d4ae0d0df578d6893ae974314827576cec7dbc5c1a3b0a2afe4b57f043a942a",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/counting-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/counting-sort.md",
+      "source_sha256": "b275278fa6f06b30f44d31d21f1dccbffde34f49bc530f76f741d978fc732162",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/divide-and-conquer",
+      "title": "递归",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/divide-and-conquer.md",
+      "source_sha256": "a25466fbf0828c00cfef10da034f8ce7a6d53a24ac576d456fe32d4dfb7a413c",
+      "codeforces": [
+        "1490D",
+        "1385D",
+        "1373D",
+        "1461D",
+        "234G"
+      ]
+    },
+    {
+      "path": "basic/enumerate",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/enumerate.md",
+      "source_sha256": "f0274d7a1a7e6682629619dc8d67e930ef92db923f59c8e0a7ece10a96f3ed33",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/greedy",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/greedy.md",
+      "source_sha256": "06d9cd67d85c1365c7f0bc41793054b319b006e632c6ca483ce59342b53005a7",
+      "codeforces": [
+        "339A",
+        "469A",
+        "381A",
+        "1900A",
+        "490A"
+      ]
+    },
+    {
+      "path": "basic/heap-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/heap-sort.md",
+      "source_sha256": "5ff70ce96787f436f71bb310488850c02b04ba3335bb6797d6e9221745c98fd8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/index.md",
+      "source_sha256": "254c44059660ae3c6f55cbaafddb9f1aa1e9aafc9ed3e6762327a5e29d7a456c",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/insertion-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/insertion-sort.md",
+      "source_sha256": "5e045c01e951d2e3cb36fe90818fee05fa84f98ef80abae6805cf124a21c9a93",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/merge-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/merge-sort.md",
+      "source_sha256": "2f7ef7fc221404ae0a3e9f55e80b5bde803485ce21565c9124e0fd82ff7e88b6",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/prefix-sum",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/prefix-sum.md",
+      "source_sha256": "0ce9759d4cca11642ee9fa06c2728a40134902cef3f833efe873c7d447b39eab",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/quick-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/quick-sort.md",
+      "source_sha256": "5b0e3ce5942a4fdbab3ef15d3cbf44f0d72579698df8ee5b6152e120af1ea59e",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/radix-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/radix-sort.md",
+      "source_sha256": "781eed412d87e4daf9258afb601fc6f209f2537c956df869acc3802b06b8b11b",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/selection-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/selection-sort.md",
+      "source_sha256": "0305086f6ac0ef32dbdf56491d0bdc27ebde73515ac8a0583072111a3f282776",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/shell-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/shell-sort.md",
+      "source_sha256": "8148ab19437907e313a11b05116d32b84f36870bfb00b96aa4cf5fc3f067e9e9",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/simulate",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/simulate.md",
+      "source_sha256": "7b96facba3f0a3f1a3770c31f1dcae262dd543078cdcdca43fb364fe82a04fd0",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/sort-intro",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/sort-intro.md",
+      "source_sha256": "0785e05b20ff65edc581abf4af40eb0cee8ea1d2381c5b0605712e1d04cc3d8a",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/stl-sort",
+      "title": "qsort",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/stl-sort.md",
+      "source_sha256": "0e4671084443f1b29902a56f77d7dba3376e87c4ce8fca010dd056c33f8b4935",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/tim-sort",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/tim-sort.md",
+      "source_sha256": "2ab6aa8d82b59ed78839f0bd008fcc9a64d02ba187e9eced9937e9a977b1b609",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/tournament-sort",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/tournament-sort.md",
+      "source_sha256": "13ae3efd26279f5450dd9f6e81677870e290f23df89db18555c9d106699e2482",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "basic/use-of-sort",
+      "title": "理解数据的特点",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/use-of-sort.md",
+      "source_sha256": "35efa4aa192fcda386274bbcb35d10d8ce2b8f9b6ee4124626ca5d7e842eee75",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/common-mistakes",
+      "title": "因环境不同导致的错误",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/common-mistakes.md",
+      "source_sha256": "29f635a26ef491488685146e6f8e8ae04f0f1c6398ac6481abc608d09562c813",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/common-tricks",
+      "title": "利用局部性",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/common-tricks.md",
+      "source_sha256": "d60d17c30964b706c9888c9b6b669de5f671ef03c3b6d93676f1d962f8b2bcc2",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/dictionary",
+      "title": "例题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/dictionary.md",
+      "source_sha256": "0eb9ef45f5504e8cbc4b24c1d09d2121080f3d741b4bf16c9d43ff2488e4de21",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/icpc",
+      "title": "赛事介绍",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/icpc.md",
+      "source_sha256": "b37e3f646ca84bf2f30a0958454194c6e7fcba9ea7111a65c6a5af01eab23e1b",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/index.md",
+      "source_sha256": "fe10f671be984c500de9033e40d91b2b829537581b2924d8792e20d7e93a4618",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/interaction",
+      "title": "CF679A Bear and Prime 100",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/interaction.md",
+      "source_sha256": "db1923312aa008c932330b02338d0671327c030ab1d6225970d1e4794a332afe",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/io",
+      "title": "基于流的 I/O",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/io.md",
+      "source_sha256": "f7462146ace78db190a01bfcfcd3cc729416deb5689853e877124249d48ed30e",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/oi",
+      "title": "赛事简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/oi.md",
+      "source_sha256": "3bef7286bef7944e33c101254b8cd84d774839585dc3763553fc86320ff48aac",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/problems",
+      "title": "传统题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/problems.md",
+      "source_sha256": "ba7e35504ae2f9d39355eb62f3db5cfdf5513586006e6dc41bef66140bd81360",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/problemsetting",
+      "title": "出题前的准备",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/problemsetting.md",
+      "source_sha256": "ae9840847e7bb8435c660cc14033cc7431b725f7e4ab4ef4d7685e9ebd009915",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/resources",
+      "title": "在线评测平台",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/resources.md",
+      "source_sha256": "a72e26aff0ce20f8bb543412524545a517c630255f8be490c79bdb52fadd4a9e",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "contest/roadmap",
+      "title": "1 C++ 语言基础",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/roadmap.md",
+      "source_sha256": "9d0ee7cad483e2e3f36d1780eb7bf08b876020dd6c50ef3e37e52db957fae489",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "dp/basic",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/basic.md",
+      "source_sha256": "ff674ee0d088bffaaba698a8d71f3275d109bd70f8fda23b630b5da4b1179bb4",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/count",
+      "title": "基础",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/count.md",
+      "source_sha256": "e351d020845c8710211c62395704bf57a2911f411982b05d3337966f1fb47c50",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/dag",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/dag.md",
+      "source_sha256": "11298ee056942ef1c231360fa3f2601de4490c2cf8bbe2beff4016ba28b17bfa",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/dp-of-dp",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/dp-of-dp.md",
+      "source_sha256": "afb8ed1dc3a62cd735fd5cf84c276b365fe3972b2798d631088519a25ab76817",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/dynamic",
+      "title": "例子",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/dynamic.md",
+      "source_sha256": "d94a29b9a8c2041ecba26ef66624b778fc2bb05fa461beaa762781c5c49ed0cb",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/index",
+      "title": "参考资料",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/index.md",
+      "source_sha256": "8cab7e554f06593f276b22cd7fd0af4f8ef7df226b773fb17ec550e9899d7cbd",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/interval",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/interval.md",
+      "source_sha256": "f7adafa180b6fdd7d289319661a019d8a08fd76c9b8b62386eed9ce551e260a0",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/knapsack/advanced",
+      "title": "背包相关 trick",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/knapsack/advanced.md",
+      "source_sha256": "c1af6fe3392c1b26398a18fd264708e57f49aa20d94da7d717020585f0121b74",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/knapsack/basic",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/knapsack/basic.md",
+      "source_sha256": "63f4d727c095a82140fcd98cb812a21e9d7429eb0e753902f2dfda4391f2405c",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/memo",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/memo.md",
+      "source_sha256": "4206b2912be2553d08a940a90737c6d76c8fe557a7909f63e26039dfd6c7a8d7",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/number",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/number.md",
+      "source_sha256": "9ddc768713e5fe34226bc7ecdd6fcfece5f5d7c25fa85558b54e7f27b41980f6",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/opt/dp-opt",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/dp-opt.md",
+      "source_sha256": "6dd366cb73a684f110da20ba4a036e7d2b3447752c5eb8b14a2a6a3ea5300c37",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/opt/monotonic-queue-stack",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/monotonic-queue-stack.md",
+      "source_sha256": "40907e054d8a176ec44d73f2783c911c268c68dd80a4443bcb25e5270ac7a531",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/opt/quadrangle",
+      "title": "基础知识",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/quadrangle.md",
+      "source_sha256": "ca799b4a6cc5fe40ba4b108c6df194c66601af02cfd36eb7518fa06b3fbf6284",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/opt/slope",
+      "title": "例题引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/slope.md",
+      "source_sha256": "7e22678047e5f61b979d97e02cb01dc3072fbbf24b92161e320d396aa78ea8c5",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/opt/slope-trick",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/slope-trick.md",
+      "source_sha256": "9c9740fa0be9185e8a6e4ef232debcea6960c728b180df3a4414fbcddd048816",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/opt/state",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/state.md",
+      "source_sha256": "4b4761f6737c51132dd08156ad7de022aab63b1189562dea91179b73ac80ba5a",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/opt/wqs-binary-search",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/wqs-binary-search.md",
+      "source_sha256": "98186abab2fc69067bae2a26309b281b384b13f3b88107412f4494b2f5a8e56c",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/plug",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/plug.md",
+      "source_sha256": "0a3dfea5ed803eba6d3a5b88fc15687b89c40ef742a0b85565f749f1c7fe80e8",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/probability",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/probability.md",
+      "source_sha256": "c01f44d5508621e5f92c321c37e7236976b6ee10eb273139681c04dc3eee4126",
+      "codeforces": [
+        "476B",
+        "839C",
+        "1461C",
+        "2125D",
+        "107B"
+      ]
+    },
+    {
+      "path": "dp/state",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/state.md",
+      "source_sha256": "9c405df8d0fdd12f98e344ca995a4c669bdd94ed02ffa94a8d99d0e45143a78f",
+      "codeforces": [
+        "996A",
+        "1472B",
+        "702A",
+        "1538A",
+        "894A"
+      ]
+    },
+    {
+      "path": "dp/tree",
+      "title": "基础",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/tree.md",
+      "source_sha256": "932e3155b8060d9358a64a5e94eaeac3d97ec98711839b2599d06bc50c7241f3",
+      "codeforces": [
+        "1843D",
+        "522A",
+        "1676G",
+        "1900C",
+        "1830A"
+      ]
+    },
+    {
+      "path": "ds/aa-tree",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/aa-tree.md",
+      "source_sha256": "2ba9a90cdc31613f62ef71cf443701ef248577c954cabb266ea929df6f115ea6",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/avl",
+      "title": "性质",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/avl.md",
+      "source_sha256": "3b19f48225eede70c6a4b01df7dac4e9413b1b7d0a65965c30aa61a933c12ee0",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/balanced-in-seg",
+      "title": "常见用途",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/balanced-in-seg.md",
+      "source_sha256": "e3f65a3620900179f9c91ac0cb8e09529f7a832d09f1ba474ad6137b6c28fe20",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/binary-heap",
+      "title": "结构",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/binary-heap.md",
+      "source_sha256": "fe6aee71cf9a0692b1e7a46ccf60e7204e16a20354d6ebad3094fa6e0c729bb4",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/bit-in-block-array",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/bit-in-block-array.md",
+      "source_sha256": "00aafd04bc051faf249a0bb84c85d79fed7024136a4bae1b6ff8ce2ed96dd773",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/block-array",
+      "title": "建立块状数组",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/block-array.md",
+      "source_sha256": "c0ba9918d2417d8a2d63a9dc4bdff84b10115f2eb8eca42e2e689c49ea459839",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/block-list",
+      "title": "libstdc++ 中的 `rope`",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/block-list.md",
+      "source_sha256": "7283edcfcb5c5129fb71601a63f52702cc3b95c7451c201eaf5ec2ed7acd060b",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/bst",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/bst.md",
+      "source_sha256": "cec8dbd2bc727f915ba463a5b85c52f7b48886673bf7a2f3ed07b428fe2ef83c",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/cartesian-tree",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/cartesian-tree.md",
+      "source_sha256": "f0c47ccaaf073bb7b5d7e9daa9be9d65ff0f5558bbb7d3079357859d6389ab8a",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/cat-tree",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/cat-tree.md",
+      "source_sha256": "d25dadceec1c1f2413c537dc6f69aa70c1cb781db5436567128ee0c94a74c9e3",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/decompose",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/decompose.md",
+      "source_sha256": "350085d6c66baf63d2041951b197449b5e784fd04bc461b91fb028dc53cdef94",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/divide-combine",
+      "title": "关于段的问题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/divide-combine.md",
+      "source_sha256": "9955c805a407ab5f1ed5869cd4e840bfe4456600834d4749c408ff90dc0d3f88",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/dividing",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/dividing.md",
+      "source_sha256": "41245b9fee80397a515b22fa1dd2f5b1f40d7e1904ae38fe24454520678e9fbf",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/dsu",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/dsu.md",
+      "source_sha256": "76e58831ed10db608dc4a20db8af92c24010a2b7c4216e913735c68bd40cb423",
+      "codeforces": [
+        "501B",
+        "1927D",
+        "2033D",
+        "1638C",
+        "1726C"
+      ]
+    },
+    {
+      "path": "ds/dsu-complexity",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/dsu-complexity.md",
+      "source_sha256": "e8a897af59abe84f943f3a761897079f1155036d9845518fb4a8565704ec244a",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/ett",
+      "title": "树的欧拉回路表示",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/ett.md",
+      "source_sha256": "5eeddadabbf652eefdfd064ffd223841baec049b74392714ef36bbc9b8ea98f2",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/fenwick",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/fenwick.md",
+      "source_sha256": "c5667058881cc0d544349f63bd40a1fcdb2785bc16541d095370643d91f8d6b0",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/finger-tree",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/finger-tree.md",
+      "source_sha256": "fd78afad134acceb9dca70d64ad3733e3b8da8e636a6c7fef1ce89614f0d37d3",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/global-bst",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/global-bst.md",
+      "source_sha256": "9cbe4341b7c9bb4acd7eefde92f0906f38606d639841011dc937e2d0230434aa",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/hash",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/hash.md",
+      "source_sha256": "d1f8ccbc5aa2060d72422ec84256a7c121d52f620dff445fd8f44d24bde511ba",
+      "codeforces": [
+        "1520D",
+        "1800D",
+        "4C",
+        "2150A",
+        "1536C"
+      ]
+    },
+    {
+      "path": "ds/heap",
+      "title": "堆的分类",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/heap.md",
+      "source_sha256": "787f060ba0a38d64eda211ac1eb1f64b5985596ddcdf4cb3c84cf45ec2fd563d",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/huffman-tree",
+      "title": "树的带权路径长度",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/huffman-tree.md",
+      "source_sha256": "6912f2207e3179cb00746ae403a3ed4830f1647a222ce9b6e540be1c54123fc1",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/index.md",
+      "source_sha256": "a6f9a7f924dfd2fb01e3190accff54b7e0177f30a9febac33b6fd4200897af08",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/kdt",
+      "title": "建树",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/kdt.md",
+      "source_sha256": "0a76a7109c57265be1bc48e78f956bd6688e0b22d9c4da727933f60e9ee7467b",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/kinetic-tournament-tree",
+      "title": "问题引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/kinetic-tournament-tree.md",
+      "source_sha256": "dafd14ea6b2181d585d48c7bff9984e4eb5c23da14b8d2ac691f7176714657b3",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/lct",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/lct.md",
+      "source_sha256": "db326229c8f53bbeb493a759933341a44d605b01ae4e92621286359ed73c1248",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/leftist-tree",
+      "title": "什么是左偏树？",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/leftist-tree.md",
+      "source_sha256": "99b5431f4db04be0817378c843390e545a7eb44638f3a46877452ac55b703373",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/li-chao-tree",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/li-chao-tree.md",
+      "source_sha256": "7a9b75530d4e7474b6923ab6539adccd8c2654a1760154a7600440bd97711e2a",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/linked-list",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/linked-list.md",
+      "source_sha256": "1dfc36dfab4c55865fab7f8df63e2b071968193e9069b112593c6387d03414f0",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/llrbt",
+      "title": "红黑树",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/llrbt.md",
+      "source_sha256": "470b3b6d49fc98516b428a490f8af26d472c961a6008e5630c0226f210f0b029",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/monotonic-queue",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/monotonic-queue.md",
+      "source_sha256": "1e6f70ff85b63bd8267d9c2c877a90efbdb940a569b2d9846120957d629385fd",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/monotonic-stack",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/monotonic-stack.md",
+      "source_sha256": "9d87d925821f1ab3ca9174112488b5635ece6e764373d71765a6bf133acf1650",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/pairing-heap",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/pairing-heap.md",
+      "source_sha256": "244e59b73cf764c46e766176d2d1ef08f4bc1860df78ff6aeadf2b7b1572c12d",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/persistent",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent.md",
+      "source_sha256": "ba37893c54833c324647a2b60d2fd729d34c4991d6f0f6b99769dd727755ac45",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/persistent-balanced",
+      "title": "可持久化无旋转 Treap",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-balanced.md",
+      "source_sha256": "6a65eeffa7fc0ae892d14b8a8f26d457a550b010bb3fbf6ef8e7b79606685763",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/persistent-block-array",
+      "title": "Persistent Block Array",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-block-array.md",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/persistent-heap",
+      "title": "可持久化左偏树",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-heap.md",
+      "source_sha256": "b001489d16d95a9525c29fd4489972a7fb80d61669c6ae5254c241cb35376244",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/persistent-seg",
+      "title": "主席树",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-seg.md",
+      "source_sha256": "b9f084b181d1301985c14299b6ded43b6bc51a6e6441614d550e19cc9401fb90",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/persistent-trie",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-trie.md",
+      "source_sha256": "bc7aad8c3d036e210e63c6397323648bb0ff033efb93c874f3ffd46245495d8f",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/pq-tree",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/pq-tree.md",
+      "source_sha256": "860f733d3f671edc218e325cf60c45544a1c251dae97ad590a68d74d652f0ee4",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/queue",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/queue.md",
+      "source_sha256": "a7347d5d5152431e35cd1921ae265a3ddda1b228a09241269cd506154e561de3",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/rbtree",
+      "title": "性质",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/rbtree.md",
+      "source_sha256": "d68e9cea88987b382fd4bf806e40c5c3f5895d1ecfcf87d8d33055a2a1cbb517",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/sbt",
+      "title": "节点定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/sbt.md",
+      "source_sha256": "276e2308aeb5c4751d6d9816c2219bef0f583ce2c818aabd52b0f9ddc0843261",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/seg",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg.md",
+      "source_sha256": "66244e1406bebe63206ced528fac513ccc44d20ea7b2c643b3f7dc727b6eaad2",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/seg-beats",
+      "title": "区间最值",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-beats.md",
+      "source_sha256": "7a8412f820dac1572f458972c8f104b7d58cc925fb16900aabfec6252c8dde0c",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/seg-in-balanced",
+      "title": "Seg In Balanced",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-in-balanced.md",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/seg-in-bit",
+      "title": "Seg In Bit",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-in-bit.md",
+      "source_sha256": "05cbbcda281f3e55770644c16c26c68074e5dddeb1ce9ab1706efe8fd3439d07",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/seg-in-seg",
+      "title": "常见用途",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-in-seg.md",
+      "source_sha256": "fa3acb4d403a09e92981b705d1e71ff712514a6e72328e04bf04a04475f7c3f6",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/seg-merge-split",
+      "title": "线段树合并",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-merge-split.md",
+      "source_sha256": "c6ad79bddbbf65de4c7d1fe42b1ff35c25c7a454ce4dbc765b0b232c2a2839a1",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/sgt",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/sgt.md",
+      "source_sha256": "ac82e1bd2d43a2dea14eb795b5c9cb0e3ef7d19e29e13381973d0a6edb497914",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/skiplist",
+      "title": "基本思想",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/skiplist.md",
+      "source_sha256": "6e3f0adcc7bef8e89dbb78f1e503c49c29eab85e707f348453759bb370907aa6",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/sparse-table",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/sparse-table.md",
+      "source_sha256": "ba822afce755283f0fb1e1f88f0421f5af862fbceabc37aabb98df735bff7228",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/splay",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/splay.md",
+      "source_sha256": "86d6312f2094dcb48a72e72de55010928c0d5ecd88235041c11a45ba93b6f11a",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/sqrt-tree",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/sqrt-tree.md",
+      "source_sha256": "29c81254799b3aedb645d9a7ab2084083a1d7c0f2b35202b7d4c2f861265be5d",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/stack",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/stack.md",
+      "source_sha256": "d44b367ce170676fb6d8196488cfc07477bf7f5ea80c03e7c7e609515897532b",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/top-tree",
+      "title": "Self-Adjusting Top Tree",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/top-tree.md",
+      "source_sha256": "e53e4502ae089fae78e4fd5e8900e4518a10773f7c12ac018ea93f0436af5d4a",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/treap",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/treap.md",
+      "source_sha256": "14cbcd5f4c8d3795013074c07cfa06775c7e7c312f1f7c5366b06a82a899bf42",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/tree-decompose",
+      "title": "树分块的方式",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/tree-decompose.md",
+      "source_sha256": "9b72f89685fd79e9a961d26287444a502d4b872b70834965e00615eeb855dd15",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "ds/wblt",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/wblt.md",
+      "source_sha256": "4f0efe6e7048e61d0a68864095389219cbf32e506d2ce592700b48e401e694d4",
+      "codeforces": [
+        "1703B",
+        "1760C",
+        "1722C",
+        "1714B",
+        "2133A"
+      ]
+    },
+    {
+      "path": "edit-landing",
+      "title": "编辑前须知",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/edit-landing.md",
+      "source_sha256": "d822e80879a21133221ed6ae41d2db7c6a6816cdd33c81b7787f247ba8d989ba",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "geometry/2d",
+      "title": "前置技能",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/2d.md",
+      "source_sha256": "f8aebf3063f42b65caf8522aee8ee0304f99014d7efe9bf0bfa6aa613df8c684",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/3d",
+      "title": "基本概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/3d.md",
+      "source_sha256": "cbc8b767423185c1fd2b19ff39ea4ad3f424b4e72ce2f8ac892333dbe0616af2",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/convex-hull",
+      "title": "二维凸包",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/convex-hull.md",
+      "source_sha256": "bcbe87bc41e6e27ee2e2757894eab4df2d0a351a47a8003d79dedd2f07ba93c0",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/distance",
+      "title": "欧氏距离",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/distance.md",
+      "source_sha256": "1380b2fc0d5b5bedbe6187a05c6ec4c00e2c02e57eeb4aec302e2cdc397f9052",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/half-plane",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/half-plane.md",
+      "source_sha256": "17f9180b408655dc25c9707ccbecbec0dbaec7b1c5c6371784cd43ffe3a35385",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/index.md",
+      "source_sha256": "a8953e3b0d92791b6d9d58b3bb77ab96fd778ba8e2012670916329620d6746f4",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/inverse",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/inverse.md",
+      "source_sha256": "f529716175e07ed3f9747fe5bdb2091361ca154cbe506fbcea128c7d96d267bf",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/nearest-points",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/nearest-points.md",
+      "source_sha256": "d014e9e063841d637fb8c2722b69e70ce9f17a904587600601e0e56cc482406c",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/pick",
+      "title": "Pick 定理",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/pick.md",
+      "source_sha256": "8cefdf9d59435710ca2aa49c297f11c1d0d64fcab9900f0445de682a71e3991f",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/random-incremental",
+      "title": "介绍",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/random-incremental.md",
+      "source_sha256": "b60e4780429dc42ce62d8c5552fb3475c62a275f1b144b5bac010ae058c1ee0d",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/rotating-calipers",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/rotating-calipers.md",
+      "source_sha256": "0ee86454a055ea05041826337bdf942ff345821008ecd9401ecab4c75baed34e",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/scanning",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/scanning.md",
+      "source_sha256": "3dea2ec01e506fcaea00fe296db13b28294ab3d1a493ba33334a8cd1f916c101",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/smallest-enclosing-circle",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/smallest-enclosing-circle.md",
+      "source_sha256": "9f897adb3c2503af7ff1c38444c95e95f8dd338824f77a162b790eadc9e5b794",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "geometry/triangulation",
+      "title": "Delaunay 三角剖分",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/triangulation.md",
+      "source_sha256": "5b3f437a16ccf173fa06ac20cf995e38353063b3f43a37b6e10969372b4f35f5",
+      "codeforces": [
+        "1791B",
+        "1806A",
+        "1986A",
+        "2074A",
+        "1369A"
+      ]
+    },
+    {
+      "path": "graph/2-sat",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/2-sat.md",
+      "source_sha256": "c294aca8b29fb62b6afeb3515f7e7affeabc0813766695addacb24afdb3c07f2",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/bcc",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/bcc.md",
+      "source_sha256": "08423e0ec80a1ab1ca247c650e36da4d1010504b91e0bc40c3b9be9adbb4dafa",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/bfs",
+      "title": "实现",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/bfs.md",
+      "source_sha256": "33e8da6acbbb2c6c4060012d6e33bdcb0aebb6d70bda126ce8f49db8854814bb",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/bi-graph",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/bi-graph.md",
+      "source_sha256": "691d62c23f566d021e59eaa68055b1d0d6069bf81808d740ef8b0c78e340a442",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/block-forest",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/block-forest.md",
+      "source_sha256": "69f6e4b1e81d9a368d4c1f5e5ba433a53b7a5a494c78735566621e25254ccd9b",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/chord",
+      "title": "一些定义与性质",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/chord.md",
+      "source_sha256": "0fa811e151b86ee6ee5c062423dc9a2dc9729377127331c01880273601efe808",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/color",
+      "title": "点着色",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/color.md",
+      "source_sha256": "414eaf7cd052eebffe78b517f7c897780fde2c0c5e4cf2999f21bb42a32f9857",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/concept",
+      "title": "图",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/concept.md",
+      "source_sha256": "c38ae291d78b489825f05114239d73855aa7f78bc02cd9f508b4ad92b482719f",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/connectivity",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/connectivity.md",
+      "source_sha256": "bf2c2194eb67a63d0df1f718be7bfb501d81c4cc54191c60e78cf9091bdbb6b0",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/cut",
+      "title": "割点",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/cut.md",
+      "source_sha256": "9995f1d46f38514ad89f0a9ec6e0d6a32e0289f819a18e4c67c2ddc3c10693b3",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/dag",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dag.md",
+      "source_sha256": "46f65da5be1cb4acefa7fb6c40f241a7fc484e82bc709275554b0f3d3708829c",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/dfs",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dfs.md",
+      "source_sha256": "f83a2077ee36a08c5250253f4a85f676a6d2105a4f8ae18976921ab6c7c4ac5d",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/diff-constraints",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/diff-constraints.md",
+      "source_sha256": "47dd0a9f42465d9e4b39b960537288bb70f9e014f638ce669d96c8c8a9db5fa7",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/dmst",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dmst.md",
+      "source_sha256": "af60e50b9b700dbeb005874b0eaf660c78369adee79dbfa1895ce4ca44c88aea",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/dominator-tree",
+      "title": "前言",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dominator-tree.md",
+      "source_sha256": "0d7e43f993d0a0488d81648f6c004534069cc31602cec09542e29255acfabdc5",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/dsu-on-tree",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dsu-on-tree.md",
+      "source_sha256": "e056b27c5c3417a99d30267ea96c7a68a5e901c0bd562e1888cc0c304b33e6e5",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/dynamic-tree-divide",
+      "title": "动态点分治",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dynamic-tree-divide.md",
+      "source_sha256": "b828177b28e0a40809dfd5b64d45711576f591995200c30945e57939e39d1128",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/euler",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/euler.md",
+      "source_sha256": "fa3111650462b52a69180ae92002a8f9b9d2a48f39908db36fe50c3c6da1353b",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/flow",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow.md",
+      "source_sha256": "dfdcca34d88ba2cca0d08f00e28c31b415e8f164a090bfd9886ab1ad05643185",
+      "codeforces": [
+        "1549B",
+        "1797A",
+        "1530D",
+        "1926G",
+        "1423B"
+      ]
+    },
+    {
+      "path": "graph/flow/bound",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow/bound.md",
+      "source_sha256": "e37431366ec6b2eca765fde59e8eb1b4aa8bfd2b0c55569308c68b2e4aa3ebf8",
+      "codeforces": [
+        "1549B",
+        "1797A",
+        "1530D",
+        "1926G",
+        "1423B"
+      ]
+    },
+    {
+      "path": "graph/flow/max-flow",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow/max-flow.md",
+      "source_sha256": "078144625291610bbab20d2a6f8802e46607a757bd6caf270db963c7caf8b4aa",
+      "codeforces": [
+        "1549B",
+        "1797A",
+        "1530D",
+        "1926G",
+        "1423B"
+      ]
+    },
+    {
+      "path": "graph/flow/min-cost",
+      "title": "费用流",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow/min-cost.md",
+      "source_sha256": "3e2ce19859001c7e955ac45ee6407b185cd0daa820cb910de37f59162d83c4e0",
+      "codeforces": [
+        "1549B",
+        "1797A",
+        "1530D",
+        "1926G",
+        "1423B"
+      ]
+    },
+    {
+      "path": "graph/flow/min-cut",
+      "title": "概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow/min-cut.md",
+      "source_sha256": "fb63f9a648b1f6f22f49fc4d420ee1a6b63a57551e72c2ccac81137d94ab8749",
+      "codeforces": [
+        "1549B",
+        "1797A",
+        "1530D",
+        "1926G",
+        "1423B"
+      ]
+    },
+    {
+      "path": "graph/graph-matching/bigraph-match",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/bigraph-match.md",
+      "source_sha256": "c45ebabd7371c8b3a54dd768dcae8f3ab76aa8a4ff0560e5937b17641a4ab3b1",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/graph-matching/bigraph-weight-match",
+      "title": "Hungarian Algorithm（Kuhn–Munkres Algorithm）",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/bigraph-weight-match.md",
+      "source_sha256": "0cb63c7b3e80675370071e0d059c24fc638b99a2c6a858f866f6e91b647210d1",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/graph-matching/general-match",
+      "title": "带花树算法（Blossom Algorithm）",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/general-match.md",
+      "source_sha256": "f099bc83366e0ee176a52a08e5789135925f3ab74c11065bab9092b06a915e06",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/graph-matching/general-weight-match",
+      "title": "预备知识",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/general-weight-match.md",
+      "source_sha256": "4c68d3773b06e58bc2b8c7b4b7ba688ebea86e7e6a12a6d5bf41efc6ba0af5fb",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/graph-matching/graph-match",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/graph-match.md",
+      "source_sha256": "034d4a481c8deafed63fdb1fe562f02f8f12ff751fbc39eb33c1aaa344394524",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/graph-matching/stable-match",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/stable-match.md",
+      "source_sha256": "2484db417456aee73265a8c464aa84fd7534d6f0faa97de2992b186b67dd35cc",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/graph-random-walk",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-random-walk.md",
+      "source_sha256": "593fff8287c66271dc3a7998c75761fa682595dcfcfe3146bb0e99ad84991858",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/hamilton",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/hamilton.md",
+      "source_sha256": "f63cb15379e64f33543c277512b3f283f7d8af23d65f062919667098a9430cd7",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/hld",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/hld.md",
+      "source_sha256": "f56938bc5615c3f0661236fdc940bcc5fde18152852213e06cf5366ca3fde822",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/index",
+      "title": "参考资料",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/index.md",
+      "source_sha256": "757e041f2d39a1b7a13ef93f901050d06d8739370790e5526d277657f05e274b",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/kth-path",
+      "title": "问题描述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/kth-path.md",
+      "source_sha256": "57a61a311d6b7e62421d971d3cccf210dcc32627bc0c565b2868cc4c1a0b8f61",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/lca",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/lca.md",
+      "source_sha256": "7085a2142a030a5204be9957fb8b9967d45e929a8557594aa6aa23264a6b339f",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/lgv",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/lgv.md",
+      "source_sha256": "8f9abd0b3a3fe320b0a787aa80220ea6451dd92ada24b38f18cc0456cb148ae6",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/matrix-tree",
+      "title": "本篇记号声明",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/matrix-tree.md",
+      "source_sha256": "e907516d4a6d05176537457e7c206fc79681b3d6c95f212ed70d7a7bdafed5fa",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/max-clique",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/max-clique.md",
+      "source_sha256": "7434b907070e6e129dda5ad4ddd913c75d9840ef64556a5775a97982ec1eb514",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/mdst",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/mdst.md",
+      "source_sha256": "b9185f4ce735ec8c5b21e8ba26bef2cbd075e1c6e24328fd7456ced13e648730",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/min-cycle",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/min-cycle.md",
+      "source_sha256": "aad9eeb40b8fc1eae4b989aca7bc02a63167b950a8f18001c3364eebf686a682",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/mod-shortest-path",
+      "title": "例题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/mod-shortest-path.md",
+      "source_sha256": "cc33704acf8dc90113cb55b04ca50c80cd1056dbc099d803daeba56e11fe5bed",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/mst",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/mst.md",
+      "source_sha256": "518f4245b117c4b32edea7d742b7c710f07d21d9089ec55e809ced1c4b4642a7",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/node",
+      "title": "结点有流量限制的最大流",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/node.md",
+      "source_sha256": "930dab65c28ef77cdf088e51a5d287f261c42a5015240dcb46f280712c9afc69",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/planar",
+      "title": "平面图",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/planar.md",
+      "source_sha256": "bcb5d852109da926da70491f3eb5db94ccf6cfe2e72cf291b5dd9976d55309c4",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/prufer",
+      "title": "Prüfer 序列",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/prufer.md",
+      "source_sha256": "9d587478e629a3a0109940c8a6e649587c29123713eb880bde823150a4d9fedb",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/rings-count",
+      "title": "普通环计数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/rings-count.md",
+      "source_sha256": "581c88f54310b13d1b85698de27d5832bbc970e91fa9488a1e051c938e7e03e3",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/save",
+      "title": "约定",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/save.md",
+      "source_sha256": "e92c9dfed3102bc244c271f2c6bfd5c40c69d4ef4f3711e42023ba8c03495a01",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/scc",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/scc.md",
+      "source_sha256": "40fd5793dbec398720633ae0b724a9d7072b884838f63f292d887739901a133f",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/shortest-path",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/shortest-path.md",
+      "source_sha256": "56d58a9fc194074fb89acd46565776ba3c586f48888ad29439e4d8f4d02165e8",
+      "codeforces": [
+        "370A",
+        "1360E",
+        "1948C",
+        "1661B",
+        "520B"
+      ]
+    },
+    {
+      "path": "graph/steiner-tree",
+      "title": "问题引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/steiner-tree.md",
+      "source_sha256": "0a5d7718f7997663fea4c34a4c1c6474ae849254fa858c73c0afd61a687cce9c",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/stoer-wagner",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/stoer-wagner.md",
+      "source_sha256": "88ce4dae3ff49064e8fbcaced1f56b2fd046d834997a8b4d614698f935a03ec7",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/topo",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/topo.md",
+      "source_sha256": "917e045919a0a240f6c9321a237fd744c9746277aa887f59e227a96c1f850e22",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/tree-ahu",
+      "title": "树同构的定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-ahu.md",
+      "source_sha256": "44006a4ad8fc86c5a349bd6e54059fae0260d3a42766d6b621258a7eb9c2a3d2",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/tree-basic",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-basic.md",
+      "source_sha256": "327bb6a2266585c1c3214fa39756a9452dd100bb90ded36682fd62fa9996fc72",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/tree-center",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-center.md",
+      "source_sha256": "34d7936cdd6b8577e6d24ab4572c7d76f0384252f54bc3165ec9802120707504",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/tree-centroid",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-centroid.md",
+      "source_sha256": "26aa618a921ef902b481936d94f73a0e9fbf690e81ad45ddb3c6d9e2c57cc5d8",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/tree-diameter",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-diameter.md",
+      "source_sha256": "f071c76d85f09fd088d40a1f1051654fe11f18a0cc2f5347654b8e1587f2d920",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/tree-divide",
+      "title": "点分治",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-divide.md",
+      "source_sha256": "27b90e26c11917af2625858192492a1b5c6da9c7453edf6a7d1161d954172ea7",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/tree-hash",
+      "title": "方法",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-hash.md",
+      "source_sha256": "301da233a980c2c4fe07927845c38954ac389313115d0c00c79a49c4b454ac5f",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/tree-random-walk",
+      "title": "需要用到的定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-random-walk.md",
+      "source_sha256": "6212894b491c0f80e88aa6e5b151acb9428f8df13a988025a2fc1bb7b818f3e0",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "graph/virtual-tree",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/virtual-tree.md",
+      "source_sha256": "9e9060bf7c6f3b131e4535faebc5dc56faa7bb4298d7eb6c0e02e6671f85673c",
+      "codeforces": [
+        "939A",
+        "1944A",
+        "1549B",
+        "755A",
+        "1797A"
+      ]
+    },
+    {
+      "path": "index",
+      "title": "欢迎来到 **OI Wiki**！[![GitHub watchers](https://img.shields.io/github/watchers/OI-wiki/OI-wiki.svg?style=social&label=Watch)](https://github.com/OI-wiki/OI-wiki)  [![GitHub stars](https://img.shields.io/github/stars/OI-wiki/OI-wiki.svg?style=social&label=Stars)](https://github.com/OI-wiki/OI-wiki)",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/index.md",
+      "source_sha256": "2bb06d87aa394cc7cdfe63fc0430b2b010ed0f8a98fb29eaa1cead04fabe6367",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/about",
+      "title": "关于本项目",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/about.md",
+      "source_sha256": "a33acb9b9ea062ed4f8ba9f30095f308b3d03e061df3e354ca2ae413657164e5",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/docker-deploy",
+      "title": "拉取 **OI Wiki** 镜像",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/docker-deploy.md",
+      "source_sha256": "98a7740f4ed03d273d09927cf1b59fbdf341eded2b511f825b1b564ba19b9338",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/faq",
+      "title": "我想问点与这个 Wiki 相关的问题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/faq.md",
+      "source_sha256": "c5c0d8fc0cc5f0e248aa516e0146b3008e0a8cf4f5d892c8e93a1234dca73e36",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/format",
+      "title": "太长不看版",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/format.md",
+      "source_sha256": "de49306be650e9c1b86b682a5c48396ba38bf0cbd07f1240ab15dcc3bb3bc141",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/htc",
+      "title": "贡献指南",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/htc.md",
+      "source_sha256": "8c12fca1cdada2d97f3c8924e67617d28cef9b169d020aeb436d6518f1fa4801",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/mirrors",
+      "title": "Mirrors",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/mirrors.md",
+      "source_sha256": "d46cb93287369d8cfd119638e1da652774b2e98d86f06b1499225ef5323cd5c5",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/symbol",
+      "title": "数理逻辑",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/symbol.md",
+      "source_sha256": "15c414dea069d013a7fdfa9146f02a74b0c2a7444ba10ba1031796c74c1f3e76",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/thanks",
+      "title": "Thanks",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/thanks.md",
+      "source_sha256": "758e0485160deebd9ae7618db89044b3ecdca2e199a5f1342d2808a8ad2f9efb",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "intro/what-oi-wiki-is-not",
+      "title": "OI Wiki 不是发表原创研究的场所",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/what-oi-wiki-is-not.md",
+      "source_sha256": "8787419ecc9793acd87f777bf02fb2b9c27f4c456f238c29cfe626653216e680",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/array",
+      "title": "定义数组",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/array.md",
+      "source_sha256": "6276fe4068501b592b67c2dc65615dbe7cfa7bb1a6a376344d0226a33b420c21",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/basic",
+      "title": "代码框架",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/basic.md",
+      "source_sha256": "fe48c41c6534d5adaccbc0bab1d88d74937372d2e2e0ffc138eb9d1ca2247ea7",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/branch",
+      "title": "if 语句",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/branch.md",
+      "source_sha256": "de00cd7bff433d563a296a823d1d505e74f360f3a9ab9db679e5186d216108b8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/class",
+      "title": "定义类",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/class.md",
+      "source_sha256": "fc063c4840f6e141f36d5a513a10a7e9eb3a2040d021fb979fad8a07f320240b",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/const",
+      "title": "`const` 类型限定符",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/const.md",
+      "source_sha256": "1e06c2e895914092a925ab7c33078412944d8e0c0b8600502acdef016d786819",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/cpp-other-langs",
+      "title": "C 与 C++ 的区别",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/cpp-other-langs.md",
+      "source_sha256": "321bb745fdc168182e1e8830c21f61f5ee1cb472b27f3019fece108bbc570340",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/algorithm",
+      "title": "使用样例",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/algorithm.md",
+      "source_sha256": "a51ca9af103956c842f9e76fead2cb5d9f13281ae4c9e44c4fd89443522e206f",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/associative-container",
+      "title": "`set`",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/associative-container.md",
+      "source_sha256": "4153b147b93544cb8c7f30302e9ddf7dd71cfc1eabe5f4789b229decd51fdf3e",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/bitset",
+      "title": "介绍",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/bitset.md",
+      "source_sha256": "16294010b33bcd40c61b61d9ac5e978a3992003faab76588e542f1553d406dad",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/container",
+      "title": "分类",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/container.md",
+      "source_sha256": "090f76f42414141dff0a71feb7569afb465e5f298cd97106ff414e1b5ee7f256",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/container-adapter",
+      "title": "栈",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/container-adapter.md",
+      "source_sha256": "2d01dfbdb26ff001c9dee9fa2eb221094d2f4294f567fc63c68725fce0d81104",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/index",
+      "title": "C++ 标准",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/index.md",
+      "source_sha256": "1676fc6e386732d6151509a6c856c21598da7ebfd0ef82dfe5cd2967587de18d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/iterator",
+      "title": "基础使用",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/iterator.md",
+      "source_sha256": "43823e0ce80474dc3d8bf5051c518e4cf35a3d80accd529eb52bd2ffa0afee65",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/pair",
+      "title": "使用",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/pair.md",
+      "source_sha256": "66412a4478c622e3e874ee68cfb2d44d6b39cd8f4f6f3c57b5159e3bf0979bc7",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/sequence-container",
+      "title": "`vector`",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/sequence-container.md",
+      "source_sha256": "65b5f757285eaf2a58685b812911aca1b493ead5f3948c320af04495eaf4313f",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/csl/string",
+      "title": "`string` 是什么",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/string.md",
+      "source_sha256": "74cd7dc6789bdbd6138b37135b0c0fd12dbf47a9bf8add70c3b2e531f6a5a9bd",
+      "codeforces": [
+        "112A",
+        "236A",
+        "339A",
+        "281A",
+        "59A"
+      ]
+    },
+    {
+      "path": "lang/csl/unordered-container",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/unordered-container.md",
+      "source_sha256": "0ba5b9aa954f9a23e8c71c192a02bc881190d794270ac5906c26674c015a2a67",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/file-op",
+      "title": "文件的概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/file-op.md",
+      "source_sha256": "06d23c96cabea5facab7630a51ebded7d9b84f46dc82b45f9f2649b64e7c607b",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/func",
+      "title": "函数的声明",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/func.md",
+      "source_sha256": "b118afa55b97ea60a493331dd5e16f89f36e227964830410625d09d44bcd43bc",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/helloworld",
+      "title": "环境配置",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/helloworld.md",
+      "source_sha256": "20aa102eea9cf6b2d8e9a877d54f5417aa2f70cb4a5709d198b60a9d6af365a3",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/index.md",
+      "source_sha256": "8438c7ee12ca764d2ab0a9f5efbbcc3be0c608e11bf08c2b1d24763ac9a4a8ed",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/java",
+      "title": "关于 Java",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/java.md",
+      "source_sha256": "d99cb389f7f802b7f99efd657e1997a19f475ec91253ae57cab19e4b15f50d0a",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/java-pro",
+      "title": "更高速的输入输出",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/java-pro.md",
+      "source_sha256": "4eed72991a0b3d9544d5f296288182af8659a1fe7e862f385348f557e05d5ab0",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/lambda",
+      "title": "Lambda 表达式",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/lambda.md",
+      "source_sha256": "9ac05f5ac3e186ca1afb1541658011d0cbccf691b6f763b96580081eb82019a5",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/loop",
+      "title": "for 语句",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/loop.md",
+      "source_sha256": "01d3f548219fffce4f343fc9d203761acef4e7d70733f6ba468dadf3c44c42d6",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/namespace",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/namespace.md",
+      "source_sha256": "eaa6166d6138f09474a262fc5eff6d7a7542c2dd0ddbae12c9d3a8dd633c3ff1",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/new",
+      "title": "`auto` 类型说明符",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/new.md",
+      "source_sha256": "f4ca990478545ecc247a7519851b0ffbcfcd9b2a73161637a23c68022daecd39",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/op",
+      "title": "算术运算符",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/op.md",
+      "source_sha256": "46030d08162e52c1449440f5dad77c59083dcd65e6f0f6c013ba8e845f14d5b5",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/op-overload",
+      "title": "限制",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/op-overload.md",
+      "source_sha256": "ef90cd08d7cd3c4a1e9ab972da0cc0f070a878825d849b0aad91baa1d583036d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/optimizations",
+      "title": "编译器优化简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/optimizations.md",
+      "source_sha256": "158bcead86e8af61986d0c9bb53d95a3999f2aafcf49c0ba242c52764073774c",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/pas-cpp",
+      "title": "C++ 快速安装与环境配置",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pas-cpp.md",
+      "source_sha256": "7cd1121cebdb0eff70a12db8b1f7268b0e13dfd41868f89449030aceefbeb80d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/pb-ds/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pb-ds/index.md",
+      "source_sha256": "5cb12f6ef2e160f5b88bc0c69a3e7c461e4d6038d9e18a99875550eb950d6c5e",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/pb-ds/pq",
+      "title": "`__gnu_pbds::priority_queue`",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pb-ds/pq.md",
+      "source_sha256": "6a01aeeed769c17f12cc7fc5747904f8e9bfaf0cfa79820b66f0a11ab8729c84",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/pb-ds/tree",
+      "title": "`__gnu_pbds::tree`",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pb-ds/tree.md",
+      "source_sha256": "c6302f48138ee784253d91db168bfdc369678e39b2f1672b37bed2bd22f8c5eb",
+      "codeforces": [
+        "1511C",
+        "913B",
+        "1675D",
+        "886C",
+        "2171D"
+      ]
+    },
+    {
+      "path": "lang/pointer",
+      "title": "变量的地址、指针",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pointer.md",
+      "source_sha256": "2278f2cc5b008c16ec5e7d6c3a015a11e3d3946085cd86b0c0e92eb148f5335d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/python",
+      "title": "关于 Python",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/python.md",
+      "source_sha256": "0b0adc2522da1181eec6ac24dc44f89de7982406cb96eabfe131641b1fc8c965",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/reference",
+      "title": "左值引用 T&",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/reference.md",
+      "source_sha256": "bed942873e1c8e6892fa6fe93209e9df5238889b268fee3d02d1fe3cb0165234",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/struct",
+      "title": "定义结构体",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/struct.md",
+      "source_sha256": "308b6b9f8ab868a3c905deec54730e2347d5412b9d4053dcec7705a56bfcf8af",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/union",
+      "title": "定义联合体",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/union.md",
+      "source_sha256": "b9a416d6dd9b3f64badb1a173f720b99aaf5e35731261a9f662071db8c9d0967",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/value-category",
+      "title": "不必要的复制",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/value-category.md",
+      "source_sha256": "66131a3853e5d953ff31d35cced58f10d3d5abf3c0801570c8c47d9cc0f333c4",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "lang/var",
+      "title": "数据类型",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/var.md",
+      "source_sha256": "5d22d6f2cade75bec966155eb87a3f39cc9f6b017daacf7cf0fefd351264534f",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "math/algebra/basic",
+      "title": "群",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/basic.md",
+      "source_sha256": "ab5171837b94f121057e7fe8d33b79ab13fca8d1143ea107bb1d90eacf713a8b",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/algebra/field-theory",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/field-theory.md",
+      "source_sha256": "ec8a976b84ecdd1a6336c052c3947f43151fc471475a83b07c7b3f543c4e9808",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/algebra/group-theory",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/group-theory.md",
+      "source_sha256": "1b937126a57e4a3a29dbe4258d67d0df0445fc77b35ffeb57c46a2f7c3417699",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/algebra/ring-theory",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/ring-theory.md",
+      "source_sha256": "aff4886feabf99ec676e5b33ed0bb9f086d712f7bd0f82bd84287550331734c9",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/algebra/schreier-sims",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/schreier-sims.md",
+      "source_sha256": "e480c5d4edf0a5acdd98be4454cd6c70bc0f42fd41acd75c7150a46a7269eea7",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/berlekamp-massey",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/berlekamp-massey.md",
+      "source_sha256": "5e3556ab21d5dbbf07b98e7de40baaefb9619c44a27a8444da74d4135f28fc19",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/bignum",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/bignum.md",
+      "source_sha256": "2d56d04598dd73fc1639f726d1a10c3a6c235198c5af8f9c8cf0253820967b0a",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/binary-exponentiation",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/binary-exponentiation.md",
+      "source_sha256": "f07dc15102b7de30e56f77eddde66395ec170876636db0e4d6bcd71fd125b72f",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/binary-set",
+      "title": "模 2 的幂",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/binary-set.md",
+      "source_sha256": "af897336ee4491aa95b64a4324b41198cc7da7bc84123554809bb4de772ba756",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/bit",
+      "title": "整数与位序列",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/bit.md",
+      "source_sha256": "37cb7b69afd902cd008bcaba344f373ea067e135817c016e28f4e1783a17f641",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/boolean-algebra",
+      "title": "布尔函数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/boolean-algebra.md",
+      "source_sha256": "338663cdaac83de17099aa985c7e6d1299a59343ccb3ed1bf739ad86aea138c7",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/bell",
+      "title": "递推公式",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/bell.md",
+      "source_sha256": "785791451b2562ae727e2d1d15e925b077a9628af7b1aad0f8c779a582f9f8b4",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/bernoulli",
+      "title": "等幂求和",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/bernoulli.md",
+      "source_sha256": "15eb287fed1185add4784745c209036692b64e168851c6a0b5c9c441bd9de081",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/catalan",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/catalan.md",
+      "source_sha256": "46eaa8265ba390037943cdb6274b328d3fcdfc866ce92a36193de8f95c2915af",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/combination",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/combination.md",
+      "source_sha256": "32b06882f53b344f59f17d05c753e6f66b027715585f754eb99fe6db5467f732",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/derangement",
+      "title": "错位排列",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/derangement.md",
+      "source_sha256": "5b7d077f2fdd8d82c563691002e4f9ab75ad00fb4748293363f724f906a97b23",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/drawer-principle",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/drawer-principle.md",
+      "source_sha256": "a358873c5ab750234426e8b7106dcc011ec5d8da9d628edcdbbf4f6f54fd1f84",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/entringer",
+      "title": "恩特林格数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/entringer.md",
+      "source_sha256": "ba374ba54824b905b3028e205e01a7926fd2a7b284fb9a982d0c1a78afc0fcba",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/eulerian",
+      "title": "公式",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/eulerian.md",
+      "source_sha256": "7a6b1a9d1edb47b978cb328c47a7d98f55ecd828fae0d25e6e8f43cda916be8e",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/fibonacci",
+      "title": "卢卡斯数列",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/fibonacci.md",
+      "source_sha256": "c4ed9860c87527251e8597b8ed8375cb9435b1ced8abc53952e7fe4638ffbed9",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/graph-enumeration",
+      "title": "有标号树",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/graph-enumeration.md",
+      "source_sha256": "fd551e7fe9524b828576751d1255f8e1b23d48287cc2233f03eca8ad2144314f",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/inclusion-exclusion-principle",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/inclusion-exclusion-principle.md",
+      "source_sha256": "d75c71253dcdbf45a2ccaa28ee3fa76a95e94a64b9dad8d87c63a5f3183f796d",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/partition",
+      "title": "k 部分拆数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/partition.md",
+      "source_sha256": "854a94f52cf507f7e85e0e91b66d3cbdeb29eb32bb6f05917e8abbd4c7f4eed3",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/polya",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/polya.md",
+      "source_sha256": "230279f1b6b2b02466ecfec4230e4a6e210c5790a1519a1d2186fb71e2a98bc6",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/stirling",
+      "title": "第二类斯特林数（Stirling Number）",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/stirling.md",
+      "source_sha256": "7531255fae69e486b511eb884338fcd909535389775eadc29f51ed3bdb24c192",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/combinatorics/vandermonde-convolution",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/vandermonde-convolution.md",
+      "source_sha256": "e334c406dc2431a459f15176ea91d4dbfda417896e99c8cc95281a0dd849a0f1",
+      "codeforces": [
+        "1843C",
+        "1674B",
+        "1743A",
+        "2030B",
+        "2108A"
+      ]
+    },
+    {
+      "path": "math/complex",
+      "title": "复数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/complex.md",
+      "source_sha256": "df008e3a8b17b7bd634d31c8244ba2f604dd5575569dc8de89d8c2e1bf71d295",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/coordinate",
+      "title": "角的定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/coordinate.md",
+      "source_sha256": "c17003b6d8baa6187b80bfb3c068952e4dfc6f88919992b410a10870473602a5",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/game-theory/impartial-game",
+      "title": "Nim 游戏",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/game-theory/impartial-game.md",
+      "source_sha256": "e8f74412f1791006419fd864509781f23b0fb214bf6826556d4f1b4371bd13a9",
+      "codeforces": [
+        "1899A",
+        "1858A",
+        "959A",
+        "2218A",
+        "1919A"
+      ]
+    },
+    {
+      "path": "math/game-theory/intro",
+      "title": "基础概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/game-theory/intro.md",
+      "source_sha256": "616de72e7ff0462aee99896f010fb9ec3ae9ade6f8055327eba4eb681ad35f53",
+      "codeforces": [
+        "1899A",
+        "1858A",
+        "959A",
+        "2218A",
+        "1919A"
+      ]
+    },
+    {
+      "path": "math/game-theory/partizan-game",
+      "title": "Partizan Game",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/game-theory/partizan-game.md",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "codeforces": [
+        "1899A",
+        "1858A",
+        "959A",
+        "2218A",
+        "1919A"
+      ]
+    },
+    {
+      "path": "math/game-theory/zero-sum-game",
+      "title": "序贯零和游戏",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/game-theory/zero-sum-game.md",
+      "source_sha256": "a33301c644e5a2bdaf75ba6943460f0c80447d45c664b483d5bd042c53be80e7",
+      "codeforces": [
+        "1899A",
+        "1858A",
+        "959A",
+        "2218A",
+        "1919A"
+      ]
+    },
+    {
+      "path": "math/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/index.md",
+      "source_sha256": "41476660b98e720a284b2e695c8012a6acb7c1c73b7afbae223a90e4ead812ed",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/basis",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/basis.md",
+      "source_sha256": "5551d8797a75db5888da2c54d56418d9bf16f044b967be2a436bc1dd68915579",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/char-poly",
+      "title": "特征值与特征向量",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/char-poly.md",
+      "source_sha256": "4d8917e345aad4a525864519514d15b2bc88cfd6af5652850e88c8914bbecafa",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/determinant",
+      "title": "全排列方法定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/determinant.md",
+      "source_sha256": "2f70b6c43cf26f44f682764d0332f8dc617664582c1e87609774e293055a95bd",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/diagonalization",
+      "title": "特征子空间",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/diagonalization.md",
+      "source_sha256": "f638ad821b2a64948683b01d2fd8da0a7aad70a7066d6d36c8abb0f6830c7f7b",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/elementary-operations",
+      "title": "初等矩阵",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/elementary-operations.md",
+      "source_sha256": "62f7cffb7433e977600162e83d4fb51c41a6c9863b6e1862605b2d48591f76bd",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/index.md",
+      "source_sha256": "dcc387d64596fb265b982a66152f217a9b8cc9ca8099737b452f8b1597da51d4",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/jordan",
+      "title": "Jordan 分解",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/jordan.md",
+      "source_sha256": "9438e3e8c8b9170111ad0d158de17f81d35f43e2b977aa62406cc4d606539fc0",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/linear-mapping",
+      "title": "线性映射与线性变换",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/linear-mapping.md",
+      "source_sha256": "07a3258b956b4870649b177d94eacaf5365e82a57ff2923933614cb2b5d68aef",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/matrix",
+      "title": "向量与矩阵",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/matrix.md",
+      "source_sha256": "5328f9e88dca863aff6035387b5848618ef1ab851eac34e5415bfbf4082866fe",
+      "codeforces": [
+        "1648A",
+        "485A",
+        "166E",
+        "1980E",
+        "337C"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/product",
+      "title": "内积",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/product.md",
+      "source_sha256": "a2c0aa5fa7b677bc8e7409ea0341bd493e8728930a9b0b0ab17a20232849635f",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/vector",
+      "title": "定义及相关概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/vector.md",
+      "source_sha256": "f87b1e66396f077763534ba25ca99a1dcaea39d2bca32e2c6003423ff523d472",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-algebra/vector-space",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/vector-space.md",
+      "source_sha256": "df78ea0332cfbeaa1affb915c02325a023946752b34799601cb075d541012e45",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/linear-programming",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-programming.md",
+      "source_sha256": "8a2426145a581849bc9ee0a52ae9f8dfa87367eb1397582edced07dce20a0082",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/matroid",
+      "title": "引言",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/matroid.md",
+      "source_sha256": "7e25187a06613e7b62c1e017df873d59ce34939c2d671d2208e8aedd233b288b",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/number-theory/basic",
+      "title": "整除",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/basic.md",
+      "source_sha256": "49d74fe2324eb9445c70557fcab725e9d071b9b424f78bea1c4e383167a12fb4",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/bezouts",
+      "title": "裴蜀定理",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/bezouts.md",
+      "source_sha256": "2ec291c706c628cee2a1ddbe875a036f6596cbd1604d456e18a11ae4bba24dab",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/congruence-equation",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/congruence-equation.md",
+      "source_sha256": "b9170d0e8e33890c50cfcd673d4afb7d0997992b24286365bcfe9c5e1b6ec654",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/continued-fraction",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/continued-fraction.md",
+      "source_sha256": "ae7462f2591b00e004108cc945e0fb2410513c33dbb1469a4d322f500c69d323",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/crt",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/crt.md",
+      "source_sha256": "9c2506adbb8df5c9461ce3e9f60f4dc6f7b942f7ab4d0b8ea02d20c18c5365b7",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/dirichlet",
+      "title": "Dirichlet 卷积",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/dirichlet.md",
+      "source_sha256": "6425e75e548b81a4275679a478b22c1bf928014d2fa27f28ef0b946913386564",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/discrete-logarithm",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/discrete-logarithm.md",
+      "source_sha256": "df6b8ebcdaacfbd219a5cd5443bb047af850bf7033142ffe7f986689574b5c99",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/euclidean",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/euclidean.md",
+      "source_sha256": "e921e4c1c46ee8cc75e475a7e0522eb200736b134f4276645738b9fe480b184a",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/euler-totient",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/euler-totient.md",
+      "source_sha256": "db91f9babfa459ff54b88222b58760bc8e53e87b8fdcd4b8c94cc91361b5533e",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/factorial",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/factorial.md",
+      "source_sha256": "b65629f091c2e16c4ac2ce74c44612a615aee4c9d5918fa92c30afcce273a71e",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/fermat",
+      "title": "费马小定理",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/fermat.md",
+      "source_sha256": "1839b53cfc48791cfe3012eff20c2f900edac401b59b8632622d2b2862cce2f4",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/gcd",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/gcd.md",
+      "source_sha256": "e3fa28629c6289816f2c2923200c5be0e2b52904e776b7c0c1fb9433f0435a44",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/hyperbola",
+      "title": "Dirichlet 双曲线法",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/hyperbola.md",
+      "source_sha256": "b4bd2ce57ee9aa3ebf05df7f39a2834f232574d205dd7b86855bb05b81cd40d5",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/inverse",
+      "title": "基本概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/inverse.md",
+      "source_sha256": "97d75607b68625778689bab01598b6e682fa4f4d665c5889b70ff4ea58edf6b9",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/lift-the-exponent",
+      "title": "内容",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/lift-the-exponent.md",
+      "source_sha256": "35bc614b0290d993fa8bc4db6ae113471d78684e879d8164d1623ee43a09e482",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/linear-equation",
+      "title": "基本概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/linear-equation.md",
+      "source_sha256": "324e00b943e2bf06b0394117b363d435fd0838d56712ffd597027fb7f88f13db",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/lucas",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/lucas.md",
+      "source_sha256": "aabfd71d846932d856f2cb4ff6b1e986f9c994280c3ed1fcfa245b8f81941008",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/min-25",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/min-25.md",
+      "source_sha256": "c34bea2b103c9a9b981afac5d95de5fac6f9e3607e2e594149eb7689c5e59948",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/mobius",
+      "title": "莫比乌斯函数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/mobius.md",
+      "source_sha256": "85403ad619842bb73df57979b886663466913e17ba893fed56a3f93d7db4adf0",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/mod-arithmetic",
+      "title": "C/C++ 的整数除法和取模运算",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/mod-arithmetic.md",
+      "source_sha256": "50a0dbfea4ceac8104e21f7f6c63f755d64cb9d924055620a97d21212f0944d0",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/pell-equation",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/pell-equation.md",
+      "source_sha256": "6ac0484c0ffafe58f9de6767782ce05a87bf3308c82a81dbfaf948391941cec6",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/pollard-rho",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/pollard-rho.md",
+      "source_sha256": "2eb27b4b924956fe07bc7e46f25a7eb0f52ca0d78be6e158895676a3fdec3687",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/powerful-number",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/powerful-number.md",
+      "source_sha256": "987b5c7721c4d87707639ca729d7647126320ccf16844b43c82ee961fde334eb",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/prime",
+      "title": "素性测试",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/prime.md",
+      "source_sha256": "b31a06c9b2fa4f637cb25cea746e9820d5c0b35ddc73d6f97d702481f3a8f76f",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/prime-counting",
+      "title": "基本概念与记号",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/prime-counting.md",
+      "source_sha256": "89fd160e5f6cb49e8bdcfbc2908b6d857224b65d7bfb97023e3e5c10e454ed66",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/primitive-root",
+      "title": "阶",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/primitive-root.md",
+      "source_sha256": "3d37c3d7afb70a77a027ae4b1f5cdde7ee8f64b276c51f0e77ee17eded6ef66a",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/quad-residue",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/quad-residue.md",
+      "source_sha256": "f6409e942cd3e85846e6f830a88dd34f1876dcc863ab0f4ee9b82b0d224431aa",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/quadratic",
+      "title": "基本概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/quadratic.md",
+      "source_sha256": "bbea8440d5427addd4135c8c07216242d3e1ef854fa149414a95cbfa4ce78677",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/residue",
+      "title": "高次剩余",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/residue.md",
+      "source_sha256": "433e63ed611e7c747feb6e4d8437950682bd8216418cd594ed83f1fa2c26b847",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/sieve",
+      "title": "素数筛法",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/sieve.md",
+      "source_sha256": "9d35d132f3824731584d09f7c0b5fa9e2eff3d388544b1becc0783e38e475cf6",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/sqrt-decomposition",
+      "title": "思路",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/sqrt-decomposition.md",
+      "source_sha256": "d942aa2bd3a5f961f582b37d54acb606f3287db2be5e1b5d44a48d1b36a14765",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/stern-brocot",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/stern-brocot.md",
+      "source_sha256": "288ecdabd06227b2634aff8297f24233dcdbfb7d355bb0d1740816fd57eb941f",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/number-theory/zhou",
+      "title": "前置知识",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/zhou.md",
+      "source_sha256": "c16b896aed618fb55f58d2790568e55b0197edc17ea06052893904d6926c6e85",
+      "codeforces": [
+        "1899A",
+        "472A",
+        "1370A",
+        "1859A",
+        "749A"
+      ]
+    },
+    {
+      "path": "math/numeral-sys/balanced-ternary",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numeral-sys/balanced-ternary.md",
+      "source_sha256": "53b4ffba0118a71b6502b6e1541d83b69c8d28cdc3ba2c6b80e7273b74512a14",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/numeral-sys/base",
+      "title": "不同进位制间的转换",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numeral-sys/base.md",
+      "source_sha256": "462c7970ddcf16f1b51c319cacbb249831d6926234442700e5c1343e2e0a447b",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/numeral-sys/gray-code",
+      "title": "构造格雷码（变换）",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numeral-sys/gray-code.md",
+      "source_sha256": "af9dd5a4abe47609c33a4790580a5175d924493f8eeb286f4b985b2c8b918eda",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/numeral-sys/intro",
+      "title": "参考资料与注释",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numeral-sys/intro.md",
+      "source_sha256": "209d9c9bf2f0b4d33a6f07375d8e7950c8f577ab9634d1686d4a52734582d52f",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/numerical/gauss",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numerical/gauss.md",
+      "source_sha256": "2d93b6a19bcf069915df559e675dd953694a032cddcaccc376a99293eeee125b",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/numerical/integral",
+      "title": "定积分的定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numerical/integral.md",
+      "source_sha256": "255b82fa1ce6b5379a609ccf68c4cbce60bfec0414c120adf7b7e4c0304e6b26",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/numerical/interp",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numerical/interp.md",
+      "source_sha256": "469bbf0e909cbdebded34b5ab46a4d59e22f0767e5467eaa03468b5c24e9f3c4",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/numerical/newton",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numerical/newton.md",
+      "source_sha256": "75165a58fe6f6e50eeb27e17b1af6b66d62cb106c933d2e5261d6bfa53919254",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/order-theory",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/order-theory.md",
+      "source_sha256": "4f2cd6c4ba0df015f6f2c8965df6966b01d1c7b3be419a1f311e39ea3ab8be66",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/permutation",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/permutation.md",
+      "source_sha256": "d38fe3f5deffb7d46e8e2e30d384437cd7253f594a8c0e58f3deab8cd7ce05ed",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/comp-rev",
+      "title": "形式幂级数/多项式的复合",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/comp-rev.md",
+      "source_sha256": "dd09454649980cc16de9fdd9e091d93934e4af971a712f9fad3931e3a7ab1758",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/czt",
+      "title": "Chirp Z 变换",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/czt.md",
+      "source_sha256": "da0432e1e92f38aa24a5fd5ce21663257659589cd648376bc403b2c2b10b62b4",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/egf",
+      "title": "基本运算",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/egf.md",
+      "source_sha256": "1d42b126fafb79d6d4afe0088fefd74df53bdabe85182ddb451e41d07ec4ef44",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/elementary-func",
+      "title": "多项式求逆",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/elementary-func.md",
+      "source_sha256": "b36a3d67af564e869b1c9dbc15250458f4a38e90a24d2debcf14c191f2129b8c",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/fft",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/fft.md",
+      "source_sha256": "c595d4339b024c333e18724e931f18c30d20e037c40755eb0540d0adc9f1b34b",
+      "codeforces": [
+        "2203B",
+        "2072F",
+        "1909I",
+        "1559E",
+        "2025E"
+      ]
+    },
+    {
+      "path": "math/poly/fundamental",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/fundamental.md",
+      "source_sha256": "f47188e95d1e2ac6c202a9e7ff03a378f561373ff69c7193eac1ed378b10d67b",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/fwt",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/fwt.md",
+      "source_sha256": "a1bfc8f6f1b1a555ada2c1012c3659ad310f8cec2caef727d157e3fcfda4056d",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/intro",
+      "title": "多项式与生成函数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/intro.md",
+      "source_sha256": "f22f5556d0c03b29013fc2e77500f1e6d594f74bff9e5d20090bffdb7c3dee0f",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/lagrange-inversion",
+      "title": "形式 Laurent 级数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/lagrange-inversion.md",
+      "source_sha256": "478b242662500bb00de0b27c693a5fca28faa36bd5f0d1db6a6bcdf68c9ae586",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/linear-recurrence",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/linear-recurrence.md",
+      "source_sha256": "1bc8f21306e26249719f86973795a86e28023755b5e2f30577339587f1c57d16",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/multipoint-eval-interpolation",
+      "title": "多项式的多点求值",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/multipoint-eval-interpolation.md",
+      "source_sha256": "9c8b1608f873c9952cf7fcb959dc98d6b823fdfcbe88ac3c1d7cbc9a7b1fd5d4",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/newton",
+      "title": "描述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/newton.md",
+      "source_sha256": "671768e3195532f3751174974c26df385caf75ccdf0e199d9d718d7a9f0192aa",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/ntt",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/ntt.md",
+      "source_sha256": "0c50061c7f84c0e379bd6bcb4e8188d40f5fc925a0b30adccb6d526f16ccaad2",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/ogf",
+      "title": "基本运算",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/ogf.md",
+      "source_sha256": "2e5bcf05dc0246a6fea40ca51080cbda7ea31b2f14724137b2487a8824a21630",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/shift",
+      "title": "多项式平移",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/shift.md",
+      "source_sha256": "537b5cfeae9f3d658323cf0d4314adbf5acb8f01c7b84df59b93792dc674ad6b",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/poly/symbolic-method",
+      "title": "无标号体系",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/symbolic-method.md",
+      "source_sha256": "f25aaa236346b2c97d273eccc956d298c9ea7a498499f0cb0855e896f137626b",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/probability/basic-conception",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/basic-conception.md",
+      "source_sha256": "cf685440a2b90f130948701bf136ecd76a6725d377dcc3eb9291e71ed419678b",
+      "codeforces": [
+        "9A",
+        "1459A",
+        "1788B",
+        "476B",
+        "312B"
+      ]
+    },
+    {
+      "path": "math/probability/concentration-inequality",
+      "title": "Union Bound",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/concentration-inequality.md",
+      "source_sha256": "ad10cf0f9a6729f72151d2c51b1cd9c51202379ba66c3b6dc2ba05cea5f93f24",
+      "codeforces": [
+        "9A",
+        "1459A",
+        "1788B",
+        "476B",
+        "312B"
+      ]
+    },
+    {
+      "path": "math/probability/conditional-probability",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/conditional-probability.md",
+      "source_sha256": "ccd0555573fe8f5b798d88c2dfadaa2ba1522ba950ba34da064a8ee0622c411b",
+      "codeforces": [
+        "9A",
+        "1459A",
+        "1788B",
+        "476B",
+        "312B"
+      ]
+    },
+    {
+      "path": "math/probability/exp-var",
+      "title": "期望",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/exp-var.md",
+      "source_sha256": "e63bef76eae21bd86bce16893462d81b1368a32e9c8e70336d9f8a7a99987e94",
+      "codeforces": [
+        "9A",
+        "1459A",
+        "1788B",
+        "476B",
+        "312B"
+      ]
+    },
+    {
+      "path": "math/probability/random-variable",
+      "title": "相关概念",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/random-variable.md",
+      "source_sha256": "2398a2cf64bcd0d2ddb607f03713311ecd2d40cd90d6b3ca5baedf4dc2b97c19",
+      "codeforces": [
+        "9A",
+        "1459A",
+        "1788B",
+        "476B",
+        "312B"
+      ]
+    },
+    {
+      "path": "math/simplex",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/simplex.md",
+      "source_sha256": "878d0eb3c712bcdd60380c297b75d08d4b7a3ba12b7bf1cea4a0636e92420e2a",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "math/young-tableau",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/young-tableau.md",
+      "source_sha256": "b657e2292c79ed82b26d2f5322fd892db952fd79db158099d9d997b8babee707",
+      "codeforces": [
+        "4A",
+        "50A",
+        "617A",
+        "546A",
+        "486A"
+      ]
+    },
+    {
+      "path": "misc/15-puzzle",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/15-puzzle.md",
+      "source_sha256": "3e526982bb4f434b17499d6784654520f47132d2c6d896102d6728213713971e",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/cc-basic",
+      "title": "问题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/cc-basic.md",
+      "source_sha256": "59705458b0bb678041bea0ac6c620ee4a1367a81eddf64a09430097d0de837c8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/cdq-divide",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/cdq-divide.md",
+      "source_sha256": "c0a7db5e9594cd3818108f4315188c25aeba73a978c2422dae0923b9c5ce6fd9",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/discrete",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/discrete.md",
+      "source_sha256": "9a000669309ac94ec88e67f70bd9138b2ddcfbba95f3b46a40069a021ce00ce8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/endianness",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/endianness.md",
+      "source_sha256": "e6b04134653af798251be4b332501630664d51b3f3dd13fa2a2cee0114b886c5",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/expression",
+      "title": "表达式树与逆波兰表达式",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/expression.md",
+      "source_sha256": "193c99cae54d018a3125ce72ab5f646334a41bfb9be2df8b9e85ce8c66eb15c8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/frac-programming",
+      "title": "求解",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/frac-programming.md",
+      "source_sha256": "d32c31a010587feb077f7798f5ae6dbc9dc7661ad6ca4ee41533099657c28a21",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/fsm",
+      "title": "自动机入门",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/fsm.md",
+      "source_sha256": "cfea51d9d9a9a34484dda28b8d3d7c5609c31ea0513eccafd97db4113f47e96d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/garsia-wachs",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/garsia-wachs.md",
+      "source_sha256": "56e56a56a9756ab5c0c737bb848489def077aa28e5810089ea5f8a695b2565a6",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/hill-climbing",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/hill-climbing.md",
+      "source_sha256": "2eb969c22af1c791afdea06efe2244e50b634d654b580a55510ca98b47aa6aee",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/hoverline",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/hoverline.md",
+      "source_sha256": "06b6336aace58bc996b332df17dffe95a54e6d1eef842d5f67f61d14198661a6",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/index.md",
+      "source_sha256": "ce3f7a75e695beb4d1cc48b9137969091d8d77da9d0ce1c62a26dd88a5df8bd5",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/job-order",
+      "title": "特殊的代价函数",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/job-order.md",
+      "source_sha256": "d84c603fe79ba0cf961300ea57625457e083d6e7b5b9476c31e23e8d91581b4e",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/josephus",
+      "title": "问题描述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/josephus.md",
+      "source_sha256": "52a46672055501e304b3a4ac3d7bd9f62d64690d24012598e2c25f2645af36ee",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/kahan-summation",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/kahan-summation.md",
+      "source_sha256": "0f1277dc5d707bf1d2685cede73e6e562915dbb77ee122b5bdd58cb33a10b785",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/main-element",
+      "title": "问题介绍",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/main-element.md",
+      "source_sha256": "72be10acbd97a90520da0192c415c9621b9fbb8361eec5da74f2e6f36320b1e7",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/mo-algo",
+      "title": "形式",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo.md",
+      "source_sha256": "2e935c60e9534b469748b0bf1f694a5b34b95c6e142b16e3469dbc6c1d7b0961",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/mo-algo-2dimen",
+      "title": "块长选定",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-2dimen.md",
+      "source_sha256": "ab1d5995408c5a0c2855f318902b33e45136ed8336398d282360af429c668170",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/mo-algo-intro",
+      "title": "Mo Algo Intro",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-intro.md",
+      "source_sha256": "939c359751250b84531c5d2cdb95322422c934af6b3e1f48ca580086fa2978a6",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/mo-algo-on-tree",
+      "title": "括号序树上莫队",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-on-tree.md",
+      "source_sha256": "1a0ad6b98cfdb52cd167f7d37476c8c278c3acdef9adb5e459daf13aaddae22c",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/mo-algo-secondary-offline",
+      "title": "综述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-secondary-offline.md",
+      "source_sha256": "39450ae398c6b7317377b71d0531dcaad0d3aa819951bb9c145e34e707f91a4d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/mo-algo-with-bitset",
+      "title": "例题 [「Ynoi2016」掉进兔子洞](https://www.luogu.com.cn/problem/P4688)",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-with-bitset.md",
+      "source_sha256": "fc48cc050f66a5276a5b86f233b6ad1d10110278be81d6b642976485a73d1035",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/modifiable-mo-algo",
+      "title": "特点",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/modifiable-mo-algo.md",
+      "source_sha256": "7dcb9019f5ed6a88ccdfcc497e97cff074470019a496e01c88ba7882d80bd65c",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/odt",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/odt.md",
+      "source_sha256": "a677df953b4ee56582fcd986e7545d04bad58183eee32d68a8ce0b1900159fee",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/offline",
+      "title": "Offline",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/offline.md",
+      "source_sha256": "143c8d23b8a5a8a567ea503096793f18e0281d195ceb0d07bde10f11fdb5ce88",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/parallel-binsearch",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/parallel-binsearch.md",
+      "source_sha256": "274731514501d89cc7467e0169e9d5f9666d0279bba14ba1517bf22c0033604c",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/rand-technique",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/rand-technique.md",
+      "source_sha256": "fa397493463e5888eab5ecf0e5aa21c55e785e3c0c689defff064f2644ec6ce3",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/random",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/random.md",
+      "source_sha256": "1045b4aa75bd5d47560aa596030e549e0033754f3c885017c9daf06b0731a0d6",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/rollback-mo-algo",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/rollback-mo-algo.md",
+      "source_sha256": "870bdece84ce104c0a167c912dac96dd6d5ff0c6dc7c11644747fc7f821a6ba7",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/simulated-annealing",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/simulated-annealing.md",
+      "source_sha256": "bcfdf88e182fc82c1c95ccb2537832d58b12dcb0882dd008061e5b17255455bd",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/space-optimization",
+      "title": "信息熵",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/space-optimization.md",
+      "source_sha256": "f7c1eaa975458a57e5707ebfe87874ad4caacbe64e5407ae14c01811f87329c8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "misc/two-pointer",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/two-pointer.md",
+      "source_sha256": "60afe26ae9f555752a57e930401b51fb0ce1f398d575e8cf979869d253e58c4a",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/alpha-beta",
+      "title": "Minimax 算法",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/alpha-beta.md",
+      "source_sha256": "99adb87178e9a899108a03a358f0b454b187e133c3c86ba835466d3750d2aa4a",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/astar",
+      "title": "过程",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/astar.md",
+      "source_sha256": "942f9c1d6c6d7b27c57a74cef8a7815c1cc63ebf3e4d467d2646e450114b639d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/backtracking",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/backtracking.md",
+      "source_sha256": "caa31dff39923aa8d23c1d155f7344d0025779e5b3a225284689ac308cf0d055",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/bfs",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/bfs.md",
+      "source_sha256": "7eab4ea8af6bcbc3d7842c35bb64b4f2eddaba988fd486e3e16bd49cc3c7ca2c",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/bidirectional",
+      "title": "双向同时搜索",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/bidirectional.md",
+      "source_sha256": "c3a22a0cb2feff15e00db37e7d93dc0da1806d97ee7d0be5b5046cf6cdb4f080",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/dfs",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/dfs.md",
+      "source_sha256": "15f7e88fdbf9bb9a0afd4754a4073fd805671fbf0ee35f4f3d0798c83b0e9043",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/dlx",
+      "title": "精确覆盖问题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/dlx.md",
+      "source_sha256": "4cac2031c1cd44ca772e0b0753bc17c62617f78dc764aadf8e636f404d7948fa",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/heuristic",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/heuristic.md",
+      "source_sha256": "870e87724a49b5bdbb9599f52ba70e0d515dc21228166ec8ff6f6bf9cebbec8a",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/idastar",
+      "title": "过程",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/idastar.md",
+      "source_sha256": "0921097e86c04518ec3f23a7e6aaa77a97cc89fa96be171c869c24f9755cff02",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/index",
+      "title": "习题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/index.md",
+      "source_sha256": "bbb55bbdbb8bd9f7a82124935d82f0b42832220b55fad042a94272eea61d9899",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/iterative",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/iterative.md",
+      "source_sha256": "3c4c384af609b656b82bccd5d808308b4a10492faed70862ccbf17684cf5d92d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "search/opt",
+      "title": "前言",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/opt.md",
+      "source_sha256": "747101a920de79e1a5974a39271bc4c775f007885187ec2450b2de1c18b105a4",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "string/ac-automaton",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/ac-automaton.md",
+      "source_sha256": "87681f4e07e7e764dee709c1ebb2ab82852081cb879922d6ee8db0c86ffda46b",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/basic",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/basic.md",
+      "source_sha256": "76d273fe65a55be1a37f624f66c9994bd57d7be96b6274a12c42c3a469cb7415",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/bm",
+      "title": "引入",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/bm.md",
+      "source_sha256": "e823e95ac81037a7bee8311e2b66eaaf0dfba78f4f87b0eb893d04524483ff82",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/general-sam",
+      "title": "前置知识",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/general-sam.md",
+      "source_sha256": "f38ae26b0ee91a637fae6900c3f2ba72e0cc1a5d33c1bcff035c73d0d05949e4",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/hash",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/hash.md",
+      "source_sha256": "a2dae86787f174221ed5152555dc118e4789e22b1179281df494d00f65538485",
+      "codeforces": [
+        "525A",
+        "1800D",
+        "1553B",
+        "1451C",
+        "182D"
+      ]
+    },
+    {
+      "path": "string/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/index.md",
+      "source_sha256": "b75a47855341f809f552130d21ef04f68677c7bb28c1f571fa792cf58a4fcb9c",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/kmp",
+      "title": "字符串前缀和后缀定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/kmp.md",
+      "source_sha256": "5e5155400eaa7e0ec25b2e425b61b5e3b15a536ef23fa60d62652f7daaa11a5d",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/lib-func",
+      "title": "C 标准库",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/lib-func.md",
+      "source_sha256": "ab52f69ca977d67f508179b116942db010c1d32250ef85cdb052b63d0d17a95b",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/lyndon",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/lyndon.md",
+      "source_sha256": "4cdfa9320efc55a03070b2ac2ae392b704fc0a55d8b7123e2008d45cd315ce4d",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/main-lorentz",
+      "title": "重串",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/main-lorentz.md",
+      "source_sha256": "c90c583823ac09fc294e1bd27282eb44ef28e9e55d42a7a988939f6df37a3689",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/manacher",
+      "title": "描述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/manacher.md",
+      "source_sha256": "9e1f0aaa0530901788ff396be52405dbfedf7253689d5d83eb63042e6e026e67",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/match",
+      "title": "字符串匹配问题",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/match.md",
+      "source_sha256": "152e251994c9434ef3112694b783eba4a9c348cc10aa79f37f0db99a3a92c014",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/minimal-string",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/minimal-string.md",
+      "source_sha256": "019729798b22ca778e5197907c070f96323aee03d7e172026faf2090ef93cd6d",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/pam",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/pam.md",
+      "source_sha256": "16c3ae7f074b9c255d2f26c0d79cf2b9c800d40175ff997a367a351dd7f5bbba",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/sa",
+      "title": "一些约定",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/sa.md",
+      "source_sha256": "be3752c16b952a12c3f960d8ceeb1c202d16e0c0a79feeba91bdadc410aa73b1",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/sa-optimal-inplace",
+      "title": "全局设定",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/sa-optimal-inplace.md",
+      "source_sha256": "59033c47f604d61cdf9a8544be474aff5bf3cb8a5eb25f55f218919efd97c2c1",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/sam",
+      "title": "一些记号",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/sam.md",
+      "source_sha256": "7ea904b614a47e7cd9e5f5ac1c8f7b69c4fefeb260bb1c7a1a02f26c7f2582f4",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/seq-automaton",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/seq-automaton.md",
+      "source_sha256": "e58c24f1eebda6437678658dda74104f2a84b3f1e57281f708746e7e97935265",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/suffix-bst",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/suffix-bst.md",
+      "source_sha256": "6d08e427fa5eab92d167372b05196ebf029705dea2bf66d7954725ec24ae3e9b",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/suffix-tree",
+      "title": "一些记号",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/suffix-tree.md",
+      "source_sha256": "4d36492aa817c34b4c1a6ce2af6beaa3d1116570123da97a8e0d284ae33a7fff",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/trie",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/trie.md",
+      "source_sha256": "871ef742b4a16ac3f80bdc3f3ec010ee21d3f64b11fcde87a7f0eb6f70485ec4",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "string/z-func",
+      "title": "定义",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/z-func.md",
+      "source_sha256": "468253613174de80de2cfc57f9fe920617411865d1f258e7aa0d8056208aa5e3",
+      "codeforces": [
+        "71A",
+        "112A",
+        "236A",
+        "339A",
+        "281A"
+      ]
+    },
+    {
+      "path": "tools/cmd",
+      "title": "基础",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/cmd.md",
+      "source_sha256": "cad54b5cd73774b3c482b7d98591029803d6cf5021419d7c4ae3791321d9dc3e",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/compile-debug",
+      "title": "命令行使用 g++ 编译 cpp 文件",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/compile-debug.md",
+      "source_sha256": "d300bbe978a8e31b95dd8cb8d5844b523908b02a392d27e37ce6cb1ad2ebf4b6",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/compiler",
+      "title": "GCC",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/compiler.md",
+      "source_sha256": "b401562d7c925cc118ac18d0def7f5cdcda9bd94eb917987df6a53e0f6255b4b",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/atom",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/atom.md",
+      "source_sha256": "d3bb98851715f304d6cee668d83f4c9a3b5cae359c2d8ceb56034f06e16c11b2",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/clion",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/clion.md",
+      "source_sha256": "288f4c98cd20299cea52782ce14ae7afbf1f59f2e80c6c9c17d0bf92f1482f51",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/codeblocks",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/codeblocks.md",
+      "source_sha256": "8e05814acbe905d1f09190b74341970321004ea4f7e91d062aa0a93951517360",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/cpeditor",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/cpeditor.md",
+      "source_sha256": "199bf74ff313c0337b55c8f7a220d15c99edde93ae68983d722d4c2abbc92de4",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/devcpp",
+      "title": "介绍",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/devcpp.md",
+      "source_sha256": "47a0fb99b64b0de577f6431301bad7c610f05379966e34f36eeacdcb33ca9a6f",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/eclipse",
+      "title": "介绍",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/eclipse.md",
+      "source_sha256": "c298c78652f098992184a3554ec86ef3f7e0ea1d81cc391da32cadc7d86a32f8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/emacs",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/emacs.md",
+      "source_sha256": "4bb843469fb5c80c67843a3c44357f7ad6f7cb988bc17addacd4706997fbf195",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/geany",
+      "title": "优缺点",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/geany.md",
+      "source_sha256": "af6295506b072307af5e02a3526d24ce179b3e9a414bb57e3a1c642447062bd9",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/guide",
+      "title": "安装",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/guide.md",
+      "source_sha256": "6e346c6f0db95e525df7253ebe5e8d879584aa901c6b7dbcfc717ae70c64354d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/kate",
+      "title": "软件简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/kate.md",
+      "source_sha256": "59cf62c6b3f6f85ef0018e5435828bb76bb63b6ddc261952554756af1a8bc91d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/npp",
+      "title": "软件简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/npp.md",
+      "source_sha256": "14bb8fe49eedbd687b349cf6eb1ecbdce2e78cf8789268f87f4bcfd277e01830",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/sublime",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/sublime.md",
+      "source_sha256": "5e1c22666864d772d0e86fb1817d5098f43f9dd75d63522a13df24f4fd3ce4bc",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/vim",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/vim.md",
+      "source_sha256": "05da6175de8ed56d6d2b0b46ee0169ba52ef83ebaeff3bb22487c3841ff7eb26",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/vscode",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/vscode.md",
+      "source_sha256": "129644044810e70d8f09170f9685ce348d79f96b485f53b1724b21f53a85ff4d",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/editor/xcode",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/xcode.md",
+      "source_sha256": "c1ee19e6139151efeba762cdfd8caefca04e55761e705fb3c89ef314464d8c32",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/git",
+      "title": "安装",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/git.md",
+      "source_sha256": "fa908dee7f975ef8d5dc28bdcdb7b91a98c025f23fc224167b372ffeb28910e2",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/index.md",
+      "source_sha256": "d38f8c272296ab614f6d5017dac20d5a2b7e40e12aebdd6b753cdd704f49c5fb",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/judger/arbiter",
+      "title": "Arbiter",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/arbiter.md",
+      "source_sha256": "6deca77c3b6715ff1425ff1352efb2e153406d577f2c57c328ad4f120ae1fddb",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/judger/ccr-plus",
+      "title": "CCR Plus",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/ccr-plus.md",
+      "source_sha256": "c619eb1693dce0bb7418ed37910e0942bc5f1af44ed592f3c98c23e295c977f7",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/judger/cena",
+      "title": "Cena",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/cena.md",
+      "source_sha256": "dc4cc21d787983397727a559b11df45ade8ce2f81c8ed6e7b5494fd53d9afc50",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/judger/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/index.md",
+      "source_sha256": "c131039a2fed173e5b3d4d1e25311403ccfed1021c80bdc1a8a4ac1dee767595",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/judger/lemon",
+      "title": "Lemon",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/lemon.md",
+      "source_sha256": "48e6d5c4a33732bbd1e3a177429de640118d9e42887748fee1fe402447cb4e7f",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/latex",
+      "title": "介绍",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/latex.md",
+      "source_sha256": "fd0f80dd6d43e849c31d9c1e3bd101585d11ff0ab3c56426e52746aaa181e4c8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/oj-tool",
+      "title": "cf-tool",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/oj-tool.md",
+      "source_sha256": "9f71268de0cc3249e878a243ae4f72d1e7f22aa11449f65fda78dab2274e711f",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/polygon",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/polygon.md",
+      "source_sha256": "de17baa789f77e6d09a133b7d1c9f9f78148b553fb8166a88833834c96e8d159",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/special-judge",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/special-judge.md",
+      "source_sha256": "52266de99931824662032bcf27f6fbad7e655680e473834b895164d21d1eb775",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/testlib/checker",
+      "title": "简单的例子",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/checker.md",
+      "source_sha256": "fd5955df7b5d32030fe10050bc82c53a1b41f529a1a1b0d913044c32bb5fe648",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/testlib/general",
+      "title": "通用状态",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/general.md",
+      "source_sha256": "2f318e153b0ff21f93c168c2f1ff38b63eae1c1c32e6169595ee3385debd0e96",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/testlib/generator",
+      "title": "简单的例子",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/generator.md",
+      "source_sha256": "871f2fc59d89c3888124b3d000cf5b5d6d22d3b6c289452e3064de7991e430ef",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/testlib/index",
+      "title": "Index",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/index.md",
+      "source_sha256": "846f6a2836998e9533b256f809eba4d403502b5003bf7cf80a4f56cb7cb4364f",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/testlib/interactor",
+      "title": "用法",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/interactor.md",
+      "source_sha256": "f43b21a1eaea7628907f4b9835dba427a617e5f4e8fc9109abcec61bf7d88096",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/testlib/validator",
+      "title": "概述",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/validator.md",
+      "source_sha256": "6e79a0e920940b056d5c20230a1bc77832d5f6eace7ac380123e4b7732a3d7ee",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "tools/wsl",
+      "title": "引言[^ref1]",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/wsl.md",
+      "source_sha256": "3743d225ef659d5f7001f33de9179fc97d9c7144db47a1c056d10994e17f3822",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "topic/bracket",
+      "title": "判断是否合法",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/topic/bracket.md",
+      "source_sha256": "4808b03c116c7d968daeabaa67046901c374ae88480fca34df484d5d7f1ea10f",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "topic/dsu-app",
+      "title": "A",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/topic/dsu-app.md",
+      "source_sha256": "21dc8ec05e548964bac3625022052a6461c984fdfe9fb08b3e8be139522619ee",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "topic/rmq",
+      "title": "简介",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/topic/rmq.md",
+      "source_sha256": "9d3679aabec24ff20a7aa4f9cd83c034a19edc54a6d168a31af5871a49932ca8",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    },
+    {
+      "path": "topic/segment-tree-offline",
+      "title": "过程",
+      "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/topic/segment-tree-offline.md",
+      "source_sha256": "ffd3364bec7dca52b40e692539cd58c21c1b33994e56128dbadd40e062f45383",
+      "codeforces": [
+        "282A",
+        "158A",
+        "263A",
+        "112A",
+        "236A"
+      ]
+    }
+  ]
+}

@@ -82,7 +82,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: testpypi
-      url: https://test.pypi.org/p/mypython-template-fufurobot
+      url: https://test.pypi.org/p/mycodeforces
     permissions:
       id-token: write
     steps:

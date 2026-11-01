@@ -336,7 +336,8 @@ def sync(
     mappings = map_pages_to_problems(pages, problemset)
     update_manifest_mappings(root, mappings)
     print(
-        f"Mapped {len(pages)} wiki pages to five Codeforces practice candidates each."
+        f"Mapped {len(pages)} wiki pages to five globally unique "
+        "Codeforces practice candidates each."
     )
     fetch_and_save_all_samples(root, mappings)
     problem_count = len({problem_id for ids in mappings.values() for problem_id in ids})

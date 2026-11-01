@@ -18,8 +18,8 @@ uv sync
 ## Commands
 
 ```bash
-# Index pages, map five Codeforces practice problems to each page, and fetch
-# their sample input/output into tests/data/ without translating the whole wiki.
+# Index pages, map five globally unique Codeforces practice problems per topic,
+# and fetch their sample input/output into tests/data/ without translating all pages.
 uv run mycodeforce sync --problems-only
 
 # Translate the requested page to your system language and show it.

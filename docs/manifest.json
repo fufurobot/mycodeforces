@@ -9,10 +9,10 @@
       "source_sha256": "5797b4c9d3ea280052590c4b65856edf8afafeae679d1255f24402cd80971e3c",
       "codeforces": [
         "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2112A",
+        "1678B1",
+        "591A",
+        "1088B"
       ]
     },
     {
@@ -21,11 +21,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/binary.md",
       "source_sha256": "2caa30dccea167bd7f2c27f761edb1edba5c0ffd27cc7d3b834c530b843e666a",
       "codeforces": [
-        "282A",
         "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1989A",
+        "2264A",
+        "496A",
+        "122B"
       ]
     },
     {
@@ -34,11 +34,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/binary-lifting.md",
       "source_sha256": "75cec2f087219fa46baae384c840e8198b2b6542da71f89b6a630a43ef7d38b8",
       "codeforces": [
-        "282A",
-        "158A",
         "263A",
-        "112A",
-        "236A"
+        "988A",
+        "950A",
+        "1025A",
+        "535A"
       ]
     },
     {
@@ -47,11 +47,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/bubble-sort.md",
       "source_sha256": "b3c3c9eb0dcf7e58cbabd174cf4bd27333ef19c0af39349df8d014d2f197c4c3",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "791A",
+        "294A",
+        "1672B",
+        "1008A",
+        "2269B"
       ]
     },
     {
@@ -60,11 +60,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/bucket-sort.md",
       "source_sha256": "518a8c80b7d13177dbb775b7659bd8e79e8cfdb3bb5173ecb37ab169f3f3dec7",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "266A",
+        "1922A",
+        "1243A",
+        "215A",
+        "893B"
       ]
     },
     {
@@ -73,11 +73,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/complexity.md",
       "source_sha256": "d3b9b3579eb5dcabadf64178beb8311a6ab68b1e1805780340f7eadfdbb63561",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "546A",
+        "1946A",
+        "454A",
+        "1313A",
+        "1140A"
       ]
     },
     {
@@ -86,11 +86,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/construction.md",
       "source_sha256": "0d4ae0d0df578d6893ae974314827576cec7dbc5c1a3b0a2afe4b57f043a942a",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "977A",
+        "1005A",
+        "1152A",
+        "1505A",
+        "1225B1"
       ]
     },
     {
@@ -99,11 +99,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/counting-sort.md",
       "source_sha256": "b275278fa6f06b30f44d31d21f1dccbffde34f49bc530f76f741d978fc732162",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "110A",
+        "1644A",
+        "1530B",
+        "11A",
+        "864A"
       ]
     },
     {
@@ -125,11 +125,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/enumerate.md",
       "source_sha256": "f0274d7a1a7e6682629619dc8d67e930ef92db923f59c8e0a7ece10a96f3ed33",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "677A",
+        "2125A",
+        "2161A",
+        "915A",
+        "670B"
       ]
     },
     {
@@ -138,11 +138,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/greedy.md",
       "source_sha256": "06d9cd67d85c1365c7f0bc41793054b319b006e632c6ca483ce59342b53005a7",
       "codeforces": [
-        "339A",
-        "469A",
-        "381A",
-        "1900A",
-        "490A"
+        "1744A",
+        "1802A",
+        "1106C",
+        "1215A",
+        "902A"
       ]
     },
     {
@@ -151,11 +151,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/heap-sort.md",
       "source_sha256": "5ff70ce96787f436f71bb310488850c02b04ba3335bb6797d6e9221745c98fd8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "116A",
+        "1721A",
+        "12A",
+        "1016A",
+        "887A"
       ]
     },
     {
@@ -164,11 +164,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/index.md",
       "source_sha256": "254c44059660ae3c6f55cbaafddb9f1aa1e9aafc9ed3e6762327a5e29d7a456c",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1030A",
+        "1856A",
+        "1649A",
+        "914A",
+        "757A"
       ]
     },
     {
@@ -177,11 +177,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/insertion-sort.md",
       "source_sha256": "5e045c01e951d2e3cb36fe90818fee05fa84f98ef80abae6805cf124a21c9a93",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "266B",
+        "1547B",
+        "1670A",
+        "2157B",
+        "583A"
       ]
     },
     {
@@ -190,11 +190,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/merge-sort.md",
       "source_sha256": "2f7ef7fc221404ae0a3e9f55e80b5bde803485ce21565c9124e0fd82ff7e88b6",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "486A",
+        "1560C",
+        "908A",
+        "903A",
+        "5A"
       ]
     },
     {
@@ -203,11 +203,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/prefix-sum.md",
       "source_sha256": "0ce9759d4cca11642ee9fa06c2728a40134902cef3f833efe873c7d447b39eab",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "467A",
+        "38A",
+        "1104A",
+        "1282A",
+        "691A"
       ]
     },
     {
@@ -216,11 +216,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/quick-sort.md",
       "source_sha256": "5b0e3ce5942a4fdbab3ef15d3cbf44f0d72579698df8ee5b6152e120af1ea59e",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "344A",
+        "1701A",
+        "78A",
+        "892A",
+        "939B"
       ]
     },
     {
@@ -229,11 +229,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/radix-sort.md",
       "source_sha256": "781eed412d87e4daf9258afb601fc6f209f2537c956df869acc3802b06b8b11b",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "200B",
+        "1487A",
+        "2172A",
+        "839A",
+        "435A"
       ]
     },
     {
@@ -242,11 +242,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/selection-sort.md",
       "source_sha256": "0305086f6ac0ef32dbdf56491d0bdc27ebde73515ac8a0583072111a3f282776",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "136A",
+        "1982A",
+        "1038A",
+        "841A",
+        "990A"
       ]
     },
     {
@@ -255,11 +255,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/shell-sort.md",
       "source_sha256": "8148ab19437907e313a11b05116d32b84f36870bfb00b96aa4cf5fc3f067e9e9",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "228A",
+        "2134A",
+        "1307A",
+        "63A",
+        "1073B"
       ]
     },
     {
@@ -268,11 +268,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/simulate.md",
       "source_sha256": "7b96facba3f0a3f1a3770c31f1dcae262dd543078cdcdca43fb364fe82a04fd0",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "61A",
+        "1351A",
+        "49A",
+        "697A",
+        "991A"
       ]
     },
     {
@@ -281,11 +281,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/sort-intro.md",
       "source_sha256": "0785e05b20ff65edc581abf4af40eb0cee8ea1d2381c5b0605712e1d04cc3d8a",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "705A",
+        "1913A",
+        "678A",
+        "1011A",
+        "831A"
       ]
     },
     {
@@ -294,11 +294,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/stl-sort.md",
       "source_sha256": "0e4671084443f1b29902a56f77d7dba3376e87c4ce8fca010dd056c33f8b4935",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "469A",
+        "2109A",
+        "595A",
+        "776A",
+        "777A"
       ]
     },
     {
@@ -307,11 +307,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/tim-sort.md",
       "source_sha256": "2ab6aa8d82b59ed78839f0bd008fcc9a64d02ba187e9eced9937e9a977b1b609",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "144A",
+        "1183A",
+        "1065A",
+        "1169A",
+        "465B"
       ]
     },
     {
@@ -320,11 +320,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/tournament-sort.md",
       "source_sha256": "13ae3efd26279f5450dd9f6e81677870e290f23df89db18555c9d106699e2482",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "443A",
+        "1041A",
+        "994A",
+        "764B",
+        "1100A"
       ]
     },
     {
@@ -333,11 +333,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/basic/use-of-sort.md",
       "source_sha256": "35efa4aa192fcda386274bbcb35d10d8ce2b8f9b6ee4124626ca5d7e842eee75",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "148A",
+        "1690B",
+        "897A",
+        "94A",
+        "862A"
       ]
     },
     {
@@ -346,11 +346,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/common-mistakes.md",
       "source_sha256": "29f635a26ef491488685146e6f8e8ae04f0f1c6398ac6481abc608d09562c813",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1742A",
+        "1697A",
+        "629A",
+        "935B",
+        "336A"
       ]
     },
     {
@@ -359,11 +359,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/common-tricks.md",
       "source_sha256": "d60d17c30964b706c9888c9b6b669de5f671ef03c3b6d93676f1d962f8b2bcc2",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "510A",
+        "1512B",
+        "710A",
+        "369A",
+        "127B"
       ]
     },
     {
@@ -372,11 +372,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/dictionary.md",
       "source_sha256": "0eb9ef45f5504e8cbc4b24c1d09d2121080f3d741b4bf16c9d43ff2488e4de21",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1352A",
+        "1651A",
+        "676A",
+        "611A",
+        "620B"
       ]
     },
     {
@@ -385,11 +385,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/icpc.md",
       "source_sha256": "b37e3f646ca84bf2f30a0958454194c6e7fcba9ea7111a65c6a5af01eab23e1b",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "723A",
+        "1569A",
+        "688A",
+        "545A",
+        "108A"
       ]
     },
     {
@@ -398,11 +398,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/index.md",
       "source_sha256": "fe10f671be984c500de9033e40d91b2b829537581b2924d8792e20d7e93a4618",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "427A",
+        "2182A",
+        "620A",
+        "408A",
+        "822B"
       ]
     },
     {
@@ -411,11 +411,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/interaction.md",
       "source_sha256": "db1923312aa008c932330b02338d0671327c030ab1d6225970d1e4794a332afe",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "151A",
+        "1995A",
+        "1786A1",
+        "1004A",
+        "622A"
       ]
     },
     {
@@ -424,11 +424,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/io.md",
       "source_sha256": "f7462146ace78db190a01bfcfcd3cc729416deb5689853e877124249d48ed30e",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "750A",
+        "1923A",
+        "1818A",
+        "1150B",
+        "552A"
       ]
     },
     {
@@ -437,11 +437,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/oi.md",
       "source_sha256": "3bef7286bef7944e33c101254b8cd84d774839585dc3763553fc86320ff48aac",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "381A",
+        "1998A",
+        "912A",
+        "168A",
+        "998A"
       ]
     },
     {
@@ -450,11 +450,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/problems.md",
       "source_sha256": "ba7e35504ae2f9d39355eb62f3db5cfdf5513586006e6dc41bef66140bd81360",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1669A",
+        "2155A",
+        "992A",
+        "373A",
+        "864B"
       ]
     },
     {
@@ -463,11 +463,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/problemsetting.md",
       "source_sha256": "ae9840847e7bb8435c660cc14033cc7431b725f7e4ab4ef4d7685e9ebd009915",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "732A",
+        "448A",
+        "1738A",
+        "808A",
+        "608A"
       ]
     },
     {
@@ -476,11 +476,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/resources.md",
       "source_sha256": "a72e26aff0ce20f8bb543412524545a517c630255f8be490c79bdb52fadd4a9e",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1676A",
+        "1822A",
+        "1143A",
+        "893A",
+        "56A"
       ]
     },
     {
@@ -489,11 +489,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/contest/roadmap.md",
       "source_sha256": "9d0ee7cad483e2e3f36d1780eb7bf08b876020dd6c50ef3e37e52db957fae489",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1692A",
+        "2037B",
+        "1523A",
+        "989A",
+        "816A"
       ]
     },
     {
@@ -503,10 +503,10 @@
       "source_sha256": "ff674ee0d088bffaaba698a8d71f3275d109bd70f8fda23b630b5da4b1179bb4",
       "codeforces": [
         "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1566B",
+        "1732B",
+        "919B",
+        "1637B"
       ]
     },
     {
@@ -515,11 +515,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/count.md",
       "source_sha256": "e351d020845c8710211c62395704bf57a2911f411982b05d3337966f1fb47c50",
       "codeforces": [
-        "996A",
         "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "2031A",
+        "1883C",
+        "1904B",
+        "2225C"
       ]
     },
     {
@@ -528,11 +528,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/dag.md",
       "source_sha256": "11298ee056942ef1c231360fa3f2601de4490c2cf8bbe2beff4016ba28b17bfa",
       "codeforces": [
-        "996A",
-        "1472B",
         "702A",
-        "1538A",
-        "894A"
+        "1323A",
+        "1182A",
+        "1971D",
+        "2252B"
       ]
     },
     {
@@ -541,11 +541,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/dp-of-dp.md",
       "source_sha256": "afb8ed1dc3a62cd735fd5cf84c276b365fe3972b2798d631088519a25ab76817",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
         "1538A",
-        "894A"
+        "1686B",
+        "1829D",
+        "1807G2",
+        "2211B"
       ]
     },
     {
@@ -554,11 +554,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/dynamic.md",
       "source_sha256": "d94a29b9a8c2041ecba26ef66624b778fc2bb05fa461beaa762781c5c49ed0cb",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "894A",
+        "910A",
+        "1941B",
+        "1631B",
+        "331C1"
       ]
     },
     {
@@ -567,11 +567,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/index.md",
       "source_sha256": "8cab7e554f06593f276b22cd7fd0af4f8ef7df226b773fb17ec550e9899d7cbd",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "2126B",
+        "2222A",
+        "2114C",
+        "2065C1",
+        "1958A"
       ]
     },
     {
@@ -580,11 +580,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/interval.md",
       "source_sha256": "f7adafa180b6fdd7d289319661a019d8a08fd76c9b8b62386eed9ce551e260a0",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1862A",
+        "2274A",
+        "1469B",
+        "1345B",
+        "489B"
       ]
     },
     {
@@ -593,11 +593,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/knapsack/advanced.md",
       "source_sha256": "c1af6fe3392c1b26398a18fd264708e57f49aa20d94da7d717020585f0121b74",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1932A",
+        "580A",
+        "1359B",
+        "1950D",
+        "433B"
       ]
     },
     {
@@ -606,11 +606,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/knapsack/basic.md",
       "source_sha256": "63f4d727c095a82140fcd98cb812a21e9d7429eb0e753902f2dfda4391f2405c",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1519B",
+        "1475B",
+        "732B",
+        "1948B",
+        "327A"
       ]
     },
     {
@@ -619,11 +619,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/memo.md",
       "source_sha256": "4206b2912be2553d08a940a90737c6d76c8fe557a7909f63e26039dfd6c7a8d7",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "2091B",
+        "1593B",
+        "1861B",
+        "1382B",
+        "1343C"
       ]
     },
     {
@@ -632,11 +632,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/number.md",
       "source_sha256": "9ddc768713e5fe34226bc7ecdd6fcfece5f5d7c25fa85558b54e7f27b41980f6",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "2244A",
+        "1941C",
+        "1499B",
+        "651A",
+        "1914D"
       ]
     },
     {
@@ -645,11 +645,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/dp-opt.md",
       "source_sha256": "6dd366cb73a684f110da20ba4a036e7d2b3447752c5eb8b14a2a6a3ea5300c37",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "2179B",
+        "1339A",
+        "1566C",
+        "1946B",
+        "1097B"
       ]
     },
     {
@@ -658,11 +658,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/monotonic-queue-stack.md",
       "source_sha256": "40907e054d8a176ec44d73f2783c911c268c68dd80a4443bcb25e5270ac7a531",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1462B",
+        "1206B",
+        "2090B",
+        "2195C",
+        "1354B"
       ]
     },
     {
@@ -671,11 +671,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/quadrangle.md",
       "source_sha256": "ca799b4a6cc5fe40ba4b108c6df194c66601af02cfd36eb7518fa06b3fbf6284",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1180A",
+        "1973A",
+        "753A",
+        "1743C",
+        "1926C"
       ]
     },
     {
@@ -684,11 +684,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/slope.md",
       "source_sha256": "7e22678047e5f61b979d97e02cb01dc3072fbbf24b92161e320d396aa78ea8c5",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "2019A",
+        "1559B",
+        "72G",
+        "1923B",
+        "1272C"
       ]
     },
     {
@@ -697,11 +697,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/slope-trick.md",
       "source_sha256": "9c9740fa0be9185e8a6e4ef232debcea6960c728b180df3a4414fbcddd048816",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1539B",
+        "2178B",
+        "706B",
+        "2173B",
+        "1472D"
       ]
     },
     {
@@ -710,11 +710,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/state.md",
       "source_sha256": "4b4761f6737c51132dd08156ad7de022aab63b1189562dea91179b73ac80ba5a",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1598A",
+        "1501B",
+        "363B",
+        "1478B",
+        "1996C"
       ]
     },
     {
@@ -723,11 +723,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/opt/wqs-binary-search.md",
       "source_sha256": "98186abab2fc69067bae2a26309b281b384b13f3b88107412f4494b2f5a8e56c",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "2210A",
+        "1900B",
+        "313B",
+        "2111B",
+        "1355B"
       ]
     },
     {
@@ -736,11 +736,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/plug.md",
       "source_sha256": "0a3dfea5ed803eba6d3a5b88fc15687b89c40ef742a0b85565f749f1c7fe80e8",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "1466B",
+        "1451B",
+        "1791E",
+        "1706B",
+        "2050C"
       ]
     },
     {
@@ -750,10 +750,10 @@
       "source_sha256": "c01f44d5508621e5f92c321c37e7236976b6ee10eb273139681c04dc3eee4126",
       "codeforces": [
         "476B",
-        "839C",
-        "1461C",
-        "2125D",
-        "107B"
+        "107B",
+        "1743D",
+        "626D",
+        "30C"
       ]
     },
     {
@@ -762,11 +762,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/dp/state.md",
       "source_sha256": "9c405df8d0fdd12f98e344ca995a4c669bdd94ed02ffa94a8d99d0e45143a78f",
       "codeforces": [
-        "996A",
-        "1472B",
-        "702A",
-        "1538A",
-        "894A"
+        "2247A",
+        "1113A",
+        "1899C",
+        "2241D",
+        "1406B"
       ]
     },
     {
@@ -776,10 +776,10 @@
       "source_sha256": "932e3155b8060d9358a64a5e94eaeac3d97ec98711839b2599d06bc50c7241f3",
       "codeforces": [
         "1843D",
-        "522A",
-        "1676G",
         "1900C",
-        "1830A"
+        "2114E",
+        "2238C",
+        "120F"
       ]
     },
     {
@@ -789,10 +789,10 @@
       "source_sha256": "2ba9a90cdc31613f62ef71cf443701ef248577c954cabb266ea929df6f115ea6",
       "codeforces": [
         "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1428C",
+        "808B",
+        "1883F",
+        "1740D"
       ]
     },
     {
@@ -801,11 +801,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/avl.md",
       "source_sha256": "3b19f48225eede70c6a4b01df7dac4e9413b1b7d0a65965c30aa61a933c12ee0",
       "codeforces": [
-        "1703B",
         "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "767A",
+        "1973B",
+        "2084C",
+        "332B"
       ]
     },
     {
@@ -814,11 +814,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/balanced-in-seg.md",
       "source_sha256": "e3f65a3620900179f9c91ac0cb8e09529f7a832d09f1ba474ad6137b6c28fe20",
       "codeforces": [
-        "1703B",
-        "1760C",
         "1722C",
-        "1714B",
-        "2133A"
+        "1807G1",
+        "1736C1",
+        "1679C",
+        "2226C"
       ]
     },
     {
@@ -827,11 +827,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/binary-heap.md",
       "source_sha256": "fe6aee71cf9a0692b1e7a46ccf60e7204e16a20354d6ebad3094fa6e0c729bb4",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
         "1714B",
-        "2133A"
+        "1638B",
+        "2037D",
+        "1468C",
+        "2254E"
       ]
     },
     {
@@ -840,11 +840,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/bit-in-block-array.md",
       "source_sha256": "00aafd04bc051faf249a0bb84c85d79fed7024136a4bae1b6ff8ce2ed96dd773",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2133A",
+        "2185D",
+        "1265B",
+        "1284B",
+        "821C"
       ]
     },
     {
@@ -853,11 +853,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/block-array.md",
       "source_sha256": "c0ba9918d2417d8a2d63a9dc4bdff84b10115f2eb8eca42e2e689c49ea459839",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1690C",
+        "1492B",
+        "1870C",
+        "1189C",
+        "340D"
       ]
     },
     {
@@ -866,11 +866,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/block-list.md",
       "source_sha256": "7283edcfcb5c5129fb71601a63f52702cc3b95c7451c201eaf5ec2ed7acd060b",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1497A",
+        "427B",
+        "1007A",
+        "158C",
+        "91B"
       ]
     },
     {
@@ -879,11 +879,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/bst.md",
       "source_sha256": "cec8dbd2bc727f915ba463a5b85c52f7b48886673bf7a2f3ed07b428fe2ef83c",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1730A",
+        "1566D1",
+        "1867C",
+        "2252C",
+        "527C"
       ]
     },
     {
@@ -892,11 +892,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/cartesian-tree.md",
       "source_sha256": "f0c47ccaaf073bb7b5d7e9daa9be9d65ff0f5558bbb7d3079357859d6389ab8a",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1956A",
+        "755B",
+        "2201A1",
+        "2227E",
+        "1163B1"
       ]
     },
     {
@@ -905,11 +905,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/cat-tree.md",
       "source_sha256": "d25dadceec1c1f2413c537dc6f69aa70c1cb781db5436567128ee0c94a74c9e3",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1720B",
+        "2253B",
+        "2242C",
+        "612C",
+        "272C"
       ]
     },
     {
@@ -918,11 +918,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/decompose.md",
       "source_sha256": "350085d6c66baf63d2041951b197449b5e784fd04bc461b91fb028dc53cdef94",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1200A",
+        "522B",
+        "1100B",
+        "799B",
+        "1106B"
       ]
     },
     {
@@ -931,11 +931,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/divide-combine.md",
       "source_sha256": "9955c805a407ab5f1ed5869cd4e840bfe4456600834d4749c408ff90dc0d3f88",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1767B",
+        "834B",
+        "777B",
+        "2244E",
+        "2268B"
       ]
     },
     {
@@ -944,11 +944,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/dividing.md",
       "source_sha256": "41245b9fee80397a515b22fa1dd2f5b1f40d7e1904ae38fe24454520678e9fbf",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2275B",
+        "1575A",
+        "932B",
+        "1351C",
+        "696A"
       ]
     },
     {
@@ -958,10 +958,10 @@
       "source_sha256": "76e58831ed10db608dc4a20db8af92c24010a2b7c4216e913735c68bd40cb423",
       "codeforces": [
         "501B",
-        "1927D",
-        "2033D",
-        "1638C",
-        "1726C"
+        "1292A",
+        "356A",
+        "722C",
+        "2171F"
       ]
     },
     {
@@ -970,11 +970,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/dsu-complexity.md",
       "source_sha256": "e8a897af59abe84f943f3a761897079f1155036d9845518fb4a8565704ec244a",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2021A",
+        "1793C",
+        "572B",
+        "2266D",
+        "501C"
       ]
     },
     {
@@ -983,11 +983,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/ett.md",
       "source_sha256": "5eeddadabbf652eefdfd064ffd223841baec049b74392714ef36bbc9b8ea98f2",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2252A",
+        "1790D",
+        "982B",
+        "713A",
+        "204B"
       ]
     },
     {
@@ -996,11 +996,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/fenwick.md",
       "source_sha256": "c5667058881cc0d544349f63bd40a1fcdb2785bc16541d095370643d91f8d6b0",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1799A",
+        "1364A",
+        "1424G",
+        "2038C",
+        "367A"
       ]
     },
     {
@@ -1009,11 +1009,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/finger-tree.md",
       "source_sha256": "fd78afad134acceb9dca70d64ad3733e3b8da8e636a6c7fef1ce89614f0d37d3",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1807D",
+        "1679B",
+        "222B",
+        "2181B",
+        "1218F"
       ]
     },
     {
@@ -1022,11 +1022,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/global-bst.md",
       "source_sha256": "9cbe4341b7c9bb4acd7eefde92f0906f38606d639841011dc937e2d0230434aa",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1380A",
+        "961B",
+        "195B",
+        "270B",
+        "177D2"
       ]
     },
     {
@@ -1036,10 +1036,10 @@
       "source_sha256": "d1f8ccbc5aa2060d72422ec84256a7c121d52f620dff445fd8f44d24bde511ba",
       "codeforces": [
         "1520D",
-        "1800D",
-        "4C",
         "2150A",
-        "1536C"
+        "1536C",
+        "1980E",
+        "1840E"
       ]
     },
     {
@@ -1048,11 +1048,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/heap.md",
       "source_sha256": "787f060ba0a38d64eda211ac1eb1f64b5985596ddcdf4cb3c84cf45ec2fd563d",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1918B",
+        "1848B",
+        "1324D",
+        "159C",
+        "331A2"
       ]
     },
     {
@@ -1061,11 +1061,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/huffman-tree.md",
       "source_sha256": "6912f2207e3179cb00746ae403a3ed4830f1647a222ce9b6e540be1c54123fc1",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1709B",
+        "1006C",
+        "1919C",
+        "276C",
+        "316E1"
       ]
     },
     {
@@ -1074,11 +1074,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/index.md",
       "source_sha256": "a6f9a7f924dfd2fb01e3190accff54b7e0177f30a9febac33b6fd4200897af08",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2007B",
+        "1582C",
+        "816B",
+        "1526C1",
+        "1398C"
       ]
     },
     {
@@ -1087,11 +1087,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/kdt.md",
       "source_sha256": "0a76a7109c57265be1bc48e78f956bd6688e0b22d9c4da727933f60e9ee7467b",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2210B",
+        "637B",
+        "1692G",
+        "1915F",
+        "1526C2"
       ]
     },
     {
@@ -1100,11 +1100,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/kinetic-tournament-tree.md",
       "source_sha256": "dafd14ea6b2181d585d48c7bff9984e4eb5c23da14b8d2ac691f7176714657b3",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1689B",
+        "1512D",
+        "295A",
+        "1872E",
+        "1349A"
       ]
     },
     {
@@ -1113,11 +1113,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/lct.md",
       "source_sha256": "db326229c8f53bbeb493a759933341a44d605b01ae4e92621286359ed73c1248",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1955B",
+        "2126D",
+        "1348B",
+        "1985F",
+        "1353D"
       ]
     },
     {
@@ -1126,11 +1126,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/leftist-tree.md",
       "source_sha256": "99b5431f4db04be0817378c843390e545a7eb44638f3a46877452ac55b703373",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2000C",
+        "1598C",
+        "1904C",
+        "1399D",
+        "1234D"
       ]
     },
     {
@@ -1139,11 +1139,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/li-chao-tree.md",
       "source_sha256": "7a9b75530d4e7474b6923ab6539adccd8c2654a1760154a7600440bd97711e2a",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1438B",
+        "1982C",
+        "1506D",
+        "1795C",
+        "1856C"
       ]
     },
     {
@@ -1152,11 +1152,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/linked-list.md",
       "source_sha256": "1dfc36dfab4c55865fab7f8df63e2b071968193e9069b112593c6387d03414f0",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2123C",
+        "1669E",
+        "1365C",
+        "1490F",
+        "1843E"
       ]
     },
     {
@@ -1165,11 +1165,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/llrbt.md",
       "source_sha256": "470b3b6d49fc98516b428a490f8af26d472c961a6008e5630c0226f210f0b029",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1907B",
+        "2117C",
+        "1519C",
+        "1416A",
+        "343B"
       ]
     },
     {
@@ -1178,11 +1178,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/monotonic-queue.md",
       "source_sha256": "1e6f70ff85b63bd8267d9c2c877a90efbdb940a569b2d9846120957d629385fd",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2193C",
+        "1846C",
+        "1320A",
+        "1426D",
+        "1829G"
       ]
     },
     {
@@ -1191,11 +1191,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/monotonic-stack.md",
       "source_sha256": "9d87d925821f1ab3ca9174112488b5635ece6e764373d71765a6bf133acf1650",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1986B",
+        "2135A",
+        "1878E",
+        "1492C",
+        "2129B"
       ]
     },
     {
@@ -1204,11 +1204,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/pairing-heap.md",
       "source_sha256": "244e59b73cf764c46e766176d2d1ef08f4bc1860df78ff6aeadf2b7b1572c12d",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1430C",
+        "1730C",
+        "1375C",
+        "1547E",
+        "1593E"
       ]
     },
     {
@@ -1217,11 +1217,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent.md",
       "source_sha256": "ba37893c54833c324647a2b60d2fd729d34c4991d6f0f6b99769dd727755ac45",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1800C1",
+        "1104B",
+        "514B",
+        "1791F",
+        "1374E1"
       ]
     },
     {
@@ -1230,11 +1230,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-balanced.md",
       "source_sha256": "6a65eeffa7fc0ae892d14b8a8f26d457a550b010bb3fbf6ef8e7b79606685763",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1165B",
+        "2053B",
+        "1490E",
+        "1850G",
+        "1779C"
       ]
     },
     {
@@ -1243,11 +1243,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-block-array.md",
       "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1622B",
+        "1951B",
+        "1974C",
+        "1296C",
+        "1857F"
       ]
     },
     {
@@ -1256,11 +1256,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-heap.md",
       "source_sha256": "b001489d16d95a9525c29fd4489972a7fb80d61669c6ae5254c241cb35376244",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2104B",
+        "1763B",
+        "1932C",
+        "1466D",
+        "1722E"
       ]
     },
     {
@@ -1269,11 +1269,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-seg.md",
       "source_sha256": "b9f084b181d1301985c14299b6ded43b6bc51a6e6441614d550e19cc9401fb90",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1798B",
+        "18C",
+        "1955D",
+        "1926E",
+        "1978D"
       ]
     },
     {
@@ -1282,11 +1282,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/persistent-trie.md",
       "source_sha256": "bc7aad8c3d036e210e63c6397323648bb0ff033efb93c874f3ffd46245495d8f",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2242B",
+        "2227D",
+        "1515C",
+        "845C",
+        "616D"
       ]
     },
     {
@@ -1295,11 +1295,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/pq-tree.md",
       "source_sha256": "860f733d3f671edc218e325cf60c45544a1c251dae97ad590a68d74d652f0ee4",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2034B",
+        "2148E",
+        "1728C",
+        "1883D",
+        "1748C"
       ]
     },
     {
@@ -1308,11 +1308,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/queue.md",
       "source_sha256": "a7347d5d5152431e35cd1921ae265a3ddda1b228a09241269cd506154e561de3",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2275C",
+        "879B",
+        "1393B",
+        "1621B",
+        "1862E"
       ]
     },
     {
@@ -1321,11 +1321,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/rbtree.md",
       "source_sha256": "d68e9cea88987b382fd4bf806e40c5c3f5895d1ecfcf87d8d33055a2a1cbb517",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2264B",
+        "1214C",
+        "1551B2",
+        "2008E",
+        "1996E"
       ]
     },
     {
@@ -1334,11 +1334,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/sbt.md",
       "source_sha256": "276e2308aeb5c4751d6d9816c2219bef0f583ce2c818aabd52b0f9ddc0843261",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "368B",
+        "701B",
+        "2000E",
+        "1283C",
+        "1175B"
       ]
     },
     {
@@ -1347,11 +1347,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg.md",
       "source_sha256": "66244e1406bebe63206ced528fac513ccc44d20ea7b2c643b3f7dc727b6eaad2",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "519B",
+        "264A",
+        "650A",
+        "702B",
+        "1498C"
       ]
     },
     {
@@ -1360,11 +1360,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-beats.md",
       "source_sha256": "7a8412f820dac1572f458972c8f104b7d58cc925fb16900aabfec6252c8dde0c",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1669F",
+        "4C",
+        "2014D",
+        "960B",
+        "1294D"
       ]
     },
     {
@@ -1373,11 +1373,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-in-balanced.md",
       "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1917B",
+        "600B",
+        "1860C",
+        "1676H2",
+        "1849C"
       ]
     },
     {
@@ -1386,11 +1386,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-in-bit.md",
       "source_sha256": "05cbbcda281f3e55770644c16c26c68074e5dddeb1ce9ab1706efe8fd3439d07",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1511C",
+        "1915E",
+        "1749C",
+        "1340A",
+        "1861C"
       ]
     },
     {
@@ -1399,11 +1399,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-in-seg.md",
       "source_sha256": "fa3acb4d403a09e92981b705d1e71ff712514a6e72328e04bf04a04475f7c3f6",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1213B",
+        "1538C",
+        "1697C",
+        "1499C",
+        "2051E"
       ]
     },
     {
@@ -1412,11 +1412,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/seg-merge-split.md",
       "source_sha256": "c6ad79bddbbf65de4c7d1fe42b1ff35c25c7a454ce4dbc765b0b232c2a2839a1",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1324C",
+        "1927D",
+        "2123E",
+        "2140C",
+        "1941E"
       ]
     },
     {
@@ -1425,11 +1425,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/sgt.md",
       "source_sha256": "ac82e1bd2d43a2dea14eb795b5c9cb0e3ef7d19e29e13381973d0a6edb497914",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1703D",
+        "1703F",
+        "2152C",
+        "2026C",
+        "2167G"
       ]
     },
     {
@@ -1438,11 +1438,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/skiplist.md",
       "source_sha256": "6e3f0adcc7bef8e89dbb78f1e503c49c29eab85e707f348453759bb370907aa6",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1656B",
+        "1498B",
+        "1654C",
+        "1817A",
+        "2043C"
       ]
     },
     {
@@ -1451,11 +1451,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/sparse-table.md",
       "source_sha256": "ba822afce755283f0fb1e1f88f0421f5af862fbceabc37aabb98df735bff7228",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1800C2",
+        "1237B",
+        "1719C",
+        "1179A",
+        "2046B"
       ]
     },
     {
@@ -1464,11 +1464,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/splay.md",
       "source_sha256": "86d6312f2094dcb48a72e72de55010928c0d5ecd88235041c11a45ba93b6f11a",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1986C",
+        "1381A1",
+        "1805C",
+        "1651C",
+        "2061D"
       ]
     },
     {
@@ -1477,11 +1477,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/sqrt-tree.md",
       "source_sha256": "29c81254799b3aedb645d9a7ab2084083a1d7c0f2b35202b7d4c2f861265be5d",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1702C",
+        "1676F",
+        "2164C",
+        "1313C1",
+        "681C"
       ]
     },
     {
@@ -1490,11 +1490,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/stack.md",
       "source_sha256": "d44b367ce170676fb6d8196488cfc07477bf7f5ea80c03e7c7e609515897532b",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1997C",
+        "1698C",
+        "1909C",
+        "1732D1",
+        "1140C"
       ]
     },
     {
@@ -1503,11 +1503,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/top-tree.md",
       "source_sha256": "e53e4502ae089fae78e4fd5e8900e4518a10773f7c12ac018ea93f0436af5d4a",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1921D",
+        "2118C",
+        "2171D",
+        "855B",
+        "1196D2"
       ]
     },
     {
@@ -1516,11 +1516,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/treap.md",
       "source_sha256": "14cbcd5f4c8d3795013074c07cfa06775c7e7c312f1f7c5366b06a82a899bf42",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "2063B",
+        "1234B2",
+        "1279C",
+        "2149E",
+        "1714D"
       ]
     },
     {
@@ -1529,11 +1529,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/tree-decompose.md",
       "source_sha256": "9b72f89685fd79e9a961d26287444a502d4b872b70834965e00615eeb855dd15",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1862C",
+        "2033D",
+        "2111D",
+        "1287B",
+        "704A"
       ]
     },
     {
@@ -1542,11 +1542,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/ds/wblt.md",
       "source_sha256": "4f0efe6e7048e61d0a68864095389219cbf32e506d2ce592700b48e401e694d4",
       "codeforces": [
-        "1703B",
-        "1760C",
-        "1722C",
-        "1714B",
-        "2133A"
+        "1760E",
+        "1978C",
+        "2074D",
+        "978F",
+        "1041C"
       ]
     },
     {
@@ -1555,11 +1555,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/edit-landing.md",
       "source_sha256": "d822e80879a21133221ed6ae41d2db7c6a6816cdd33c81b7787f247ba8d989ba",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1807A",
+        "1778A",
+        "796A",
+        "622B",
+        "849A"
       ]
     },
     {
@@ -1569,10 +1569,10 @@
       "source_sha256": "f8aebf3063f42b65caf8522aee8ee0304f99014d7efe9bf0bfa6aa613df8c684",
       "codeforces": [
         "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1466A",
+        "6A",
+        "224A",
+        "1100C"
       ]
     },
     {
@@ -1581,11 +1581,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/3d.md",
       "source_sha256": "cbc8b767423185c1fd2b19ff39ea4ad3f424b4e72ce2f8ac892333dbe0616af2",
       "codeforces": [
-        "1791B",
         "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1713A",
+        "2026A",
+        "1869B",
+        "749B"
       ]
     },
     {
@@ -1594,11 +1594,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/convex-hull.md",
       "source_sha256": "bcbe87bc41e6e27ee2e2757894eab4df2d0a351a47a8003d79dedd2f07ba93c0",
       "codeforces": [
-        "1791B",
-        "1806A",
         "1986A",
-        "2074A",
-        "1369A"
+        "2027A",
+        "1047B",
+        "2074C",
+        "794B"
       ]
     },
     {
@@ -1607,11 +1607,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/distance.md",
       "source_sha256": "1380b2fc0d5b5bedbe6187a05c6ec4c00e2c02e57eeb4aec302e2cdc397f9052",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
         "2074A",
-        "1369A"
+        "1422A",
+        "706A",
+        "2061B",
+        "9B"
       ]
     },
     {
@@ -1620,11 +1620,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/half-plane.md",
       "source_sha256": "17f9180b408655dc25c9707ccbecbec0dbaec7b1c5c6371784cd43ffe3a35385",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1369A",
+        "2053A",
+        "127A",
+        "1030B",
+        "80B"
       ]
     },
     {
@@ -1633,11 +1633,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/index.md",
       "source_sha256": "a8953e3b0d92791b6d9d58b3bb77ab96fd778ba8e2012670916329620d6746f4",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1926B",
+        "2120A",
+        "1620B",
+        "842B",
+        "683A"
       ]
     },
     {
@@ -1646,11 +1646,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/inverse.md",
       "source_sha256": "f529716175e07ed3f9747fe5bdb2091361ca154cbe506fbcea128c7d96d267bf",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "2074B",
+        "1816A",
+        "1199B",
+        "667A",
+        "1307B"
       ]
     },
     {
@@ -1659,11 +1659,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/nearest-points.md",
       "source_sha256": "d014e9e063841d637fb8c2722b69e70ce9f17a904587600601e0e56cc482406c",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "2148B",
+        "1642A",
+        "2120B",
+        "596A",
+        "1942C1"
       ]
     },
     {
@@ -1672,11 +1672,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/pick.md",
       "source_sha256": "8cefdf9d59435710ca2aa49c297f11c1d0d64fcab9900f0445de682a71e3991f",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1622A",
+        "1781A",
+        "1450B",
+        "667B",
+        "1271C"
       ]
     },
     {
@@ -1685,11 +1685,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/random-incremental.md",
       "source_sha256": "b60e4780429dc42ce62d8c5552fb3475c62a275f1b144b5bac010ae058c1ee0d",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1398A",
+        "900A",
+        "1248A",
+        "1846D",
+        "750B"
       ]
     },
     {
@@ -1698,11 +1698,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/rotating-calipers.md",
       "source_sha256": "0ee86454a055ea05041826337bdf942ff345821008ecd9401ecab4c75baed34e",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1312A",
+        "1740B",
+        "157B",
+        "2119B",
+        "820B"
       ]
     },
     {
@@ -1711,11 +1711,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/scanning.md",
       "source_sha256": "3dea2ec01e506fcaea00fe296db13b28294ab3d1a493ba33334a8cd1f916c101",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "2275A",
+        "181A",
+        "859B",
+        "1886B",
+        "227A"
       ]
     },
     {
@@ -1724,11 +1724,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/smallest-enclosing-circle.md",
       "source_sha256": "9f897adb3c2503af7ff1c38444c95e95f8dd338824f77a162b790eadc9e5b794",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1064A",
+        "1795B",
+        "270A",
+        "2002C",
+        "40A"
       ]
     },
     {
@@ -1737,11 +1737,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/geometry/triangulation.md",
       "source_sha256": "5b3f437a16ccf173fa06ac20cf995e38353063b3f43a37b6e10969372b4f35f5",
       "codeforces": [
-        "1791B",
-        "1806A",
-        "1986A",
-        "2074A",
-        "1369A"
+        "1928A",
+        "1845B",
+        "1850E",
+        "1495A",
+        "507B"
       ]
     },
     {
@@ -1751,10 +1751,10 @@
       "source_sha256": "c294aca8b29fb62b6afeb3515f7e7affeabc0813766695addacb24afdb3c07f2",
       "codeforces": [
         "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "94B",
+        "300B",
+        "1144F",
+        "605B"
       ]
     },
     {
@@ -1763,11 +1763,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/bcc.md",
       "source_sha256": "08423e0ec80a1ab1ca247c650e36da4d1010504b91e0bc40c3b9be9adbb4dafa",
       "codeforces": [
-        "939A",
         "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1475C",
+        "402C",
+        "1176E",
+        "1068C"
       ]
     },
     {
@@ -1776,11 +1776,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/bfs.md",
       "source_sha256": "33e8da6acbbb2c6c4060012d6e33bdcb0aebb6d70bda126ce8f49db8854814bb",
       "codeforces": [
-        "939A",
-        "1944A",
         "1549B",
-        "755A",
-        "1797A"
+        "1167C",
+        "1147A",
+        "598D",
+        "769C"
       ]
     },
     {
@@ -1789,11 +1789,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/bi-graph.md",
       "source_sha256": "691d62c23f566d021e59eaa68055b1d0d6069bf81808d740ef8b0c78e340a442",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
         "755A",
-        "1797A"
+        "1830A",
+        "690C2",
+        "219D",
+        "164A"
       ]
     },
     {
@@ -1802,11 +1802,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/block-forest.md",
       "source_sha256": "69f6e4b1e81d9a368d4c1f5e5ba433a53b7a5a494c78735566621e25254ccd9b",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1797A",
+        "1579D",
+        "114B",
+        "919D",
+        "1346E"
       ]
     },
     {
@@ -1815,11 +1815,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/chord.md",
       "source_sha256": "0fa811e151b86ee6ee5c062423dc9a2dc9729377127331c01880273601efe808",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "115A",
+        "1548A",
+        "350B",
+        "1931F",
+        "1328D"
       ]
     },
     {
@@ -1828,11 +1828,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/color.md",
       "source_sha256": "414eaf7cd052eebffe78b517f7c897780fde2c0c5e4cf2999f21bb42a32f9857",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "948A",
+        "1559D1",
+        "177C2",
+        "1406C",
+        "1324F"
       ]
     },
     {
@@ -1841,11 +1841,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/concept.md",
       "source_sha256": "c38ae291d78b489825f05114239d73855aa7f78bc02cd9f508b4ad92b482719f",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1055A",
+        "1800E1",
+        "177C1",
+        "1093D",
+        "242C"
       ]
     },
     {
@@ -1854,11 +1854,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/connectivity.md",
       "source_sha256": "bf2c2194eb67a63d0df1f718be7bfb501d81c4cc54191c60e78cf9091bdbb6b0",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "500A",
+        "505B",
+        "770C",
+        "1383A",
+        "1915G"
       ]
     },
     {
@@ -1867,11 +1867,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/cut.md",
       "source_sha256": "9995f1d46f38514ad89f0a9ec6e0d6a32e0289f819a18e4c67c2ddc3c10693b3",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1020B",
+        "1893A",
+        "510C",
+        "1760G",
+        "1572A"
       ]
     },
     {
@@ -1880,11 +1880,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dag.md",
       "source_sha256": "46f65da5be1cb4acefa7fb6c40f241a7fc484e82bc709275554b0f3d3708829c",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1033A",
+        "437C",
+        "1702E",
+        "1209D",
+        "1213G"
       ]
     },
     {
@@ -1893,11 +1893,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dfs.md",
       "source_sha256": "f83a2077ee36a08c5250253f4a85f676a6d2105a4f8ae18976921ab6c7c4ac5d",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1472C",
+        "2131D",
+        "2063C",
+        "1253D",
+        "1283D"
       ]
     },
     {
@@ -1906,11 +1906,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/diff-constraints.md",
       "source_sha256": "47dd0a9f42465d9e4b39b960537288bb70f9e014f638ce669d96c8c8a9db5fa7",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1829E",
+        "1540A",
+        "1437D",
+        "1850H",
+        "1063B"
       ]
     },
     {
@@ -1919,11 +1919,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dmst.md",
       "source_sha256": "af60e50b9b700dbeb005874b0eaf660c78369adee79dbfa1895ce4ca44c88aea",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2008D",
+        "2033E",
+        "601A",
+        "1881F",
+        "1805D"
       ]
     },
     {
@@ -1932,11 +1932,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dominator-tree.md",
       "source_sha256": "0d7e43f993d0a0488d81648f6c004534069cc31602cec09542e29255acfabdc5",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2184C",
+        "2133C",
+        "2004D",
+        "1594D",
+        "2014E"
       ]
     },
     {
@@ -1945,11 +1945,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dsu-on-tree.md",
       "source_sha256": "e056b27c5c3417a99d30267ea96c7a68a5e901c0bd562e1888cc0c304b33e6e5",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2078B",
+        "1670C",
+        "1511D",
+        "2006A",
+        "1517D"
       ]
     },
     {
@@ -1958,11 +1958,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/dynamic-tree-divide.md",
       "source_sha256": "b828177b28e0a40809dfd5b64d45711576f591995200c30945e57939e39d1128",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2155B",
+        "1735C",
+        "1476C",
+        "2112D",
+        "1768D"
       ]
     },
     {
@@ -1971,11 +1971,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/euler.md",
       "source_sha256": "fa3111650462b52a69180ae92002a8f9b9d2a48f39908db36fe50c3c6da1353b",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1255B",
+        "1761C",
+        "369C",
+        "1873H",
+        "1775D"
       ]
     },
     {
@@ -1984,11 +1984,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow.md",
       "source_sha256": "dfdcca34d88ba2cca0d08f00e28c31b415e8f164a090bfd9886ab1ad05643185",
       "codeforces": [
-        "1549B",
-        "1797A",
         "1530D",
-        "1926G",
-        "1423B"
+        "237E",
+        "723E",
+        "1090E",
+        "802M2"
       ]
     },
     {
@@ -1997,11 +1997,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow/bound.md",
       "source_sha256": "e37431366ec6b2eca765fde59e8eb1b4aa8bfd2b0c55569308c68b2e4aa3ebf8",
       "codeforces": [
-        "1549B",
-        "1797A",
-        "1530D",
         "1926G",
-        "1423B"
+        "546E",
+        "1741G",
+        "1252L",
+        "1913E"
       ]
     },
     {
@@ -2010,11 +2010,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow/max-flow.md",
       "source_sha256": "078144625291610bbab20d2a6f8802e46607a757bd6caf270db963c7caf8b4aa",
       "codeforces": [
-        "1549B",
-        "1797A",
-        "1530D",
-        "1926G",
-        "1423B"
+        "1423B",
+        "269C",
+        "1184B2",
+        "1082G",
+        "1009G"
       ]
     },
     {
@@ -2023,11 +2023,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow/min-cost.md",
       "source_sha256": "3e2ce19859001c7e955ac45ee6407b185cd0daa820cb910de37f59162d83c4e0",
       "codeforces": [
-        "1549B",
-        "1797A",
-        "1530D",
-        "1926G",
-        "1423B"
+        "1770D",
+        "1486E",
+        "362E",
+        "1139E",
+        "164C"
       ]
     },
     {
@@ -2036,11 +2036,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/flow/min-cut.md",
       "source_sha256": "fb63f9a648b1f6f22f49fc4d420ee1a6b63a57551e72c2ccac81137d94ab8749",
       "codeforces": [
-        "1549B",
-        "1797A",
-        "1530D",
-        "1926G",
-        "1423B"
+        "730I",
+        "653D",
+        "78E",
+        "808F",
+        "1263F"
       ]
     },
     {
@@ -2049,11 +2049,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/bigraph-match.md",
       "source_sha256": "c45ebabd7371c8b3a54dd768dcae8f3ab76aa8a4ff0560e5937b17641a4ab3b1",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "370A",
+        "1764C",
+        "763A",
+        "1592C",
+        "2127D"
       ]
     },
     {
@@ -2062,11 +2062,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/bigraph-weight-match.md",
       "source_sha256": "0cb63c7b3e80675370071e0d059c24fc638b99a2c6a858f866f6e91b647210d1",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "648C",
+        "2204D",
+        "1006E",
+        "1690F",
+        "1244D"
       ]
     },
     {
@@ -2075,11 +2075,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/general-match.md",
       "source_sha256": "f099bc83366e0ee176a52a08e5789135925f3ab74c11065bab9092b06a915e06",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "217A",
+        "2034C",
+        "246D",
+        "2110D",
+        "1296E1"
       ]
     },
     {
@@ -2088,11 +2088,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/general-weight-match.md",
       "source_sha256": "4c68d3773b06e58bc2b8c7b4b7ba688ebea86e7e6a12a6d5bf41efc6ba0af5fb",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1559C",
+        "475B",
+        "780C",
+        "1361A",
+        "1552D"
       ]
     },
     {
@@ -2101,11 +2101,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/graph-match.md",
       "source_sha256": "034d4a481c8deafed63fdb1fe562f02f8f12ff751fbc39eb33c1aaa344394524",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1327B",
+        "24A",
+        "1899F",
+        "339C",
+        "61D"
       ]
     },
     {
@@ -2114,11 +2114,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-matching/stable-match.md",
       "source_sha256": "2484db417456aee73265a8c464aa84fd7534d6f0faa97de2992b186b67dd35cc",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "522A",
+        "2066A",
+        "500B",
+        "813C",
+        "1872F"
       ]
     },
     {
@@ -2127,11 +2127,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/graph-random-walk.md",
       "source_sha256": "593fff8287c66271dc3a7998c75761fa682595dcfcfe3146bb0e99ad84991858",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1647B",
+        "2276D",
+        "1615C",
+        "1027D",
+        "1334D"
       ]
     },
     {
@@ -2140,11 +2140,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/hamilton.md",
       "source_sha256": "f63cb15379e64f33543c277512b3f283f7d8af23d65f062919667098a9430cd7",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1428B",
+        "2172M",
+        "1133F1",
+        "2118D1",
+        "2020D"
       ]
     },
     {
@@ -2153,11 +2153,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/hld.md",
       "source_sha256": "f56938bc5615c3f0661236fdc940bcc5fde18152852213e06cf5366ca3fde822",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "129B",
+        "802J1",
+        "986A",
+        "1411C",
+        "1867D"
       ]
     },
     {
@@ -2166,11 +2166,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/index.md",
       "source_sha256": "757e041f2d39a1b7a13ef93f901050d06d8739370790e5526d277657f05e274b",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1581B",
+        "107A",
+        "1609D",
+        "1868B1",
+        "721C"
       ]
     },
     {
@@ -2179,11 +2179,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/kth-path.md",
       "source_sha256": "57a61a311d6b7e62421d971d3cccf210dcc32627bc0c565b2868cc4c1a0b8f61",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2257C",
+        "8B",
+        "939D",
+        "1340B",
+        "1468J"
       ]
     },
     {
@@ -2192,11 +2192,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/lca.md",
       "source_sha256": "7085a2142a030a5204be9957fb8b9967d45e929a8557594aa6aa23264a6b339f",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "292B",
+        "2271C",
+        "682C",
+        "1822F",
+        "1304D"
       ]
     },
     {
@@ -2205,11 +2205,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/lgv.md",
       "source_sha256": "8f9abd0b3a3fe320b0a787aa80220ea6451dd92ada24b38f18cc0456cb148ae6",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "344B",
+        "417C",
+        "659E",
+        "2044G1",
+        "1843F1"
       ]
     },
     {
@@ -2218,11 +2218,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/matrix-tree.md",
       "source_sha256": "e907516d4a6d05176537457e7c206fc79681b3d6c95f212ed70d7a7bdafed5fa",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1510K",
+        "580C",
+        "954D",
+        "1985H1",
+        "2032D"
       ]
     },
     {
@@ -2231,11 +2231,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/max-clique.md",
       "source_sha256": "7434b907070e6e129dda5ad4ddd913c75d9840ef64556a5775a97982ec1eb514",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "893C",
+        "1418C",
+        "731C",
+        "2065F",
+        "2155D"
       ]
     },
     {
@@ -2244,11 +2244,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/mdst.md",
       "source_sha256": "b9185f4ce735ec8c5b21e8ba26bef2cbd075e1c6e24328fd7456ced13e648730",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1360E",
+        "977E",
+        "723D",
+        "1204C",
+        "2176D"
       ]
     },
     {
@@ -2257,11 +2257,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/min-cycle.md",
       "source_sha256": "aad9eeb40b8fc1eae4b989aca7bc02a63167b950a8f18001c3364eebf686a682",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "862B",
+        "839C",
+        "639B",
+        "1608C",
+        "1076D"
       ]
     },
     {
@@ -2270,11 +2270,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/mod-shortest-path.md",
       "source_sha256": "cc33704acf8dc90113cb55b04ca50c80cd1056dbc099d803daeba56e11fe5bed",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1676G",
+        "1106D",
+        "2241E",
+        "2023B",
+        "1176D"
       ]
     },
     {
@@ -2283,11 +2283,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/mst.md",
       "source_sha256": "518f4245b117c4b32edea7d742b7c710f07d21d9089ec55e809ced1c4b4642a7",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1829F",
+        "771A",
+        "1056D",
+        "2027D1",
+        "404C"
       ]
     },
     {
@@ -2296,11 +2296,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/node.md",
       "source_sha256": "930dab65c28ef77cdf088e51a5d287f261c42a5015240dcb46f280712c9afc69",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1948C",
+        "1139C",
+        "34D",
+        "489D",
+        "2138C1"
       ]
     },
     {
@@ -2309,11 +2309,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/planar.md",
       "source_sha256": "bcb5d852109da926da70491f3eb5db94ccf6cfe2e72cf291b5dd9976d55309c4",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1661B",
+        "982C",
+        "689B",
+        "29C",
+        "1286B"
       ]
     },
     {
@@ -2322,11 +2322,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/prufer.md",
       "source_sha256": "9d587478e629a3a0109940c8a6e649587c29123713eb880bde823150a4d9fedb",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "330B",
+        "1552B",
+        "615B",
+        "1009D",
+        "1852B"
       ]
     },
     {
@@ -2335,11 +2335,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/rings-count.md",
       "source_sha256": "581c88f54310b13d1b85698de27d5832bbc970e91fa9488a1e051c938e7e03e3",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2129A",
+        "687A",
+        "28B",
+        "1320B",
+        "2208D1"
       ]
     },
     {
@@ -2348,11 +2348,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/save.md",
       "source_sha256": "e92c9dfed3102bc244c271f2c6bfd5c40c69d4ef4f3711e42023ba8c03495a01",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1741D",
+        "1263D",
+        "150B",
+        "698B",
+        "1081D"
       ]
     },
     {
@@ -2361,11 +2361,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/scc.md",
       "source_sha256": "40fd5793dbec398720633ae0b724a9d7072b884838f63f292d887739901a133f",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2056B",
+        "1391C",
+        "916C",
+        "229B",
+        "1725M"
       ]
     },
     {
@@ -2374,11 +2374,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/shortest-path.md",
       "source_sha256": "56d58a9fc194074fb89acd46565776ba3c586f48888ad29439e4d8f4d02165e8",
       "codeforces": [
-        "370A",
-        "1360E",
-        "1948C",
-        "1661B",
-        "520B"
+        "520B",
+        "1833E",
+        "1695C",
+        "585B",
+        "1067B"
       ]
     },
     {
@@ -2387,11 +2387,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/steiner-tree.md",
       "source_sha256": "0a5d7718f7997663fea4c34a4c1c6474ae849254fa858c73c0afd61a687cce9c",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1968D",
+        "1800E2",
+        "131D",
+        "2041D",
+        "623A"
       ]
     },
     {
@@ -2400,11 +2400,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/stoer-wagner.md",
       "source_sha256": "88ce4dae3ff49064e8fbcaced1f56b2fd046d834997a8b4d614698f935a03ec7",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2086C",
+        "1487C",
+        "793B",
+        "1210A",
+        "743D"
       ]
     },
     {
@@ -2413,11 +2413,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/topo.md",
       "source_sha256": "917e045919a0a240f6c9321a237fd744c9746277aa887f59e227a96c1f850e22",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1638C",
+        "2108C",
+        "2172F",
+        "1579F",
+        "700B"
       ]
     },
     {
@@ -2426,11 +2426,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-ahu.md",
       "source_sha256": "44006a4ad8fc86c5a349bd6e54059fae0260d3a42766d6b621258a7eb9c2a3d2",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "755C",
+        "2027C",
+        "23B",
+        "193A",
+        "263D"
       ]
     },
     {
@@ -2439,11 +2439,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-basic.md",
       "source_sha256": "327bb6a2266585c1c3214fa39756a9452dd100bb90ded36682fd62fa9996fc72",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "2143C",
+        "1851E",
+        "643B",
+        "1146C",
+        "1082D"
       ]
     },
     {
@@ -2452,11 +2452,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-center.md",
       "source_sha256": "34d7936cdd6b8577e6d24ab4572c7d76f0384252f54bc3165ec9802120707504",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1675D",
+        "2060E",
+        "253C",
+        "1776F",
+        "1062D"
       ]
     },
     {
@@ -2465,11 +2465,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-centroid.md",
       "source_sha256": "26aa618a921ef902b481936d94f73a0e9fbf690e81ad45ddb3c6d9e2c57cc5d8",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1711B",
+        "103B",
+        "232A",
+        "1687B",
+        "989C"
       ]
     },
     {
@@ -2478,11 +2478,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-diameter.md",
       "source_sha256": "f071c76d85f09fd088d40a1f1051654fe11f18a0cc2f5347654b8e1587f2d920",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1534C",
+        "1169B",
+        "1346D",
+        "990D",
+        "2196C1"
       ]
     },
     {
@@ -2491,11 +2491,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-divide.md",
       "source_sha256": "27b90e26c11917af2625858192492a1b5c6da9c7453edf6a7d1161d954172ea7",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "707B",
+        "744A",
+        "1365D",
+        "917B",
+        "1666L"
       ]
     },
     {
@@ -2504,11 +2504,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-hash.md",
       "source_sha256": "301da233a980c2c4fe07927845c38954ac389313115d0c00c79a49c4b454ac5f",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1726C",
+        "930A",
+        "1037D",
+        "22C",
+        "645D"
       ]
     },
     {
@@ -2517,11 +2517,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/tree-random-walk.md",
       "source_sha256": "6212894b491c0f80e88aa6e5b151acb9428f8df13a988025a2fc1bb7b818f3e0",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "1065B",
+        "574B",
+        "295B",
+        "2052F",
+        "436C"
       ]
     },
     {
@@ -2530,11 +2530,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/graph/virtual-tree.md",
       "source_sha256": "9e9060bf7c6f3b131e4535faebc5dc56faa7bb4298d7eb6c0e02e6671f85673c",
       "codeforces": [
-        "939A",
-        "1944A",
-        "1549B",
-        "755A",
-        "1797A"
+        "899C",
+        "320B",
+        "427C",
+        "283B",
+        "1949I"
       ]
     },
     {
@@ -2543,11 +2543,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/index.md",
       "source_sha256": "2bb06d87aa394cc7cdfe63fc0430b2b010ed0f8a98fb29eaa1cead04fabe6367",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1999A",
+        "999A",
+        "1159A",
+        "863A",
+        "13A"
       ]
     },
     {
@@ -2556,11 +2556,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/about.md",
       "source_sha256": "a33acb9b9ea062ed4f8ba9f30095f308b3d03e061df3e354ca2ae413657164e5",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1829B",
+        "248A",
+        "680A",
+        "814A",
+        "604A"
       ]
     },
     {
@@ -2569,11 +2569,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/docker-deploy.md",
       "source_sha256": "98a7740f4ed03d273d09927cf1b59fbdf341eded2b511f825b1b564ba19b9338",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "581A",
+        "1728A",
+        "1031A",
+        "194A",
+        "359A"
       ]
     },
     {
@@ -2582,11 +2582,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/faq.md",
       "source_sha256": "c5c0d8fc0cc5f0e248aa516e0146b3008e0a8cf4f5d892c8e93a1234dca73e36",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1512A",
+        "1176A",
+        "1099A",
+        "52A",
+        "106A"
       ]
     },
     {
@@ -2595,11 +2595,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/format.md",
       "source_sha256": "de49306be650e9c1b86b682a5c48396ba38bf0cbd07f1240ab15dcc3bb3bc141",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1760A",
+        "1453A",
+        "1534A",
+        "745A",
+        "452A"
       ]
     },
     {
@@ -2608,11 +2608,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/htc.md",
       "source_sha256": "8c12fca1cdada2d97f3c8924e67617d28cef9b169d020aeb436d6518f1fa4801",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1915A",
+        "2189A",
+        "735A",
+        "980A",
+        "14B"
       ]
     },
     {
@@ -2621,11 +2621,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/mirrors.md",
       "source_sha256": "d46cb93287369d8cfd119638e1da652774b2e98d86f06b1499225ef5323cd5c5",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1791C",
+        "2010B",
+        "931A",
+        "616A",
+        "1084A"
       ]
     },
     {
@@ -2634,11 +2634,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/symbol.md",
       "source_sha256": "15c414dea069d013a7fdfa9146f02a74b0c2a7444ba10ba1031796c74c1f3e76",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "32B",
+        "1809A",
+        "14A",
+        "1737A",
+        "920A"
       ]
     },
     {
@@ -2647,11 +2647,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/thanks.md",
       "source_sha256": "758e0485160deebd9ae7618db89044b3ecdca2e199a5f1342d2808a8ad2f9efb",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1873C",
+        "2103A",
+        "1315A",
+        "961A",
+        "368A"
       ]
     },
     {
@@ -2660,11 +2660,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/intro/what-oi-wiki-is-not.md",
       "source_sha256": "8787419ecc9793acd87f777bf02fb2b9c27f4c456f238c29cfe626653216e680",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "758A",
+        "1712A",
+        "1209A",
+        "870A",
+        "357A"
       ]
     },
     {
@@ -2673,11 +2673,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/array.md",
       "source_sha256": "6276fe4068501b592b67c2dc65615dbe7cfa7bb1a6a376344d0226a33b420c21",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1850A",
+        "2152A",
+        "278A",
+        "387A",
+        "35A"
       ]
     },
     {
@@ -2686,11 +2686,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/basic.md",
       "source_sha256": "fe48c41c6534d5adaccbc0bab1d88d74937372d2e2e0ffc138eb9d1ca2247ea7",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1560A",
+        "1744B",
+        "1106A",
+        "586A",
+        "1970A1"
       ]
     },
     {
@@ -2699,11 +2699,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/branch.md",
       "source_sha256": "de00cd7bff433d563a296a823d1d505e74f360f3a9ab9db679e5186d216108b8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1873A",
+        "1627A",
+        "1085A",
+        "465A",
+        "724A"
       ]
     },
     {
@@ -2712,11 +2712,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/class.md",
       "source_sha256": "fc063c4840f6e141f36d5a513a10a7e9eb3a2040d021fb979fad8a07f320240b",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "490A",
+        "1937A",
+        "712A",
+        "975A",
+        "725A"
       ]
     },
     {
@@ -2725,11 +2725,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/const.md",
       "source_sha256": "1e06c2e895914092a925ab7c33078412944d8e0c0b8600502acdef016d786819",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1950A",
+        "2173A",
+        "1150A",
+        "981A",
+        "182B"
       ]
     },
     {
@@ -2738,11 +2738,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/cpp-other-langs.md",
       "source_sha256": "321bb745fdc168182e1e8830c21f61f5ee1cb472b27f3019fece108bbc570340",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "432A",
+        "1795A",
+        "1501A",
+        "549A",
+        "284B"
       ]
     },
     {
@@ -2751,11 +2751,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/algorithm.md",
       "source_sha256": "a51ca9af103956c842f9e76fead2cb5d9f13281ae4c9e44c4fd89443522e206f",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "703A",
+        "1061A",
+        "811A",
+        "868A",
+        "420A"
       ]
     },
     {
@@ -2764,11 +2764,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/associative-container.md",
       "source_sha256": "4153b147b93544cb8c7f30302e9ddf7dd71cfc1eabe5f4789b229decd51fdf3e",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1722A",
+        "1991A",
+        "1009A",
+        "376A",
+        "1090M"
       ]
     },
     {
@@ -2777,11 +2777,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/bitset.md",
       "source_sha256": "16294010b33bcd40c61b61d9ac5e978a3992003faab76588e542f1553d406dad",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "431A",
+        "2230A",
+        "1130A",
+        "263B",
+        "628A"
       ]
     },
     {
@@ -2790,11 +2790,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/container.md",
       "source_sha256": "090f76f42414141dff0a71feb7569afb465e5f298cd97106ff414e1b5ee7f256",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1370A",
+        "2049A",
+        "1786A2",
+        "916A",
+        "1054B"
       ]
     },
     {
@@ -2803,11 +2803,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/container-adapter.md",
       "source_sha256": "2d01dfbdb26ff001c9dee9fa2eb221094d2f4294f567fc63c68725fce0d81104",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "492A",
+        "716A",
+        "888A",
+        "631A",
+        "626A"
       ]
     },
     {
@@ -2816,11 +2816,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/index.md",
       "source_sha256": "1676fc6e386732d6151509a6c856c21598da7ebfd0ef82dfe5cd2967587de18d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1926A",
+        "746A",
+        "938A",
+        "747B",
+        "106B"
       ]
     },
     {
@@ -2829,11 +2829,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/iterator.md",
       "source_sha256": "43823e0ce80474dc3d8bf5051c518e4cf35a3d80accd529eb52bd2ffa0afee65",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1433A",
+        "1739A",
+        "177A1",
+        "415A",
+        "1177A"
       ]
     },
     {
@@ -2842,11 +2842,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/pair.md",
       "source_sha256": "66412a4478c622e3e874ee68cfb2d44d6b39cd8f4f6f3c57b5159e3bf0979bc7",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1742B",
+        "1616A",
+        "1028A",
+        "879A",
+        "400A"
       ]
     },
     {
@@ -2855,11 +2855,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/sequence-container.md",
       "source_sha256": "65b5f757285eaf2a58685b812911aca1b493ead5f3948c320af04495eaf4313f",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1772A",
+        "2204A",
+        "2038N",
+        "765A",
+        "847M"
       ]
     },
     {
@@ -2868,11 +2868,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/string.md",
       "source_sha256": "74cd7dc6789bdbd6138b37135b0c0fd12dbf47a9bf8add70c3b2e531f6a5a9bd",
       "codeforces": [
-        "112A",
-        "236A",
-        "339A",
-        "281A",
-        "59A"
+        "855A",
+        "831B",
+        "1201A",
+        "844A",
+        "548A"
       ]
     },
     {
@@ -2881,11 +2881,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/csl/unordered-container.md",
       "source_sha256": "0ba5b9aa954f9a23e8c71c192a02bc881190d794270ac5906c26674c015a2a67",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1971A",
+        "1618B",
+        "363A",
+        "424A",
+        "371A"
       ]
     },
     {
@@ -2894,11 +2894,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/file-op.md",
       "source_sha256": "06d23c96cabea5facab7630a51ebded7d9b84f46dc82b45f9f2649b64e7c607b",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1788A",
+        "1146A",
+        "884A",
+        "810A",
+        "641A"
       ]
     },
     {
@@ -2907,11 +2907,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/func.md",
       "source_sha256": "b118afa55b97ea60a493331dd5e16f89f36e227964830410625d09d44bcd43bc",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1520A",
+        "1207A",
+        "1043A",
+        "653A",
+        "74A"
       ]
     },
     {
@@ -2920,11 +2920,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/helloworld.md",
       "source_sha256": "20aa102eea9cf6b2d8e9a877d54f5417aa2f70cb4a5709d198b60a9d6af365a3",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1814A",
+        "1694A",
+        "954A",
+        "1468N",
+        "660B"
       ]
     },
     {
@@ -2933,11 +2933,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/index.md",
       "source_sha256": "8438c7ee12ca764d2ab0a9f5efbbcc3be0c608e11bf08c2b1d24763ac9a4a8ed",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1722B",
+        "1108A",
+        "976A",
+        "834A",
+        "637A"
       ]
     },
     {
@@ -2946,11 +2946,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/java.md",
       "source_sha256": "d99cb389f7f802b7f99efd657e1997a19f475ec91253ae57cab19e4b15f50d0a",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "749A",
+        "780A",
+        "673A",
+        "820A",
+        "120A"
       ]
     },
     {
@@ -2959,11 +2959,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/java-pro.md",
       "source_sha256": "4eed72991a0b3d9544d5f296288182af8659a1fe7e862f385348f557e05d5ab0",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1535A",
+        "1647A",
+        "873A",
+        "10A",
+        "958B1"
       ]
     },
     {
@@ -2972,11 +2972,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/lambda.md",
       "source_sha256": "9ac05f5ac3e186ca1afb1541658011d0cbccf691b6f763b96580081eb82019a5",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1669B",
+        "1228A",
+        "447A",
+        "244A",
+        "125B"
       ]
     },
     {
@@ -2985,11 +2985,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/loop.md",
       "source_sha256": "01d3f548219fffce4f343fc9d203761acef4e7d70733f6ba468dadf3c44c42d6",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "707A",
+        "1620A",
+        "851A",
+        "45A",
+        "491A"
       ]
     },
     {
@@ -2998,11 +2998,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/namespace.md",
       "source_sha256": "eaa6166d6138f09474a262fc5eff6d7a7542c2dd0ddbae12c9d3a8dd633c3ff1",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1915C",
+        "1749A",
+        "837A",
+        "793A",
+        "649A"
       ]
     },
     {
@@ -3011,11 +3011,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/new.md",
       "source_sha256": "f4ca990478545ecc247a7519851b0ffbcfcd9b2a73161637a23c68022daecd39",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1426A",
+        "1287A",
+        "46A",
+        "729A",
+        "1211A"
       ]
     },
     {
@@ -3024,11 +3024,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/op.md",
       "source_sha256": "46030d08162e52c1449440f5dad77c59083dcd65e6f0f6c013ba8e845f14d5b5",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1850C",
+        "1230A",
+        "426A",
+        "137A",
+        "1769B1"
       ]
     },
     {
@@ -3037,11 +3037,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/op-overload.md",
       "source_sha256": "ef90cd08d7cd3c4a1e9ab972da0cc0f070a878825d849b0aad91baa1d583036d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1760B",
+        "1006A",
+        "302A",
+        "847G",
+        "158B"
       ]
     },
     {
@@ -3050,11 +3050,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/optimizations.md",
       "source_sha256": "158bcead86e8af61986d0c9bb53d95a3999f2aafcf49c0ba242c52764073774c",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2009B",
+        "1015A",
+        "1054A",
+        "48A",
+        "467B"
       ]
     },
     {
@@ -3063,11 +3063,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pas-cpp.md",
       "source_sha256": "7cd1121cebdb0eff70a12db8b1f7268b0e13dfd41868f89449030aceefbeb80d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "731A",
+        "2146A",
+        "748A",
+        "299B",
+        "1335C"
       ]
     },
     {
@@ -3076,11 +3076,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pb-ds/index.md",
       "source_sha256": "5cb12f6ef2e160f5b88bc0c69a3e7c461e4d6038d9e18a99875550eb950d6c5e",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2126A",
+        "262A",
+        "245A",
+        "412A",
+        "1899B"
       ]
     },
     {
@@ -3089,11 +3089,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pb-ds/pq.md",
       "source_sha256": "6a01aeeed769c17f12cc7fc5747904f8e9bfaf0cfa79820b66f0a11ab8729c84",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1845A",
+        "2228A",
+        "1075A",
+        "130A",
+        "349A"
       ]
     },
     {
@@ -3102,11 +3102,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pb-ds/tree.md",
       "source_sha256": "c6302f48138ee784253d91db168bfdc369678e39b2f1672b37bed2bd22f8c5eb",
       "codeforces": [
-        "1511C",
         "913B",
-        "1675D",
         "886C",
-        "2171D"
+        "981C",
+        "2218F",
+        "431C"
       ]
     },
     {
@@ -3115,11 +3115,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/pointer.md",
       "source_sha256": "2278f2cc5b008c16ec5e7d6c3a015a11e3d3946085cd86b0c0e92eb148f5335d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2044B",
+        "1994A",
+        "440A",
+        "648A",
+        "2009C"
       ]
     },
     {
@@ -3128,11 +3128,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/python.md",
       "source_sha256": "0b0adc2522da1181eec6ac24dc44f89de7982406cb96eabfe131641b1fc8c965",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1766A",
+        "1969A",
+        "2038J",
+        "118A",
+        "1999D"
       ]
     },
     {
@@ -3141,11 +3141,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/reference.md",
       "source_sha256": "bed942873e1c8e6892fa6fe93209e9df5238889b268fee3d02d1fe3cb0165234",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1850B",
+        "1144A",
+        "821A",
+        "69A",
+        "227B"
       ]
     },
     {
@@ -3154,11 +3154,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/struct.md",
       "source_sha256": "308b6b9f8ab868a3c905deec54730e2347d5412b9d4053dcec7705a56bfcf8af",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1915B",
+        "770A",
+        "618A",
+        "131A",
+        "82A"
       ]
     },
     {
@@ -3167,11 +3167,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/union.md",
       "source_sha256": "b9a416d6dd9b3f64badb1a173f720b99aaf5e35731261a9f662071db8c9d0967",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1462A",
+        "92A",
+        "1162A",
+        "339B",
+        "463B"
       ]
     },
     {
@@ -3180,11 +3180,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/value-category.md",
       "source_sha256": "66131a3853e5d953ff31d35cced58f10d3d5abf3c0801570c8c47d9cc0f333c4",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "233A",
+        "2010A",
+        "177A2",
+        "379A",
+        "300A"
       ]
     },
     {
@@ -3193,11 +3193,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/lang/var.md",
       "source_sha256": "5d22d6f2cade75bec966155eb87a3f39cc9f6b017daacf7cf0fefd351264534f",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "935A",
+        "1411A",
+        "859A",
+        "476A",
+        "478A"
       ]
     },
     {
@@ -3207,10 +3207,10 @@
       "source_sha256": "ab5171837b94f121057e7fe8d33b79ab13fca8d1143ea107bb1d90eacf713a8b",
       "codeforces": [
         "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "2114A",
+        "1855A",
+        "1699A",
+        "1608A"
       ]
     },
     {
@@ -3219,11 +3219,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/field-theory.md",
       "source_sha256": "ec8a976b84ecdd1a6336c052c3947f43151fc471475a83b07c7b3f543c4e9808",
       "codeforces": [
-        "4A",
         "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1385A",
+        "1660B",
+        "1345A",
+        "1870A"
       ]
     },
     {
@@ -3232,11 +3232,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/group-theory.md",
       "source_sha256": "1b937126a57e4a3a29dbe4258d67d0df0445fc77b35ffeb57c46a2f7c3417699",
       "codeforces": [
-        "4A",
-        "50A",
         "617A",
-        "546A",
-        "486A"
+        "1358A",
+        "1883A",
+        "1269A",
+        "2258A"
       ]
     },
     {
@@ -3245,11 +3245,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/ring-theory.md",
       "source_sha256": "aff4886feabf99ec676e5b33ed0bb9f086d712f7bd0f82bd84287550331734c9",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1328A",
+        "1872A",
+        "1920A",
+        "2158A",
+        "1244A"
       ]
     },
     {
@@ -3258,11 +3258,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/algebra/schreier-sims.md",
       "source_sha256": "e480c5d4edf0a5acdd98be4454cd6c70bc0f42fd41acd75c7150a46a7269eea7",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1335A",
+        "2149A",
+        "1234A",
+        "1905A",
+        "1582A"
       ]
     },
     {
@@ -3271,11 +3271,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/berlekamp-massey.md",
       "source_sha256": "5e3556ab21d5dbbf07b98e7de40baaefb9619c44a27a8444da74d4135f28fc19",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1899A",
+        "1337A",
+        "1550A",
+        "2197A",
+        "1754B"
       ]
     },
     {
@@ -3284,11 +3284,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/bignum.md",
       "source_sha256": "2d56d04598dd73fc1639f726d1a10c3a6c235198c5af8f9c8cf0253820967b0a",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1154A",
+        "2218B",
+        "1987A",
+        "1715A",
+        "2257B"
       ]
     },
     {
@@ -3297,11 +3297,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/binary-exponentiation.md",
       "source_sha256": "f07dc15102b7de30e56f77eddde66395ec170876636db0e4d6bcd71fd125b72f",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1901A",
+        "1348A",
+        "1196A",
+        "1981A",
+        "1661A"
       ]
     },
     {
@@ -3310,11 +3310,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/binary-set.md",
       "source_sha256": "af897336ee4491aa95b64a4324b41198cc7da7bc84123554809bb4de772ba756",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1857A",
+        "2123A",
+        "1557A",
+        "2227C",
+        "1884A"
       ]
     },
     {
@@ -3323,11 +3323,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/bit.md",
       "source_sha256": "37cb7b69afd902cd008bcaba344f373ea067e135817c016e28f4e1783a17f641",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1409A",
+        "1933A",
+        "1790B",
+        "1592A",
+        "2229A"
       ]
     },
     {
@@ -3336,11 +3336,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/boolean-algebra.md",
       "source_sha256": "338663cdaac83de17099aa985c7e6d1299a59343ccb3ed1bf739ad86aea138c7",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "2009A",
+        "2008A",
+        "2130A",
+        "2233A",
+        "1080A"
       ]
     },
     {
@@ -3350,10 +3350,10 @@
       "source_sha256": "785791451b2562ae727e2d1d15e925b077a9628af7b1aad0f8c779a582f9f8b4",
       "codeforces": [
         "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1293B",
+        "1328B",
+        "804B",
+        "553A"
       ]
     },
     {
@@ -3362,11 +3362,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/bernoulli.md",
       "source_sha256": "15eb287fed1185add4784745c209036692b64e168851c6a0b5c9c441bd9de081",
       "codeforces": [
-        "1843C",
         "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1539A",
+        "1862D",
+        "1762C",
+        "1789C"
       ]
     },
     {
@@ -3375,11 +3375,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/catalan.md",
       "source_sha256": "46eaa8265ba390037943cdb6274b328d3fcdfc866ce92a36193de8f95c2915af",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
         "2030B",
-        "2108A"
+        "1732A",
+        "1433E",
+        "2246C",
+        "2163C"
       ]
     },
     {
@@ -3388,11 +3388,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/combination.md",
       "source_sha256": "32b06882f53b344f59f17d05c753e6f66b027715585f754eb99fe6db5467f732",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "2108A",
+        "1827A",
+        "1326C",
+        "1866B",
+        "1081C"
       ]
     },
     {
@@ -3401,11 +3401,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/derangement.md",
       "source_sha256": "5b7d077f2fdd8d82c563691002e4f9ab75ad00fb4748293363f724f906a97b23",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1499A",
+        "630C",
+        "2144C",
+        "2264C",
+        "1195D1"
       ]
     },
     {
@@ -3414,11 +3414,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/drawer-principle.md",
       "source_sha256": "a358873c5ab750234426e8b7106dcc011ec5d8da9d628edcdbbf4f6f54fd1f84",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1821A",
+        "1840B",
+        "1178C",
+        "630H",
+        "817B"
       ]
     },
     {
@@ -3427,11 +3427,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/entringer.md",
       "source_sha256": "ba374ba54824b905b3028e205e01a7926fd2a7b284fb9a982d0c1a78afc0fcba",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1823A",
+        "2125C",
+        "1594E1",
+        "1996D",
+        "1305C"
       ]
     },
     {
@@ -3440,11 +3440,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/eulerian.md",
       "source_sha256": "7a6b1a9d1edb47b978cb328c47a7d98f55ecd828fae0d25e6e8f43cda916be8e",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1855B",
+        "2025B",
+        "1096B",
+        "1462E1",
+        "1475E"
       ]
     },
     {
@@ -3453,11 +3453,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/fibonacci.md",
       "source_sha256": "c4ed9860c87527251e8597b8ed8375cb9435b1ced8abc53952e7fe4638ffbed9",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1582B",
+        "1574B",
+        "844B",
+        "2075C",
+        "1795D"
       ]
     },
     {
@@ -3466,11 +3466,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/graph-enumeration.md",
       "source_sha256": "fd551e7fe9524b828576751d1255f8e1b23d48287cc2233f03eca8ad2144314f",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "2005A",
+        "2240B",
+        "630F",
+        "1999F",
+        "322B"
       ]
     },
     {
@@ -3479,11 +3479,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/inclusion-exclusion-principle.md",
       "source_sha256": "d75c71253dcdbf45a2ccaa28ee3fa76a95e94a64b9dad8d87c63a5f3183f796d",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1771A",
+        "1514B",
+        "840A",
+        "1569C",
+        "1567C"
       ]
     },
     {
@@ -3492,11 +3492,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/partition.md",
       "source_sha256": "854a94f52cf507f7e85e0e91b66d3cbdeb29eb32bb6f05917e8abbd4c7f4eed3",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1543B",
+        "1985E",
+        "1513B",
+        "1236B",
+        "2128D"
       ]
     },
     {
@@ -3505,11 +3505,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/polya.md",
       "source_sha256": "230279f1b6b2b02466ecfec4230e4a6e210c5790a1519a1d2186fb71e2a98bc6",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1777B",
+        "1922B",
+        "2008F",
+        "1105C",
+        "1985G"
       ]
     },
     {
@@ -3518,11 +3518,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/stirling.md",
       "source_sha256": "7531255fae69e486b511eb884338fcd909535389775eadc29f51ed3bdb24c192",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "1840C",
+        "478B",
+        "131C",
+        "1614C",
+        "1957C"
       ]
     },
     {
@@ -3531,11 +3531,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/combinatorics/vandermonde-convolution.md",
       "source_sha256": "e334c406dc2431a459f15176ea91d4dbfda417896e99c8cc95281a0dd849a0f1",
       "codeforces": [
-        "1843C",
-        "1674B",
-        "1743A",
-        "2030B",
-        "2108A"
+        "610A",
+        "1931D",
+        "978E",
+        "1767D",
+        "2040C"
       ]
     },
     {
@@ -3544,11 +3544,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/complex.md",
       "source_sha256": "df008e3a8b17b7bd634d31c8244ba2f604dd5575569dc8de89d8c2e1bf71d295",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1858A",
+        "1593A",
+        "1983A",
+        "1759B",
+        "2229B"
       ]
     },
     {
@@ -3557,11 +3557,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/coordinate.md",
       "source_sha256": "c17003b6d8baa6187b80bfb3c068952e4dfc6f88919992b410a10870473602a5",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "9A",
+        "2093A",
+        "1674A",
+        "1249A",
+        "1719B"
       ]
     },
     {
@@ -3570,11 +3570,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/game-theory/impartial-game.md",
       "source_sha256": "e8f74412f1791006419fd864509781f23b0fb214bf6826556d4f1b4371bd13a9",
       "codeforces": [
-        "1899A",
-        "1858A",
-        "959A",
-        "2218A",
-        "1919A"
+        "1919A",
+        "1684A",
+        "1270A",
+        "2261C",
+        "2104C"
       ]
     },
     {
@@ -3583,11 +3583,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/game-theory/intro.md",
       "source_sha256": "616de72e7ff0462aee99896f010fb9ec3ae9ade6f8055327eba4eb681ad35f53",
       "codeforces": [
-        "1899A",
-        "1858A",
-        "959A",
-        "2218A",
-        "1919A"
+        "2055A",
+        "2040A",
+        "2261A",
+        "1920B",
+        "841B"
       ]
     },
     {
@@ -3596,11 +3596,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/game-theory/partizan-game.md",
       "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "codeforces": [
-        "1899A",
-        "1858A",
-        "959A",
-        "2218A",
-        "1919A"
+        "2266B",
+        "832A",
+        "1848A",
+        "1455C",
+        "705B"
       ]
     },
     {
@@ -3609,11 +3609,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/game-theory/zero-sum-game.md",
       "source_sha256": "a33301c644e5a2bdaf75ba6943460f0c80447d45c664b483d5bd042c53be80e7",
       "codeforces": [
-        "1899A",
-        "1858A",
-        "959A",
-        "2218A",
-        "1919A"
+        "1719A",
+        "1842A",
+        "2258B1",
+        "2107B",
+        "1916C"
       ]
     },
     {
@@ -3622,11 +3622,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/index.md",
       "source_sha256": "41476660b98e720a284b2e695c8012a6acb7c1c73b7afbae223a90e4ead812ed",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "472A",
+        "1537A",
+        "2075A",
+        "1731A",
+        "1793A"
       ]
     },
     {
@@ -3635,11 +3635,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/basis.md",
       "source_sha256": "5551d8797a75db5888da2c54d56418d9bf16f044b967be2a436bc1dd68915579",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1343B",
+        "2051B",
+        "1833C",
+        "1774A",
+        "47A"
       ]
     },
     {
@@ -3648,11 +3648,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/char-poly.md",
       "source_sha256": "4d8917e345aad4a525864519514d15b2bc88cfd6af5652850e88c8914bbecafa",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1367B",
+        "2184A",
+        "2030A",
+        "1700A",
+        "1804A"
       ]
     },
     {
@@ -3661,11 +3661,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/determinant.md",
       "source_sha256": "2f70b6c43cf26f44f682764d0332f8dc617664582c1e87609774e293055a95bd",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1374A",
+        "2121A",
+        "1886A",
+        "1436A",
+        "1417A"
       ]
     },
     {
@@ -3674,11 +3674,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/diagonalization.md",
       "source_sha256": "f638ad821b2a64948683b01d2fd8da0a7aad70a7066d6d36c8abb0f6830c7f7b",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1873B",
+        "2131A",
+        "2119A",
+        "2078A",
+        "1942A"
       ]
     },
     {
@@ -3687,11 +3687,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/elementary-operations.md",
       "source_sha256": "62f7cffb7433e977600162e83d4fb51c41a6c9863b6e1862605b2d48591f76bd",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "2044A",
+        "1977A",
+        "2057A",
+        "1492A",
+        "1556A"
       ]
     },
     {
@@ -3700,11 +3700,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/index.md",
       "source_sha256": "dcc387d64596fb265b982a66152f217a9b8cc9ca8099737b452f8b1597da51d4",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "2167A",
+        "1660A",
+        "1594A",
+        "2024A",
+        "1437A"
       ]
     },
     {
@@ -3713,11 +3713,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/jordan.md",
       "source_sha256": "9438e3e8c8b9170111ad0d158de17f81d35f43e2b977aa62406cc4d606539fc0",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1853A",
+        "1560B",
+        "1934A",
+        "2160A",
+        "1093A"
       ]
     },
     {
@@ -3726,11 +3726,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/linear-mapping.md",
       "source_sha256": "07a3258b956b4870649b177d94eacaf5365e82a57ff2923933614cb2b5d68aef",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1676B",
+        "2171A",
+        "1917A",
+        "1452A",
+        "1625A"
       ]
     },
     {
@@ -3742,8 +3742,8 @@
         "1648A",
         "485A",
         "166E",
-        "1980E",
-        "337C"
+        "337C",
+        "1557C"
       ]
     },
     {
@@ -3752,11 +3752,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/product.md",
       "source_sha256": "a2c0aa5fa7b677bc8e7409ea0341bd493e8728930a9b0b0ab17a20232849635f",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1283A",
+        "1992B",
+        "2043A",
+        "2234B",
+        "2276A"
       ]
     },
     {
@@ -3765,11 +3765,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/vector.md",
       "source_sha256": "f87b1e66396f077763534ba25ca99a1dcaea39d2bca32e2c6003423ff523d472",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1837A",
+        "1974A",
+        "2136A",
+        "1838A",
+        "1255A"
       ]
     },
     {
@@ -3778,11 +3778,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-algebra/vector-space.md",
       "source_sha256": "df78ea0332cfbeaa1affb915c02325a023946752b34799601cb075d541012e45",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1859A",
+        "1421A",
+        "1102A",
+        "1708A",
+        "2202A"
       ]
     },
     {
@@ -3791,11 +3791,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/linear-programming.md",
       "source_sha256": "8a2426145a581849bc9ee0a52ae9f8dfa87367eb1397582edced07dce20a0082",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1877A",
+        "2106A",
+        "1517A",
+        "2225A",
+        "2084A"
       ]
     },
     {
@@ -3804,11 +3804,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/matroid.md",
       "source_sha256": "7e25187a06613e7b62c1e017df873d59ce34939c2d671d2208e8aedd233b288b",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1624A",
+        "1675A",
+        "2056A",
+        "2208A",
+        "1194A"
       ]
     },
     {
@@ -3817,11 +3817,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/basic.md",
       "source_sha256": "49d74fe2324eb9445c70557fcab725e9d071b9b424f78bea1c4e383167a12fb4",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1968A",
+        "1475A",
+        "2037C",
+        "858A",
+        "1372B"
       ]
     },
     {
@@ -3830,11 +3830,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/bezouts.md",
       "source_sha256": "2ec291c706c628cee2a1ddbe875a036f6596cbd1604d456e18a11ae4bba24dab",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2195A",
+        "1679A",
+        "1858C",
+        "1541B",
+        "1881D"
       ]
     },
     {
@@ -3843,11 +3843,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/congruence-equation.md",
       "source_sha256": "b9170d0e8e33890c50cfcd673d4afb7d0997992b24286365bcfe9c5e1b6ec654",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1789A",
+        "1543A",
+        "17A",
+        "1909B",
+        "1401C"
       ]
     },
     {
@@ -3856,11 +3856,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/continued-fraction.md",
       "source_sha256": "ae7462f2591b00e004108cc945e0fb2410513c33dbb1469a4d322f500c69d323",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2241A",
+        "1828B",
+        "2164B",
+        "1487B",
+        "1850F"
       ]
     },
     {
@@ -3869,11 +3869,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/crt.md",
       "source_sha256": "9c2506adbb8df5c9461ce3e9f60f4dc6f7b942f7ab4d0b8ea02d20c18c5365b7",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1549A",
+        "1471A",
+        "1562B",
+        "1409C",
+        "1521B"
       ]
     },
     {
@@ -3882,11 +3882,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/dirichlet.md",
       "source_sha256": "6425e75e548b81a4275679a478b22c1bf928014d2fa27f28ef0b946913386564",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1553A",
+        "1535B",
+        "2204C",
+        "1933D",
+        "1601A"
       ]
     },
     {
@@ -3895,11 +3895,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/discrete-logarithm.md",
       "source_sha256": "df6b8ebcdaacfbd219a5cd5443bb047af850bf7033142ffe7f986689574b5c99",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2063A",
+        "2125B",
+        "1051B",
+        "1925B",
+        "1454D"
       ]
     },
     {
@@ -3908,11 +3908,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/euclidean.md",
       "source_sha256": "e921e4c1c46ee8cc75e475a7e0522eb200736b134f4276645738b9fe480b184a",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1768A",
+        "1238A",
+        "1107B",
+        "1954C",
+        "519C"
       ]
     },
     {
@@ -3921,11 +3921,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/euler-totient.md",
       "source_sha256": "db91f9babfa459ff54b88222b58760bc8e53e87b8fdcd4b8c94cc91361b5533e",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2092A",
+        "2137B",
+        "1245A",
+        "2117D",
+        "2091E"
       ]
     },
     {
@@ -3934,11 +3934,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/factorial.md",
       "source_sha256": "b65629f091c2e16c4ac2ce74c44612a615aee4c9d5918fa92c30afcce273a71e",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1916A",
+        "1617B",
+        "1826B",
+        "2134B",
+        "573A"
       ]
     },
     {
@@ -3947,11 +3947,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/fermat.md",
       "source_sha256": "1839b53cfc48791cfe3012eff20c2f900edac401b59b8632622d2b2862cce2f4",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2071A",
+        "1945B",
+        "1780B",
+        "1656C",
+        "2044E"
       ]
     },
     {
@@ -3960,11 +3960,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/gcd.md",
       "source_sha256": "e3fa28629c6289816f2c2923200c5be0e2b52904e776b7c0c1fb9433f0435a44",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1455A",
+        "1720A",
+        "1872C",
+        "1736B",
+        "1407B"
       ]
     },
     {
@@ -3973,11 +3973,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/hyperbola.md",
       "source_sha256": "b4bd2ce57ee9aa3ebf05df7f39a2834f232574d205dd7b86855bb05b81cd40d5",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1525A",
+        "2140B",
+        "1933C",
+        "1982B",
+        "1603A"
       ]
     },
     {
@@ -3986,11 +3986,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/inverse.md",
       "source_sha256": "97d75607b68625778689bab01598b6e682fa4f4d665c5889b70ff4ea58edf6b9",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2020A",
+        "2035B",
+        "1108B",
+        "2021B",
+        "1902C"
       ]
     },
     {
@@ -3999,11 +3999,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/lift-the-exponent.md",
       "source_sha256": "35bc614b0290d993fa8bc4db6ae113471d78684e879d8164d1623ee43a09e482",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1388A",
+        "1609A",
+        "1370B",
+        "456B",
+        "2124C"
       ]
     },
     {
@@ -4012,11 +4012,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/linear-equation.md",
       "source_sha256": "324e00b943e2bf06b0394117b363d435fd0838d56712ffd597027fb7f88f13db",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2259B",
+        "1764B",
+        "483A",
+        "1149A",
+        "2193E"
       ]
     },
     {
@@ -4025,11 +4025,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/lucas.md",
       "source_sha256": "aabfd71d846932d856f2cb4ff6b1e986f9c994280c3ed1fcfa245b8f81941008",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1629B",
+        "2238B",
+        "1511B",
+        "1076B",
+        "2031C"
       ]
     },
     {
@@ -4038,11 +4038,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/min-25.md",
       "source_sha256": "c34bea2b103c9a9b981afac5d95de5fac6f9e3607e2e594149eb7689c5e59948",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1514A",
+        "84A",
+        "682A",
+        "1133B",
+        "271B"
       ]
     },
     {
@@ -4051,11 +4051,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/mobius.md",
       "source_sha256": "85403ad619842bb73df57979b886663466913e17ba893fed56a3f93d7db4adf0",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2007A",
+        "2260B",
+        "2179C",
+        "2244D",
+        "1899D"
       ]
     },
     {
@@ -4064,11 +4064,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/mod-arithmetic.md",
       "source_sha256": "50a0dbfea4ceac8104e21f7f6c63f755d64cb9d924055620a97d21212f0944d0",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2234A",
+        "2226B",
+        "2218D",
+        "2039C1",
+        "1826C"
       ]
     },
     {
@@ -4077,11 +4077,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/pell-equation.md",
       "source_sha256": "6ac0484c0ffafe58f9de6767782ce05a87bf3308c82a81dbfaf948391941cec6",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2032A",
+        "267A",
+        "2131C",
+        "1068B",
+        "1864C"
       ]
     },
     {
@@ -4090,11 +4090,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/pollard-rho.md",
       "source_sha256": "2eb27b4b924956fe07bc7e46f25a7eb0f52ca0d78be6e158895676a3fdec3687",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2048A",
+        "742A",
+        "1593D1",
+        "1877C",
+        "1823C"
       ]
     },
     {
@@ -4103,11 +4103,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/powerful-number.md",
       "source_sha256": "987b5c7721c4d87707639ca729d7647126320ccf16844b43c82ee961fde334eb",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "664A",
+        "1474B",
+        "2043B",
+        "787A",
+        "371B"
       ]
     },
     {
@@ -4116,11 +4116,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/prime.md",
       "source_sha256": "b31a06c9b2fa4f637cb25cea746e9820d5c0b35ddc73d6f97d702481f3a8f76f",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2144A",
+        "1521A",
+        "797A",
+        "1143B",
+        "2217C"
       ]
     },
     {
@@ -4129,11 +4129,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/prime-counting.md",
       "source_sha256": "89fd160e5f6cb49e8bdcfbc2908b6d857224b65d7bfb97023e3e5c10e454ed66",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2253A",
+        "766B",
+        "2244C",
+        "2267C",
+        "1220B"
       ]
     },
     {
@@ -4142,11 +4142,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/primitive-root.md",
       "source_sha256": "3d37c3d7afb70a77a027ae4b1f5cdde7ee8f64b276c51f0e77ee17eded6ef66a",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1605A",
+        "1765M",
+        "2084B",
+        "660A",
+        "2194C"
       ]
     },
     {
@@ -4155,11 +4155,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/quad-residue.md",
       "source_sha256": "f6409e942cd3e85846e6f830a88dd34f1876dcc863ab0f4ee9b82b0d224431aa",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1717A",
+        "1485A",
+        "1787B",
+        "361B",
+        "876B"
       ]
     },
     {
@@ -4168,11 +4168,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/quadratic.md",
       "source_sha256": "bbea8440d5427addd4135c8c07216242d3e1ef854fa149414a95cbfa4ce78677",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1762A",
+        "1473B",
+        "633A",
+        "2181H",
+        "870C"
       ]
     },
     {
@@ -4181,11 +4181,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/residue.md",
       "source_sha256": "433e63ed611e7c747feb6e4d8437950682bd8216418cd594ed83f1fa2c26b847",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1658B",
+        "1916B",
+        "630J",
+        "817A",
+        "1155C"
       ]
     },
     {
@@ -4194,11 +4194,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/sieve.md",
       "source_sha256": "9d35d132f3824731584d09f7c0b5fa9e2eff3d388544b1becc0783e38e475cf6",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1810B",
+        "2167D",
+        "1033B",
+        "1184A1",
+        "1209B"
       ]
     },
     {
@@ -4207,11 +4207,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/sqrt-decomposition.md",
       "source_sha256": "d942aa2bd3a5f961f582b37d54acb606f3287db2be5e1b5d44a48d1b36a14765",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "2034A",
+        "2093C",
+        "1166B",
+        "230B",
+        "900B"
       ]
     },
     {
@@ -4220,11 +4220,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/stern-brocot.md",
       "source_sha256": "288ecdabd06227b2634aff8297f24233dcdbfb7d355bb0d1740816fd57eb941f",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1583A",
+        "1998B",
+        "946B",
+        "1294C",
+        "633B"
       ]
     },
     {
@@ -4233,11 +4233,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/number-theory/zhou.md",
       "source_sha256": "c16b896aed618fb55f58d2790568e55b0197edc17ea06052893904d6926c6e85",
       "codeforces": [
-        "1899A",
-        "472A",
-        "1370A",
-        "1859A",
-        "749A"
+        "1581A",
+        "1515B",
+        "2276C",
+        "1360D",
+        "1526B"
       ]
     },
     {
@@ -4246,11 +4246,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numeral-sys/balanced-ternary.md",
       "source_sha256": "53b4ffba0118a71b6502b6e1541d83b69c8d28cdc3ba2c6b80e7273b74512a14",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1866A",
+        "2008C",
+        "1304A",
+        "2061A",
+        "1236A"
       ]
     },
     {
@@ -4259,11 +4259,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numeral-sys/base.md",
       "source_sha256": "462c7970ddcf16f1b51c319cacbb249831d6926234442700e5c1343e2e0a447b",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1996A",
+        "2137A",
+        "1665A",
+        "1680A",
+        "1763A"
       ]
     },
     {
@@ -4272,11 +4272,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numeral-sys/gray-code.md",
       "source_sha256": "af9dd5a4abe47609c33a4790580a5175d924493f8eeb286f4b985b2c8b918eda",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1551A",
+        "2236A",
+        "2139A",
+        "1223A",
+        "1428A"
       ]
     },
     {
@@ -4285,11 +4285,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numeral-sys/intro.md",
       "source_sha256": "209d9c9bf2f0b4d33a6f07375d8e7950c8f577ab9634d1686d4a52734582d52f",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1985B",
+        "1716A",
+        "1741B",
+        "2127A",
+        "1443A"
       ]
     },
     {
@@ -4298,11 +4298,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numerical/gauss.md",
       "source_sha256": "2d93b6a19bcf069915df559e675dd953694a032cddcaccc376a99293eeee125b",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1360A",
+        "1929A",
+        "1929B",
+        "1638A",
+        "2226A"
       ]
     },
     {
@@ -4311,11 +4311,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numerical/integral.md",
       "source_sha256": "255b82fa1ce6b5379a609ccf68c4cbce60bfec0414c120adf7b7e4c0304e6b26",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "959A",
+        "1618A",
+        "2070A",
+        "835A",
+        "1415A"
       ]
     },
     {
@@ -4324,11 +4324,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numerical/interp.md",
       "source_sha256": "469bbf0e909cbdebded34b5ab46a4d59e22f0767e5467eaa03468b5c24e9f3c4",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1783A",
+        "1878B",
+        "2104A",
+        "1716B",
+        "1271A"
       ]
     },
     {
@@ -4337,11 +4337,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/numerical/newton.md",
       "source_sha256": "75165a58fe6f6e50eeb27e17b1af6b66d62cb106c933d2e5261d6bfa53919254",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1294A",
+        "2086A",
+        "1822B",
+        "1530A",
+        "1584A"
       ]
     },
     {
@@ -4350,11 +4350,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/order-theory.md",
       "source_sha256": "4f2cd6c4ba0df015f6f2c8965df6966b01d1c7b3be419a1f311e39ea3ab8be66",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1955A",
+        "1538B",
+        "2256A",
+        "513A",
+        "1185A"
       ]
     },
     {
@@ -4363,11 +4363,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/permutation.md",
       "source_sha256": "d38fe3f5deffb7d46e8e2e30d384437cd7253f594a8c0e58f3deab8cd7ce05ed",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1542A",
+        "2014B",
+        "1562A",
+        "1684B",
+        "1413A"
       ]
     },
     {
@@ -4376,11 +4376,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/comp-rev.md",
       "source_sha256": "dd09454649980cc16de9fdd9e091d93934e4af971a712f9fad3931e3a7ab1758",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1834A",
+        "1611A",
+        "1206A",
+        "1118A",
+        "854A"
       ]
     },
     {
@@ -4389,11 +4389,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/czt.md",
       "source_sha256": "da0432e1e92f38aa24a5fd5ce21663257659589cd648376bc403b2c2b10b62b4",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1389A",
+        "1914B",
+        "1861A",
+        "1392A",
+        "1447A"
       ]
     },
     {
@@ -4402,11 +4402,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/egf.md",
       "source_sha256": "1d42b126fafb79d6d4afe0088fefd74df53bdabe85182ddb451e41d07ec4ef44",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1371A",
+        "1490A",
+        "1895A",
+        "1895B",
+        "2029A"
       ]
     },
     {
@@ -4415,11 +4415,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/elementary-func.md",
       "source_sha256": "b36a3d67af564e869b1c9dbc15250458f4a38e90a24d2debcf14c191f2129b8c",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "2148A",
+        "1506A",
+        "2067A",
+        "1257A",
+        "1081A"
       ]
     },
     {
@@ -4441,11 +4441,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/fundamental.md",
       "source_sha256": "f47188e95d1e2ac6c202a9e7ff03a378f561373ff69c7193eac1ed378b10d67b",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1520B",
+        "2218C",
+        "2244B",
+        "1615A",
+        "1131A"
       ]
     },
     {
@@ -4454,11 +4454,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/fwt.md",
       "source_sha256": "a1bfc8f6f1b1a555ada2c1012c3659ad310f8cec2caef727d157e3fcfda4056d",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1921A",
+        "2145A",
+        "2217A",
+        "1047A",
+        "952A"
       ]
     },
     {
@@ -4467,11 +4467,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/intro.md",
       "source_sha256": "f22f5556d0c03b29013fc2e77500f1e6d594f74bff9e5d20090bffdb7c3dee0f",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1777A",
+        "1077A",
+        "1978B",
+        "1515A",
+        "1013A"
       ]
     },
     {
@@ -4480,11 +4480,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/lagrange-inversion.md",
       "source_sha256": "478b242662500bb00de0b27c693a5fca28faa36bd5f0d1db6a6bcdf68c9ae586",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1992A",
+        "1843B",
+        "1566A",
+        "1482A",
+        "669A"
       ]
     },
     {
@@ -4493,11 +4493,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/linear-recurrence.md",
       "source_sha256": "1bc8f21306e26249719f86973795a86e28023755b5e2f30577339587f1c57d16",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1296A",
+        "1691A",
+        "2194A",
+        "1735A",
+        "2271A"
       ]
     },
     {
@@ -4506,11 +4506,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/multipoint-eval-interpolation.md",
       "source_sha256": "9c8b1608f873c9952cf7fcb959dc98d6b823fdfcbe88ac3c1d7cbc9a7b1fd5d4",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1941A",
+        "1611B",
+        "1828A",
+        "2113A",
+        "747A"
       ]
     },
     {
@@ -4519,11 +4519,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/newton.md",
       "source_sha256": "671768e3195532f3751174974c26df385caf75ccdf0e199d9d718d7a9f0192aa",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1980A",
+        "1851A",
+        "1451A",
+        "1393A",
+        "624A"
       ]
     },
     {
@@ -4532,11 +4532,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/ntt.md",
       "source_sha256": "0c50061c7f84c0e379bd6bcb4e8188d40f5fc925a0b30adccb6d526f16ccaad2",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "2185A",
+        "2131B",
+        "1646A",
+        "2269A",
+        "899A"
       ]
     },
     {
@@ -4545,11 +4545,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/ogf.md",
       "source_sha256": "2e5bcf05dc0246a6fea40ca51080cbda7ea31b2f14724137b2487a8824a21630",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "2044C",
+        "2013A",
+        "1748A",
+        "1787A",
+        "965A"
       ]
     },
     {
@@ -4558,11 +4558,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/shift.md",
       "source_sha256": "537b5cfeae9f3d658323cf0d4314adbf5acb8f01c7b84df59b93792dc674ad6b",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1729A",
+        "1529A",
+        "1391A",
+        "2238A",
+        "964A"
       ]
     },
     {
@@ -4571,11 +4571,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/poly/symbolic-method.md",
       "source_sha256": "f25aaa236346b2c97d273eccc956d298c9ea7a498499f0cb0855e896f137626b",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1472A",
+        "1519A",
+        "1822C",
+        "2203A",
+        "1725A"
       ]
     },
     {
@@ -4584,11 +4584,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/basic-conception.md",
       "source_sha256": "cf685440a2b90f130948701bf136ecd76a6725d377dcc3eb9291e71ed419678b",
       "codeforces": [
-        "9A",
         "1459A",
-        "1788B",
-        "476B",
-        "312B"
+        "518D",
+        "1824B1",
+        "167B",
+        "935D"
       ]
     },
     {
@@ -4597,11 +4597,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/concentration-inequality.md",
       "source_sha256": "ad10cf0f9a6729f72151d2c51b1cd9c51202379ba66c3b6dc2ba05cea5f93f24",
       "codeforces": [
-        "9A",
-        "1459A",
         "1788B",
-        "476B",
-        "312B"
+        "1279D",
+        "442B",
+        "1543C",
+        "1773A"
       ]
     },
     {
@@ -4610,11 +4610,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/conditional-probability.md",
       "source_sha256": "ccd0555573fe8f5b798d88c2dfadaa2ba1522ba950ba34da064a8ee0622c411b",
       "codeforces": [
-        "9A",
-        "1459A",
-        "1788B",
-        "476B",
-        "312B"
+        "312B",
+        "621C",
+        "2081A",
+        "1925D",
+        "261B"
       ]
     },
     {
@@ -4623,11 +4623,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/exp-var.md",
       "source_sha256": "e63bef76eae21bd86bce16893462d81b1368a32e9c8e70336d9f8a7a99987e94",
       "codeforces": [
-        "9A",
-        "1459A",
-        "1788B",
-        "476B",
-        "312B"
+        "1461C",
+        "696B",
+        "77B",
+        "1777D",
+        "1753C"
       ]
     },
     {
@@ -4636,11 +4636,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/probability/random-variable.md",
       "source_sha256": "2398a2cf64bcd0d2ddb607f03713311ecd2d40cd90d6b3ca5baedf4dc2b97c19",
       "codeforces": [
-        "9A",
-        "1459A",
-        "1788B",
-        "476B",
-        "312B"
+        "2125D",
+        "148D",
+        "846F",
+        "1453D",
+        "235B"
       ]
     },
     {
@@ -4649,11 +4649,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/simplex.md",
       "source_sha256": "878d0eb3c712bcdd60380c297b75d08d4b7a3ba12b7bf1cea4a0636e92420e2a",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "2193A",
+        "1945A",
+        "1657A",
+        "1656A",
+        "1769A"
       ]
     },
     {
@@ -4662,11 +4662,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/math/young-tableau.md",
       "source_sha256": "b657e2292c79ed82b26d2f5322fd892db952fd79db158099d9d997b8babee707",
       "codeforces": [
-        "4A",
-        "50A",
-        "617A",
-        "546A",
-        "486A"
+        "1353A",
+        "1285A",
+        "1498A",
+        "2163A",
+        "318A"
       ]
     },
     {
@@ -4675,11 +4675,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/15-puzzle.md",
       "source_sha256": "3e526982bb4f434b17499d6784654520f47132d2c6d896102d6728213713971e",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1950C",
+        "1300A",
+        "760A",
+        "1690D",
+        "535B"
       ]
     },
     {
@@ -4688,11 +4688,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/cc-basic.md",
       "source_sha256": "59705458b0bb678041bea0ac6c620ee4a1367a81eddf64a09430097d0de837c8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1368A",
+        "2090A",
+        "1250F",
+        "1744C",
+        "1669D"
       ]
     },
     {
@@ -4701,11 +4701,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/cdq-divide.md",
       "source_sha256": "c0a7db5e9594cd3818108f4315188c25aeba73a978c2422dae0923b9c5ce6fd9",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1311A",
+        "1017A",
+        "172A",
+        "450A",
+        "1976B"
       ]
     },
     {
@@ -4714,11 +4714,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/discrete.md",
       "source_sha256": "9a000669309ac94ec88e67f70bd9138b2ddcfbba95f3b46a40069a021ce00ce8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2014A",
+        "2260A",
+        "306A",
+        "577A",
+        "1365A"
       ]
     },
     {
@@ -4727,11 +4727,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/endianness.md",
       "source_sha256": "e6b04134653af798251be4b332501630664d51b3f3dd13fa2a2cee0114b886c5",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2218A",
+        "1767A",
+        "802G1",
+        "499B",
+        "1857B"
       ]
     },
     {
@@ -4740,11 +4740,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/expression.md",
       "source_sha256": "193c99cae54d018a3125ce72ab5f646334a41bfb9be2df8b9e85ce8c66eb15c8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1971B",
+        "1836A",
+        "411A",
+        "1999B",
+        "2137C"
       ]
     },
     {
@@ -4753,11 +4753,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/frac-programming.md",
       "source_sha256": "d32c31a010587feb077f7798f5ae6dbc9dc7661ad6ca4ee41533099657c28a21",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2132A",
+        "1864A",
+        "794A",
+        "1141A",
+        "365A"
       ]
     },
     {
@@ -4766,11 +4766,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/fsm.md",
       "source_sha256": "cfea51d9d9a9a34484dda28b8d3d7c5609c31ea0513eccafd97db4113f47e96d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1950B",
+        "1698B",
+        "818A",
+        "1691B",
+        "66B"
       ]
     },
     {
@@ -4779,11 +4779,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/garsia-wachs.md",
       "source_sha256": "56e56a56a9756ab5c0c737bb848489def077aa28e5810089ea5f8a695b2565a6",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2000A",
+        "1671A",
+        "386A",
+        "1506C",
+        "2036C"
       ]
     },
     {
@@ -4792,11 +4792,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/hill-climbing.md",
       "source_sha256": "2eb969c22af1c791afdea06efe2244e50b634d654b580a55510ca98b47aa6aee",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "509A",
+        "2002A",
+        "658A",
+        "139A",
+        "287A"
       ]
     },
     {
@@ -4805,11 +4805,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/hoverline.md",
       "source_sha256": "06b6336aace58bc996b332df17dffe95a54e6d1eef842d5f67f61d14198661a6",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1097A",
+        "701A",
+        "1056A",
+        "1362A",
+        "1692D"
       ]
     },
     {
@@ -4818,11 +4818,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/index.md",
       "source_sha256": "ce3f7a75e695beb4d1cc48b9137969091d8d77da9d0ce1c62a26dd88a5df8bd5",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1873D",
+        "1644B",
+        "421A",
+        "268B",
+        "1333B"
       ]
     },
     {
@@ -4831,11 +4831,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/job-order.md",
       "source_sha256": "d84c603fe79ba0cf961300ea57625457e083d6e7b5b9476c31e23e8d91581b4e",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "686A",
+        "1681B",
+        "291A",
+        "118B",
+        "799A"
       ]
     },
     {
@@ -4844,11 +4844,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/josephus.md",
       "source_sha256": "52a46672055501e304b3a4ac3d7bd9f62d64690d24012598e2c25f2645af36ee",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "265A",
+        "1798A",
+        "769A",
+        "1659A",
+        "166A"
       ]
     },
     {
@@ -4857,11 +4857,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/kahan-summation.md",
       "source_sha256": "0f1277dc5d707bf1d2685cede73e6e562915dbb77ee122b5bdd58cb33a10b785",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1186A",
+        "2170A",
+        "2141A",
+        "1704B",
+        "1984B"
       ]
     },
     {
@@ -4870,11 +4870,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/main-element.md",
       "source_sha256": "72be10acbd97a90520da0192c415c9621b9fbb8361eec5da74f2e6f36320b1e7",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1669C",
+        "615A",
+        "96A",
+        "219A",
+        "43B"
       ]
     },
     {
@@ -4883,11 +4883,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo.md",
       "source_sha256": "2e935c60e9534b469748b0bf1f694a5b34b95c6e142b16e3469dbc6c1d7b0961",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1907A",
+        "867A",
+        "405A",
+        "102B",
+        "1506B"
       ]
     },
     {
@@ -4896,11 +4896,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-2dimen.md",
       "source_sha256": "ab1d5995408c5a0c2855f318902b33e45136ed8336398d282360af429c668170",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1999C",
+        "2111A",
+        "133A",
+        "978C",
+        "2032B"
       ]
     },
     {
@@ -4909,11 +4909,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-intro.md",
       "source_sha256": "939c359751250b84531c5d2cdb95322422c934af6b3e1f48ca580086fa2978a6",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2033A",
+        "1975A",
+        "451A",
+        "75A",
+        "1957B"
       ]
     },
     {
@@ -4922,11 +4922,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-on-tree.md",
       "source_sha256": "1a0ad6b98cfdb52cd167f7d37476c8c278c3acdef9adb5e459daf13aaddae22c",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1703C",
+        "1658A",
+        "1850D",
+        "1676D",
+        "2070B"
       ]
     },
     {
@@ -4935,11 +4935,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-secondary-offline.md",
       "source_sha256": "39450ae398c6b7317377b71d0531dcaad0d3aa819951bb9c145e34e707f91a4d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2036A",
+        "1623A",
+        "313A",
+        "237A",
+        "1700B"
       ]
     },
     {
@@ -4948,11 +4948,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/mo-algo-with-bitset.md",
       "source_sha256": "fc48cc050f66a5276a5b86f233b6ad1d10110278be81d6b642976485a73d1035",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1790A",
+        "1894A",
+        "1624B",
+        "1373A",
+        "1471B"
       ]
     },
     {
@@ -4961,11 +4961,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/modifiable-mo-algo.md",
       "source_sha256": "7dcb9019f5ed6a88ccdfcc497e97cff074470019a496e01c88ba7882d80bd65c",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2072A",
+        "1430B",
+        "474A",
+        "1155A",
+        "1481B"
       ]
     },
     {
@@ -4974,11 +4974,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/odt.md",
       "source_sha256": "a677df953b4ee56582fcd986e7545d04bad58183eee32d68a8ce0b1900159fee",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1607A",
+        "1775A1",
+        "460A",
+        "352A",
+        "1332A"
       ]
     },
     {
@@ -4987,11 +4987,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/offline.md",
       "source_sha256": "143c8d23b8a5a8a567ea503096793f18e0281d195ceb0d07bde10f11fdb5ce88",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1692C",
+        "1440A",
+        "977B",
+        "2051C",
+        "1606B"
       ]
     },
     {
@@ -5000,11 +5000,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/parallel-binsearch.md",
       "source_sha256": "274731514501d89cc7467e0169e9d5f9666d0279bba14ba1517bf22c0033604c",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1325B",
+        "202A",
+        "1675B",
+        "272A",
+        "1675C"
       ]
     },
     {
@@ -5013,11 +5013,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/rand-technique.md",
       "source_sha256": "fa397493463e5888eab5ecf0e5aa21c55e785e3c0c689defff064f2644ec6ce3",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1840A",
+        "1301A",
+        "149A",
+        "1760D",
+        "1579B"
       ]
     },
     {
@@ -5026,11 +5026,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/random.md",
       "source_sha256": "1045b4aa75bd5d47560aa596030e549e0033754f3c885017c9daf06b0731a0d6",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2117A",
+        "1513A",
+        "1904A",
+        "1790C",
+        "1304B"
       ]
     },
     {
@@ -5039,11 +5039,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/rollback-mo-algo.md",
       "source_sha256": "870bdece84ce104c0a167c912dac96dd6d5ff0c6dc7c11644747fc7f821a6ba7",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2254A",
+        "1602A",
+        "1971C",
+        "1674C",
+        "1762B"
       ]
     },
     {
@@ -5052,11 +5052,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/simulated-annealing.md",
       "source_sha256": "bcfdf88e182fc82c1c95ccb2537832d58b12dcb0882dd008061e5b17255455bd",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2167C",
+        "1114A",
+        "1985D",
+        "165A",
+        "186A"
       ]
     },
     {
@@ -5065,11 +5065,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/space-optimization.md",
       "source_sha256": "f7c1eaa975458a57e5707ebfe87874ad4caacbe64e5407ae14c01811f87329c8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "822A",
+        "1316A",
+        "1742C",
+        "404A",
+        "218B"
       ]
     },
     {
@@ -5078,11 +5078,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/misc/two-pointer.md",
       "source_sha256": "60afe26ae9f555752a57e930401b51fb0ce1f398d575e8cf979869d253e58c4a",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1473A",
+        "1096A",
+        "709A",
+        "680B",
+        "433A"
       ]
     },
     {
@@ -5091,11 +5091,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/alpha-beta.md",
       "source_sha256": "99adb87178e9a899108a03a358f0b454b187e133c3c86ba835466d3750d2aa4a",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1800A",
+        "609A",
+        "275A",
+        "1300B",
+        "2228B"
       ]
     },
     {
@@ -5104,11 +5104,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/astar.md",
       "source_sha256": "942f9c1d6c6d7b27c57a74cef8a7815c1cc63ebf3e4d467d2646e450114b639d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1650A",
+        "2175A",
+        "1337B",
+        "2092B",
+        "1966B"
       ]
     },
     {
@@ -5117,11 +5117,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/backtracking.md",
       "source_sha256": "caa31dff39923aa8d23c1d155f7344d0025779e5b3a225284689ac308cf0d055",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1303A",
+        "1438A",
+        "567A",
+        "1841B",
+        "242B"
       ]
     },
     {
@@ -5130,11 +5130,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/bfs.md",
       "source_sha256": "7eab4ea8af6bcbc3d7842c35bb64b4f2eddaba988fd486e3e16bd49cc3c7ca2c",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1933B",
+        "1796A",
+        "1915D",
+        "1766B",
+        "2197B"
       ]
     },
     {
@@ -5143,11 +5143,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/bidirectional.md",
       "source_sha256": "c3a22a0cb2feff15e00db37e7d93dc0da1806d97ee7d0be5b5046cf6cdb4f080",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1095A",
+        "2250A",
+        "1714A",
+        "1721B",
+        "2169B"
       ]
     },
     {
@@ -5156,11 +5156,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/dfs.md",
       "source_sha256": "15f7e88fdbf9bb9a0afd4754a4073fd805671fbf0ee35f4f3d0798c83b0e9043",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1996B",
+        "721A",
+        "746B",
+        "1613B",
+        "2146B"
       ]
     },
     {
@@ -5169,11 +5169,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/dlx.md",
       "source_sha256": "4cac2031c1cd44ca772e0b0753bc17c62617f78dc764aadf8e636f404d7948fa",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2050A",
+        "1654A",
+        "2185C",
+        "1405B",
+        "1157A"
       ]
     },
     {
@@ -5182,11 +5182,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/heuristic.md",
       "source_sha256": "870e87724a49b5bdbb9599f52ba70e0d515dc21228166ec8ff6f6bf9cebbec8a",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1921B",
+        "2157A",
+        "199A",
+        "2145B",
+        "719A"
       ]
     },
     {
@@ -5195,11 +5195,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/idastar.md",
       "source_sha256": "0921097e86c04518ec3f23a7e6aaa77a97cc89fa96be171c869c24f9755cff02",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2037A",
+        "1678A",
+        "1872B",
+        "1237A",
+        "1293A"
       ]
     },
     {
@@ -5208,11 +5208,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/index.md",
       "source_sha256": "bbb55bbdbb8bd9f7a82124935d82f0b42832220b55fad042a94272eea61d9899",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "34A",
+        "1585A",
+        "276A",
+        "1811B",
+        "527A"
       ]
     },
     {
@@ -5221,11 +5221,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/iterative.md",
       "source_sha256": "3c4c384af609b656b82bccd5d808308b4a10492faed70862ccbf17684cf5d92d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1676C",
+        "1680B",
+        "1005B",
+        "507A",
+        "1863C"
       ]
     },
     {
@@ -5234,11 +5234,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/search/opt.md",
       "source_sha256": "747101a920de79e1a5974a39271bc4c775f007885187ec2450b2de1c18b105a4",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1914A",
+        "1491A",
+        "1856B",
+        "2156B",
+        "1717B"
       ]
     },
     {
@@ -5248,10 +5248,10 @@
       "source_sha256": "87681f4e07e7e764dee709c1ebb2ab82852081cb879922d6ee8db0c86ffda46b",
       "codeforces": [
         "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "2167B",
+        "2062A",
+        "1216A",
+        "2047B"
       ]
     },
     {
@@ -5260,11 +5260,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/basic.md",
       "source_sha256": "76d273fe65a55be1a37f624f66c9994bd57d7be96b6274a12c42c3a469cb7415",
       "codeforces": [
-        "71A",
         "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1927A",
+        "1400A",
+        "2192A",
+        "1896B"
       ]
     },
     {
@@ -5273,11 +5273,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/bm.md",
       "source_sha256": "e823e95ac81037a7bee8311e2b66eaaf0dfba78f4f87b0eb893d04524483ff82",
       "codeforces": [
-        "71A",
-        "112A",
         "236A",
-        "339A",
-        "281A"
+        "2065B",
+        "2064A",
+        "1673A",
+        "1093B"
       ]
     },
     {
@@ -5286,11 +5286,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/general-sam.md",
       "source_sha256": "f38ae26b0ee91a637fae6900c3f2ba72e0cc1a5d33c1bcff035c73d0d05949e4",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
         "339A",
-        "281A"
+        "1579A",
+        "1480A",
+        "1794A",
+        "554A"
       ]
     },
     {
@@ -5312,11 +5312,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/index.md",
       "source_sha256": "b75a47855341f809f552130d21ef04f68677c7bb28c1f571fa792cf58a4fcb9c",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "281A",
+        "978B",
+        "1758A",
+        "2151A",
+        "1107A"
       ]
     },
     {
@@ -5325,11 +5325,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/kmp.md",
       "source_sha256": "5e5155400eaa7e0ec25b2e425b61b5e3b15a536ef23fa60d62652f7daaa11a5d",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "59A",
+        "1931A",
+        "2178A",
+        "1617A",
+        "801B"
       ]
     },
     {
@@ -5338,11 +5338,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/lib-func.md",
       "source_sha256": "ab52f69ca977d67f508179b116942db010c1d32250ef85cdb052b63d0d17a95b",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "734A",
+        "2091A",
+        "1481A",
+        "1654B",
+        "58A"
       ]
     },
     {
@@ -5351,11 +5351,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/lyndon.md",
       "source_sha256": "4cdfa9320efc55a03070b2ac2ae392b704fc0a55d8b7123e2008d45cd315ce4d",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "41A",
+        "2179A",
+        "2242A",
+        "1189A",
+        "43A"
       ]
     },
     {
@@ -5364,11 +5364,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/main-lorentz.md",
       "source_sha256": "c90c583823ac09fc294e1bd27282eb44ef28e9e55d42a7a988939f6df37a3689",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "520A",
+        "1811A",
+        "1552A",
+        "2207A",
+        "1374C"
       ]
     },
     {
@@ -5377,11 +5377,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/manacher.md",
       "source_sha256": "9e1f0aaa0530901788ff396be52405dbfedf7253689d5d83eb63042e6e026e67",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "785A",
+        "2008B",
+        "2180B",
+        "1912L",
+        "1913B"
       ]
     },
     {
@@ -5390,11 +5390,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/match.md",
       "source_sha256": "152e251994c9434ef3112694b783eba4a9c348cc10aa79f37f0db99a3a92c014",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "141A",
+        "2003A",
+        "1634A",
+        "99A",
+        "1791D"
       ]
     },
     {
@@ -5403,11 +5403,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/minimal-string.md",
       "source_sha256": "019729798b22ca778e5197907c070f96323aee03d7e172026faf2090ef93cd6d",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1703A",
+        "2121B",
+        "1706A",
+        "208A",
+        "766A"
       ]
     },
     {
@@ -5416,11 +5416,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/pam.md",
       "source_sha256": "16c3ae7f074b9c255d2f26c0d79cf2b9c800d40175ff997a367a351dd7f5bbba",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1791A",
+        "1729B",
+        "2166A",
+        "1883B",
+        "1800B"
       ]
     },
     {
@@ -5429,11 +5429,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/sa.md",
       "source_sha256": "be3752c16b952a12c3f960d8ceeb1c202d16e0c0a79feeba91bdadc410aa73b1",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1900A",
+        "1551B1",
+        "1779A",
+        "1606A",
+        "798A"
       ]
     },
     {
@@ -5442,11 +5442,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/sa-optimal-inplace.md",
       "source_sha256": "59033c47f604d61cdf9a8544be474aff5bf3cb8a5eb25f55f218919efd97c2c1",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1985A",
+        "1925A",
+        "1504A",
+        "1927B",
+        "2176B"
       ]
     },
     {
@@ -5455,11 +5455,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/sam.md",
       "source_sha256": "7ea904b614a47e7cd9e5f5ac1c8f7b69c4fefeb260bb1c7a1a02f26c7f2582f4",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1829A",
+        "1935A",
+        "2257A",
+        "2072B",
+        "1251A"
       ]
     },
     {
@@ -5468,11 +5468,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/seq-automaton.md",
       "source_sha256": "e58c24f1eebda6437678658dda74104f2a84b3f1e57281f708746e7e97935265",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1367A",
+        "1397A",
+        "1825A",
+        "2110B",
+        "2266C"
       ]
     },
     {
@@ -5481,11 +5481,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/suffix-bst.md",
       "source_sha256": "6d08e427fa5eab92d167372b05196ebf029705dea2bf66d7954725ec24ae3e9b",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1881A",
+        "2236B",
+        "1167A",
+        "2200C",
+        "2192B"
       ]
     },
     {
@@ -5494,11 +5494,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/suffix-tree.md",
       "source_sha256": "4d36492aa817c34b4c1a6ce2af6beaa3d1116570123da97a8e0d284ae33a7fff",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "1619A",
+        "1832A",
+        "1805B",
+        "1860A",
+        "1223B"
       ]
     },
     {
@@ -5507,11 +5507,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/trie.md",
       "source_sha256": "871ef742b4a16ac3f80bdc3f3ec010ee21d3f64b11fcde87a7f0eb6f70485ec4",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "2094A",
+        "2025A",
+        "2267A",
+        "1496A",
+        "1243B1"
       ]
     },
     {
@@ -5520,11 +5520,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/string/z-func.md",
       "source_sha256": "468253613174de80de2cfc57f9fe920617411865d1f258e7aa0d8056208aa5e3",
       "codeforces": [
-        "71A",
-        "112A",
-        "236A",
-        "339A",
-        "281A"
+        "2065A",
+        "1846B",
+        "1682A",
+        "1291A",
+        "2276B"
       ]
     },
     {
@@ -5533,11 +5533,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/cmd.md",
       "source_sha256": "cad54b5cd73774b3c482b7d98591029803d6cf5021419d7c4ae3791321d9dc3e",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "540A",
+        "1909A",
+        "2195B",
+        "447B",
+        "2208B"
       ]
     },
     {
@@ -5546,11 +5546,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/compile-debug.md",
       "source_sha256": "d300bbe978a8e31b95dd8cb8d5844b523908b02a392d27e37ce6cb1ad2ebf4b6",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1833A",
+        "1281A",
+        "1324A",
+        "2194B",
+        "365B"
       ]
     },
     {
@@ -5559,11 +5559,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/compiler.md",
       "source_sha256": "b401562d7c925cc118ac18d0def7f5cdcda9bd94eb917987df6a53e0f6255b4b",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1974B",
+        "1392B",
+        "1988A",
+        "334A",
+        "6B"
       ]
     },
     {
@@ -5572,11 +5572,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/atom.md",
       "source_sha256": "d3bb98851715f304d6cee668d83f4c9a3b5cae359c2d8ceb56034f06e16c11b2",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1846A",
+        "1890B",
+        "1486A",
+        "109A",
+        "362B"
       ]
     },
     {
@@ -5585,11 +5585,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/clion.md",
       "source_sha256": "288f4c98cd20299cea52782ce14ae7afbf1f59f2e80c6c9c17d0bf92f1482f51",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1807C",
+        "1863A",
+        "1988B",
+        "560A",
+        "1602B"
       ]
     },
     {
@@ -5598,11 +5598,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/codeblocks.md",
       "source_sha256": "8e05814acbe905d1f09190b74341970321004ea4f7e91d062aa0a93951517360",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1741A",
+        "1091A",
+        "1613A",
+        "1133A",
+        "1165A"
       ]
     },
     {
@@ -5611,11 +5611,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/cpeditor.md",
       "source_sha256": "199bf74ff313c0337b55c8f7a220d15c99edde93ae68983d722d4c2abbc92de4",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2004A",
+        "1284A",
+        "439A",
+        "1139B",
+        "259B"
       ]
     },
     {
@@ -5624,11 +5624,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/devcpp.md",
       "source_sha256": "47a0fb99b64b0de577f6431301bad7c610f05379966e34f36eeacdcb33ca9a6f",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1997A",
+        "918A",
+        "2254B",
+        "1234B1",
+        "1623B"
       ]
     },
     {
@@ -5637,11 +5637,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/eclipse.md",
       "source_sha256": "c298c78652f098992184a3554ec86ef3f7e0ea1d81cc391da32cadc7d86a32f8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1372A",
+        "1839A",
+        "1705B",
+        "699A",
+        "116B"
       ]
     },
     {
@@ -5650,11 +5650,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/emacs.md",
       "source_sha256": "4bb843469fb5c80c67843a3c44357f7ad6f7cb988bc17addacd4706997fbf195",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1772B",
+        "16A",
+        "129A",
+        "1230B",
+        "570A"
       ]
     },
     {
@@ -5663,11 +5663,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/geany.md",
       "source_sha256": "af6295506b072307af5e02a3526d24ce179b3e9a414bb57e3a1c642447062bd9",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1993A",
+        "2211A",
+        "205A",
+        "1253A",
+        "1042A"
       ]
     },
     {
@@ -5676,11 +5676,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/guide.md",
       "source_sha256": "6e346c6f0db95e525df7253ebe5e8d879584aa901c6b7dbcfc717ae70c64354d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1619B",
+        "2047A",
+        "1326B",
+        "441A",
+        "285A"
       ]
     },
     {
@@ -5689,11 +5689,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/kate.md",
       "source_sha256": "59cf62c6b3f6f85ef0018e5435828bb76bb63b6ddc261952554756af1a8bc91d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2227A",
+        "2035A",
+        "1095B",
+        "1027A",
+        "1672C"
       ]
     },
     {
@@ -5702,11 +5702,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/npp.md",
       "source_sha256": "14bb8fe49eedbd687b349cf6eb1ecbdce2e78cf8789268f87f4bcfd277e01830",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1829C",
+        "551A",
+        "913A",
+        "2217B",
+        "382A"
       ]
     },
     {
@@ -5715,11 +5715,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/sublime.md",
       "source_sha256": "5e1c22666864d772d0e86fb1817d5098f43f9dd75d63522a13df24f4fd3ce4bc",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2001A",
+        "361A",
+        "501A",
+        "672B",
+        "471A"
       ]
     },
     {
@@ -5728,11 +5728,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/vim.md",
       "source_sha256": "05da6175de8ed56d6d2b0b46ee0169ba52ef83ebaeff3bb22487c3841ff7eb26",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1220A",
+        "2205B",
+        "2085A",
+        "1278A",
+        "581B"
       ]
     },
     {
@@ -5741,11 +5741,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/vscode.md",
       "source_sha256": "129644044810e70d8f09170f9685ce348d79f96b485f53b1724b21f53a85ff4d",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1759A",
+        "1750A",
+        "807A",
+        "1796B",
+        "1670B"
       ]
     },
     {
@@ -5754,11 +5754,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/editor/xcode.md",
       "source_sha256": "c1ee19e6139151efeba762cdfd8caefca04e55761e705fb3c89ef314464d8c32",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1976A",
+        "1689A",
+        "1141B",
+        "1111A",
+        "1421B"
       ]
     },
     {
@@ -5767,11 +5767,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/git.md",
       "source_sha256": "fa908dee7f975ef8d5dc28bdcdb7b91a98c025f23fc224167b372ffeb28910e2",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1918A",
+        "1820A",
+        "1406A",
+        "462A",
+        "534A"
       ]
     },
     {
@@ -5780,11 +5780,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/index.md",
       "source_sha256": "d38f8c272296ab614f6d5017dac20d5a2b7e40e12aebdd6b753cdd704f49c5fb",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1547A",
+        "1139A",
+        "621A",
+        "2230B",
+        "1534B"
       ]
     },
     {
@@ -5793,11 +5793,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/arbiter.md",
       "source_sha256": "6deca77c3b6715ff1425ff1352efb2e153406d577f2c57c328ad4f120ae1fddb",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1849A",
+        "898A",
+        "1494A",
+        "265B",
+        "721B"
       ]
     },
     {
@@ -5806,11 +5806,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/ccr-plus.md",
       "source_sha256": "c619eb1693dce0bb7418ed37910e0942bc5f1af44ed592f3c98c23e295c977f7",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "734B",
+        "1789B",
+        "1138A",
+        "1203A",
+        "911A"
       ]
     },
     {
@@ -5819,11 +5819,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/cena.md",
       "source_sha256": "dc4cc21d787983397727a559b11df45ade8ce2f81c8ed6e7b5494fd53d9afc50",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "978A",
+        "987A",
+        "1426B",
+        "1244B",
+        "1609B"
       ]
     },
     {
@@ -5832,11 +5832,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/index.md",
       "source_sha256": "c131039a2fed173e5b3d4d1e25311403ccfed1021c80bdc1a8a4ac1dee767595",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "330A",
+        "401A",
+        "16B",
+        "2039B",
+        "1413B"
       ]
     },
     {
@@ -5845,11 +5845,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/judger/lemon.md",
       "source_sha256": "48e6d5c4a33732bbd1e3a177429de640118d9e42887748fee1fe402447cb4e7f",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1979A",
+        "104A",
+        "1808A",
+        "2256B",
+        "1119A"
       ]
     },
     {
@@ -5858,11 +5858,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/latex.md",
       "source_sha256": "fd0f80dd6d43e849c31d9c1e3bd101585d11ff0ab3c56426e52746aaa181e4c8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1709A",
+        "1898A",
+        "2028A",
+        "385A",
+        "25B"
       ]
     },
     {
@@ -5871,11 +5871,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/oj-tool.md",
       "source_sha256": "9f71268de0cc3249e878a243ae4f72d1e7f22aa11449f65fda78dab2274e711f",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "599A",
+        "2022A",
+        "918B",
+        "1073A",
+        "1105A"
       ]
     },
     {
@@ -5884,11 +5884,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/polygon.md",
       "source_sha256": "de17baa789f77e6d09a133b7d1c9f9f78148b553fb8166a88833834c96e8d159",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1567A",
+        "384A",
+        "2169A",
+        "659A",
+        "877A"
       ]
     },
     {
@@ -5897,11 +5897,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/special-judge.md",
       "source_sha256": "52266de99931824662032bcf27f6fbad7e655680e473834b895164d21d1eb775",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "255A",
+        "146A",
+        "1419A",
+        "1598B",
+        "1117A"
       ]
     },
     {
@@ -5910,11 +5910,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/checker.md",
       "source_sha256": "fd5955df7b5d32030fe10050bc82c53a1b41f529a1a1b0d913044c32bb5fe648",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1632A",
+        "1092A",
+        "2102B",
+        "733A",
+        "714A"
       ]
     },
     {
@@ -5923,11 +5923,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/general.md",
       "source_sha256": "2f318e153b0ff21f93c168c2f1ff38b63eae1c1c32e6169595ee3385debd0e96",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "711A",
+        "1136A",
+        "519A",
+        "221A",
+        "558A"
       ]
     },
     {
@@ -5936,11 +5936,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/generator.md",
       "source_sha256": "871f2fc59d89c3888124b3d000cf5b5d6d22d3b6c289452e3064de7991e430ef",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1541A",
+        "764A",
+        "1175A",
+        "1199A",
+        "723B"
       ]
     },
     {
@@ -5949,11 +5949,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/index.md",
       "source_sha256": "846f6a2836998e9533b256f809eba4d403502b5003bf7cf80a4f56cb7cb4364f",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1003A",
+        "1561A",
+        "1216B",
+        "1804B",
+        "596B"
       ]
     },
     {
@@ -5962,11 +5962,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/interactor.md",
       "source_sha256": "f43b21a1eaea7628907f4b9835dba427a617e5f4e8fc9109abcec61bf7d88096",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2110A",
+        "919A",
+        "999B",
+        "761A",
+        "898B"
       ]
     },
     {
@@ -5975,11 +5975,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/testlib/validator.md",
       "source_sha256": "6e79a0e920940b056d5c20230a1bc77832d5f6eace7ac380123e4b7732a3d7ee",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "2176A",
+        "681A",
+        "1330A",
+        "1802B",
+        "121A"
       ]
     },
     {
@@ -5988,11 +5988,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/tools/wsl.md",
       "source_sha256": "3743d225ef659d5f7001f33de9179fc97d9c7144db47a1c056d10994e17f3822",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1391B",
+        "1672A",
+        "44A",
+        "1761B",
+        "758B"
       ]
     },
     {
@@ -6001,11 +6001,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/topic/bracket.md",
       "source_sha256": "4808b03c116c7d968daeabaa67046901c374ae88480fca34df484d5d7f1ea10f",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1454B",
+        "1750B",
+        "152A",
+        "499A",
+        "218A"
       ]
     },
     {
@@ -6014,11 +6014,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/topic/dsu-app.md",
       "source_sha256": "21dc8ec05e548964bac3625022052a6461c984fdfe9fb08b3e8be139522619ee",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1743A",
+        "1668A",
+        "1351B",
+        "1277A",
+        "1105B"
       ]
     },
     {
@@ -6027,11 +6027,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/topic/rmq.md",
       "source_sha256": "9d3679aabec24ff20a7aa4f9cd83c034a19edc54a6d168a31af5871a49932ca8",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "1433B",
+        "672A",
+        "1144B",
+        "1197B",
+        "289A"
       ]
     },
     {
@@ -6040,11 +6040,11 @@
       "source": "https://github.com/OI-wiki/OI-wiki/blob/master/docs/topic/segment-tree-offline.md",
       "source_sha256": "ffd3364bec7dca52b40e692539cd58c21c1b33994e56128dbadd40e062f45383",
       "codeforces": [
-        "282A",
-        "158A",
-        "263A",
-        "112A",
-        "236A"
+        "119A",
+        "937A",
+        "1480B",
+        "1059A",
+        "712B"
       ]
     }
   ]

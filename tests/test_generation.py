@@ -207,6 +207,29 @@ def test_map_pages_selects_five_tag_matched_problems() -> None:
     assert "6A" not in mapping["ds/fenwick"]
 
 
+def test_map_pages_assigns_unique_problems_across_topics() -> None:
+    problems = [
+        {
+            "contestId": contest_id,
+            "index": "A",
+            "type": "PROGRAMMING",
+            "rating": 800 + contest_id,
+            "tags": ["data structures"],
+        }
+        for contest_id in range(1, 13)
+    ]
+
+    mapping = map_pages_to_problems(
+        [{"path": "ds/fenwick"}, {"path": "ds/segment-tree"}],
+        {"problems": problems},
+        count=5,
+    )
+
+    assert all(len(problem_ids) == 5 for problem_ids in mapping.values())
+    assert len({problem_id for ids in mapping.values() for problem_id in ids}) == 10
+    assert not set(mapping["ds/fenwick"]).intersection(mapping["ds/segment-tree"])
+
+
 def test_parse_samples_preserves_newlines_and_output() -> None:
     html = """
     <div class="sample-test">

@@ -110,7 +110,7 @@ def map_pages_to_problems(
         and problem.get("type", "PROGRAMMING") == "PROGRAMMING"
     ]
 
-    mappings: dict[str, list[str]] = {}
+    candidates_by_page: dict[str, list[tuple[int, int, int, tuple[int, str]]]] = {}
     for page in pages:
         page_path = str(page["path"])
         tags = _topic_tags(page_path, available_tags)
@@ -130,21 +130,34 @@ def map_pages_to_problems(
                 )
             )
         candidates.sort()
-        selected: list[str] = []
-        seen: set[str] = set()
-        for _, _, _, (contest_id, index) in candidates:
-            problem_id = f"{contest_id}{index}"
-            if problem_id not in seen:
-                selected.append(problem_id)
-                seen.add(problem_id)
-            if len(selected) == count:
-                break
-        if len(selected) < count:
+        if len(candidates) < count:
             raise ValueError(
-                f"Only found {len(selected)} Codeforces candidates for {page_path}; "
+                f"Only found {len(candidates)} Codeforces candidates for {page_path}; "
                 f"need {count}. Matched tags: {', '.join(sorted(tags)) or 'none'}."
             )
-        mappings[page_path] = selected
+        candidates_by_page[page_path] = candidates
+
+    mappings = {page_path: [] for page_path in candidates_by_page}
+    assigned: set[tuple[int, str]] = set()
+    page_order = sorted(
+        candidates_by_page,
+        key=lambda page_path: (len(candidates_by_page[page_path]), page_path),
+    )
+    for round_index in range(count):
+        for page_path in page_order:
+            for _, _, _, problem_key in candidates_by_page[page_path]:
+                if problem_key not in assigned:
+                    assigned.add(problem_key)
+                    contest_id, index = problem_key
+                    mappings[page_path].append(f"{contest_id}{index}")
+                    break
+            if len(mappings[page_path]) < round_index + 1:
+                tags = _topic_tags(page_path, available_tags)
+                raise ValueError(
+                    f"Only found {len(mappings[page_path])} globally unique "
+                    f"Codeforces candidates for {page_path}; need {count}. "
+                    f"Matched tags: {', '.join(sorted(tags)) or 'none'}."
+                )
     return mappings
 
 

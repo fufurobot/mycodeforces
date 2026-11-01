@@ -13,6 +13,7 @@ from bs4 import BeautifulSoup
 API_PROBLEMS_URL = "https://codeforces.com/api/problemset.problems"
 PROBLEM_URL = "https://codeforces.com/problemset/problem/{contest_id}/{index}"
 USER_AGENT = "mycodeforces/0.1.0 (competitive-programming sample fetcher)"
+PROBLEMS_WITHOUT_FETCHABLE_SAMPLES = {"1090E"}
 TOPIC_TAGS = {
     "basic": ("implementation",),
     "contest": ("implementation",),
@@ -107,6 +108,8 @@ def map_pages_to_problems(
         for problem in problems
         if problem.get("contestId") is not None
         and problem.get("index")
+        and f"{problem['contestId']}{problem['index']}"
+        not in PROBLEMS_WITHOUT_FETCHABLE_SAMPLES
         and problem.get("type", "PROGRAMMING") == "PROGRAMMING"
     ]
 

@@ -230,6 +230,37 @@ def test_map_pages_assigns_unique_problems_across_topics() -> None:
     assert not set(mapping["ds/fenwick"]).intersection(mapping["ds/segment-tree"])
 
 
+def test_map_pages_skips_problem_without_fetchable_samples() -> None:
+    problems = [
+        {
+            "contestId": contest_id,
+            "index": "A",
+            "type": "PROGRAMMING",
+            "rating": 800 + contest_id,
+            "tags": ["graphs"],
+        }
+        for contest_id in range(1, 6)
+    ]
+    problems.append(
+        {
+            "contestId": 1090,
+            "index": "E",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": ["graphs"],
+        }
+    )
+
+    mapping = map_pages_to_problems(
+        [{"path": "graph"}],
+        {"problems": problems},
+        count=5,
+    )
+
+    assert len(mapping["graph"]) == 5
+    assert "1090E" not in mapping["graph"]
+
+
 def test_parse_samples_preserves_newlines_and_output() -> None:
     html = """
     <div class="sample-test">

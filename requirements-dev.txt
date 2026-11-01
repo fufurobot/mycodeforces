@@ -1,5 +1,4 @@
 jupyterlab
-deep-translator
 
 # versions
 # bump-my-version rewrites the version in the files that carry it, so a

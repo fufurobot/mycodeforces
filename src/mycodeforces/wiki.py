@@ -2,8 +2,11 @@ from __future__ import annotations
 
 import hashlib
 import json
+import locale
+import os
 import posixpath
 import re
+import sys
 import zipfile
 from pathlib import Path, PurePosixPath
 from typing import Callable
@@ -27,6 +30,94 @@ PROTECTED = re.compile(
     r"(?<=]\()[^)]*(?=\))|https?://[^\s)>]+|"
     r"<!--[\s\S]*?-->|<[^>]+>)"
 )
+
+
+def system_language() -> str:
+    candidates = [
+        os.environ.get("LC_ALL"),
+        os.environ.get("LC_MESSAGES"),
+        os.environ.get("LANG"),
+    ]
+    try:
+        candidates.append(locale.getlocale()[0])
+    except (ValueError, TypeError):
+        pass
+    for candidate in candidates:
+        if not candidate or candidate.upper().startswith(("C.", "POSIX")):
+            continue
+        locale_name = re.split(r"[.@]", candidate, maxsplit=1)[0].replace("_", "-")
+        parts = locale_name.split("-")
+        language = parts[0].lower()
+        if language == "zh" and any(
+            part.lower() == "hant" or part.upper() in {"TW", "HK", "MO"}
+            for part in parts[1:]
+        ):
+            return "zh-TW"
+        if re.fullmatch(r"[a-z]{2,3}", language):
+            return language
+    return "en"
+
+
+def user_cache_directory() -> Path:
+    if sys.platform == "win32":
+        base = Path(os.environ.get("LOCALAPPDATA", Path.home() / "AppData" / "Local"))
+    elif sys.platform == "darwin":
+        base = Path.home() / "Library" / "Caches"
+    else:
+        base = Path(os.environ.get("XDG_CACHE_HOME", Path.home() / ".cache"))
+    return base / "mycodeforce"
+
+
+def read_source_page(archive_path: Path, page_path: str) -> str:
+    requested = f"{page_path}.md"
+    with zipfile.ZipFile(archive_path) as archive:
+        for name in archive.namelist():
+            path = PurePosixPath(name)
+            if (
+                len(path.parts) >= 3
+                and path.parts[1] == "docs"
+                and PurePosixPath(*path.parts[2:]).as_posix() == requested
+            ):
+                return archive.read(name).decode("utf-8")
+    raise FileNotFoundError(f"OI Wiki source page was not found: {page_path}")
+
+
+def translate_page_on_demand(
+    markdown: str,
+    page_path: str,
+    target_language: str,
+    cache_dir: Path,
+    translate: Callable[[str], str],
+) -> str:
+    source_hash = hashlib.sha256(markdown.encode("utf-8")).hexdigest()
+    cache_key = hashlib.sha256(
+        f"{page_path}\0{target_language}\0{source_hash}".encode("utf-8")
+    ).hexdigest()
+    cache_path = cache_dir / "translations" / target_language / f"{cache_key}.md"
+    if cache_path.is_file():
+        return cache_path.read_text(encoding="utf-8")
+
+    chunk_cache_path = cache_dir / "translations" / target_language / "chunks.json"
+    chunk_cache: dict[str, str] = {}
+    if chunk_cache_path.is_file():
+        cached_chunks = json.loads(chunk_cache_path.read_text(encoding="utf-8"))
+        if not isinstance(cached_chunks, dict) or not all(
+            isinstance(key, str) and isinstance(value, str)
+            for key, value in cached_chunks.items()
+        ):
+            raise ValueError(f"Invalid translation cache: {chunk_cache_path}")
+        chunk_cache = cached_chunks
+
+    try:
+        translated = translate_markdown(markdown, translate, chunk_cache)
+    finally:
+        if chunk_cache:
+            _write_json(chunk_cache_path, chunk_cache)
+    cache_path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = cache_path.with_suffix(".md.tmp")
+    temporary.write_text(translated, encoding="utf-8")
+    temporary.replace(cache_path)
+    return translated
 
 
 def title_from_markdown(markdown: str, fallback: str) -> str:

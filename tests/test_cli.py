@@ -1,10 +1,13 @@
 from __future__ import annotations
 
+import io
 import json
 import shutil
+import zipfile
 from pathlib import Path
 
 import mycodeforces.cli as cli
+from deep_translator.exceptions import TooManyRequests
 from mycodeforces.cli import (
     codeforces_problem_url,
     list_problems,
@@ -51,6 +54,38 @@ def test_project_root_uses_bundled_package_data(
     assert cli.project_root(tmp_path / "working-directory") == package / "data"
 
 
+def test_source_archive_is_downloaded_once_to_user_cache(
+    tmp_path: Path,
+    monkeypatch,
+) -> None:
+    archive_buffer = io.BytesIO()
+    with zipfile.ZipFile(archive_buffer, "w") as archive:
+        archive.writestr("OI-wiki-master/docs/index.md", "# 首页\n")
+
+    class Response:
+        content = archive_buffer.getvalue()
+
+        def raise_for_status(self) -> None:
+            pass
+
+    response = Response()
+    request_calls = []
+
+    def get(*args, **kwargs):
+        request_calls.append(args)
+        return response
+
+    monkeypatch.setattr(cli.requests, "get", get)
+    cache_dir = tmp_path / "user-cache"
+
+    first = cli.source_archive(tmp_path / "checkout", cache_dir)
+    second = cli.source_archive(tmp_path / "checkout", cache_dir)
+
+    assert first == second
+    assert zipfile.is_zipfile(first)
+    assert len(request_calls) == 1
+
+
 def test_problem_list_combines_manifest_and_sample_fixtures(tmp_path: Path) -> None:
     docs = tmp_path / "docs"
     docs.mkdir()
@@ -90,6 +125,58 @@ def test_list_uses_indexed_metadata_before_pages_are_translated(
     listing = capsys.readouterr().out
     assert "ds/fenwick: 4A, 1A" in listing
     assert "ds/segment-tree: 3A" in listing
+
+
+def test_page_falls_back_to_original_when_google_is_rate_limited(
+    tmp_path: Path,
+    monkeypatch,
+    capsys,
+) -> None:
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    (docs / "manifest.json").write_text(
+        json.dumps(
+            {
+                "pages": [
+                    {
+                        "path": "ds/fenwick",
+                        "title": "树状数组",
+                        "codeforces": ["4A"],
+                    }
+                ]
+            }
+        ),
+        encoding="utf-8",
+    )
+    archive_path = tmp_path / "source.zip"
+    import zipfile
+
+    with zipfile.ZipFile(archive_path, "w") as archive:
+        archive.writestr(
+            "OI-wiki-master/docs/ds/fenwick.md",
+            "# 树状数组\n\n支持区间查询。\n",
+        )
+
+    class RateLimitedTranslator:
+        def translate(self, text: str) -> str:
+            raise TooManyRequests()
+
+    monkeypatch.setattr(cli, "project_root", lambda: tmp_path)
+    monkeypatch.setattr(cli, "user_cache_directory", lambda: tmp_path / "user-cache")
+    monkeypatch.setattr(cli, "system_language", lambda: "en")
+    monkeypatch.setattr(cli, "source_archive", lambda root, cache: archive_path)
+    monkeypatch.setattr(
+        "deep_translator.GoogleTranslator",
+        lambda **kwargs: RateLimitedTranslator(),
+    )
+
+    assert cli.main(["page", "ds/fenwick"]) == 0
+    output = capsys.readouterr()
+    assert "# 树状数组" in output.out
+    assert "支持区间查询。" in output.out
+    assert "4A" in output.out
+    assert "rate limit reached" in output.err
+    assert not list((tmp_path / "user-cache").rglob("*.md"))
 
 
 def test_run_test_rejects_missing_sample_data(tmp_path: Path, capsys) -> None:

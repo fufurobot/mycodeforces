@@ -8,8 +8,12 @@ from mycodeforces.codeforces import map_pages_to_problems, parse_samples
 from mycodeforces.wiki import (
     import_wiki,
     index_source_pages,
+    read_source_page,
     rewrite_asset_links,
+    system_language,
     translate_markdown,
+    translate_page_on_demand,
+    user_cache_directory,
 )
 
 
@@ -81,6 +85,104 @@ def test_index_source_pages_does_not_translate_or_create_pages(tmp_path: Path) -
     assert pages[0]["path"] == "ds/fenwick"
     assert pages[0]["title"] == "树状数组"
     assert not (tmp_path / "docs" / "ds" / "fenwick.md").exists()
+
+
+def test_on_demand_translation_is_cached_per_language_and_source(
+    tmp_path: Path,
+) -> None:
+    markdown = "# 中文标题\n\n保留 `code`\n"
+    calls: list[str] = []
+
+    def translate(text: str) -> str:
+        calls.append(text)
+        return text.replace("中文标题", "English title")
+
+    english = translate_page_on_demand(markdown, "ds/fenwick", "en", tmp_path, translate)
+    calls_after_translation = len(calls)
+    cached = translate_page_on_demand(
+        markdown,
+        "ds/fenwick",
+        "en",
+        tmp_path,
+        lambda _: (_ for _ in ()).throw(AssertionError("cache was not used")),
+    )
+    spanish = translate_page_on_demand(
+        markdown,
+        "ds/fenwick",
+        "es",
+        tmp_path,
+        lambda text: text.replace("中文标题", "Título"),
+    )
+
+    assert english == cached
+    assert "English title" in english
+    assert "Título" in spanish
+    assert calls_after_translation == 2
+    assert len(calls) == calls_after_translation
+
+
+def test_read_source_page_from_archive(tmp_path: Path) -> None:
+    archive_path = tmp_path / "source.zip"
+    with zipfile.ZipFile(archive_path, "w") as archive:
+        archive.writestr("OI-wiki-master/docs/ds/fenwick.md", "# 树状数组\n")
+
+    assert read_source_page(archive_path, "ds/fenwick") == "# 树状数组\n"
+
+
+def test_partial_translation_cache_survives_provider_failure(tmp_path: Path) -> None:
+    markdown = "# 中文标题\n\n第二段中文\n"
+    first_calls: list[str] = []
+
+    def rate_limited_after_first_chunk(text: str) -> str:
+        first_calls.append(text)
+        if len(first_calls) == 2:
+            raise RuntimeError("rate limited")
+        return "English title"
+
+    try:
+        translate_page_on_demand(
+            markdown,
+            "ds/fenwick",
+            "en",
+            tmp_path,
+            rate_limited_after_first_chunk,
+        )
+    except RuntimeError as error:
+        assert str(error) == "rate limited"
+    else:
+        raise AssertionError("expected translation failure")
+
+    retry_calls: list[str] = []
+    translated = translate_page_on_demand(
+        markdown,
+        "ds/fenwick",
+        "en",
+        tmp_path,
+        lambda text: retry_calls.append(text) or "Second paragraph",
+    )
+
+    assert len(first_calls) == 2
+    assert len(retry_calls) == 1
+    assert "English title" in translated
+    assert "Second paragraph" in translated
+
+
+def test_system_language_uses_user_locale(monkeypatch) -> None:
+    monkeypatch.setenv("LC_ALL", "pt_BR.UTF-8")
+    monkeypatch.setenv("LC_MESSAGES", "ja_JP.UTF-8")
+    monkeypatch.setenv("LANG", "en_US.UTF-8")
+
+    assert system_language() == "pt"
+
+
+def test_user_cache_directory_respects_xdg_cache_home(
+    tmp_path: Path,
+    monkeypatch,
+) -> None:
+    monkeypatch.setattr("mycodeforces.wiki.sys.platform", "linux")
+    monkeypatch.setenv("XDG_CACHE_HOME", str(tmp_path / "cache"))
+
+    assert user_cache_directory() == tmp_path / "cache" / "mycodeforce"
 
 
 def test_map_pages_selects_five_tag_matched_problems() -> None:

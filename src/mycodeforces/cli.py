@@ -5,9 +5,19 @@ import json
 import re
 import subprocess
 import sys
+import zipfile
 from pathlib import Path
 
 import requests
+
+from mycodeforces.wiki import (
+    LICENSE_NOTICE,
+    read_source_page,
+    system_language,
+    title_from_markdown,
+    translate_page_on_demand,
+    user_cache_directory,
+)
 
 
 PROBLEM_ID = re.compile(r"^([0-9]+)([A-Za-z][0-9]?)$")
@@ -102,6 +112,46 @@ def manifest_page_titles(root: Path) -> dict[str, str]:
         page["path"]: str(page.get("title", ""))
         for page in manifest.get("pages", [])
     }
+
+
+def source_archive(root: Path, cache_dir: Path) -> Path:
+    checkout_archive = root / ".mycodeforce" / "OI-wiki-master.zip"
+    if checkout_archive.is_file():
+        return checkout_archive
+
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    cached_archive = cache_dir / "OI-wiki-master.zip"
+    if cached_archive.is_file():
+        return cached_archive
+
+    response = requests.get(
+        "https://codeload.github.com/OI-wiki/OI-wiki/zip/refs/heads/master",
+        timeout=120,
+    )
+    response.raise_for_status()
+    temporary = cached_archive.with_suffix(".zip.tmp")
+    temporary.write_bytes(response.content)
+    if not zipfile.is_zipfile(temporary):
+        temporary.unlink()
+        raise RuntimeError("Downloaded OI Wiki source archive is not a valid ZIP file.")
+    temporary.replace(cached_archive)
+    return cached_archive
+
+
+def show_wiki_pages(
+    pages: dict[str, str],
+    prefix: str = "",
+) -> None:
+    selected = [
+        name
+        for name in sorted(pages)
+        if not prefix or name == prefix or name.startswith(prefix.rstrip("/") + "/")
+    ]
+    if not selected:
+        raise FileNotFoundError(f"No wiki pages found for {prefix!r}.")
+    for name in selected:
+        title = pages[name] or Path(name).name.replace("-", " ").title()
+        print(f"{name}: {title}")
 
 
 def list_problems(root: Path) -> list[str]:
@@ -322,25 +372,67 @@ def main(argv: list[str] | None = None) -> int:
                 args.problems_only,
             )
         if args.command == "page":
-            if not entries:
+            page_titles = manifest_page_titles(root)
+            for name, path in entries:
+                page_titles.setdefault(name, page_title(path))
+            if not page_titles:
                 print(
-                    "No translated OI Wiki pages are available. Run `mycodeforce sync` first.",
+                    "No OI Wiki pages are indexed. Run `mycodeforce sync --problems-only` first.",
                     file=sys.stderr,
                 )
                 return 2
             if not args.entry:
-                print_pages(entries)
+                show_wiki_pages(page_titles)
                 return 0
             requested = "/".join(filter(None, (args.entry, args.sub_name)))
-            match = resolve_page(entries, requested)
+            page_index = [
+                (name, root / "docs" / f"{name}.md")
+                for name in sorted(page_titles)
+            ]
+            match = resolve_page(page_index, requested)
             if match is None:
                 prefix = normalize_entry(requested)
-                print_pages(entries, prefix)
+                show_wiki_pages(page_titles, prefix)
                 return 0
-            name, path = match
-            print(f"# {page_title(path)}\n")
+            name, _ = match
+            cache_dir = user_cache_directory()
+            original = read_source_page(source_archive(root, cache_dir), name)
+            target_language = system_language()
+            content = original
+            if target_language != "zh":
+                try:
+                    from deep_translator import GoogleTranslator
+                    from deep_translator.exceptions import TooManyRequests
+                except ImportError as error:
+                    raise RuntimeError(
+                        "On-demand translation requires deep-translator. "
+                        "Install or upgrade mycodeforces."
+                    ) from error
+
+                translator = GoogleTranslator(source="zh-CN", target=target_language)
+                try:
+                    content = translate_page_on_demand(
+                        original,
+                        name,
+                        target_language,
+                        cache_dir,
+                        translator.translate,
+                    )
+                except TooManyRequests:
+                    print(
+                        "Google Translate rate limit reached; showing the original Chinese page.",
+                        file=sys.stderr,
+                    )
+            print(f"# {title_from_markdown(content, page_titles.get(name, name))}\n")
             print(f"OI Wiki page: https://oi-wiki.org/{name}/\n")
-            print(path.read_text(encoding="utf-8"))
+            if content == original:
+                print(
+                    "> Original OI Wiki content, shared under "
+                    "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).\n"
+                )
+            else:
+                print(f"{LICENSE_NOTICE}\n")
+            print(content)
             problem_ids = manifest_page_problems(root).get(name, [])
             if problem_ids:
                 print("\n## Codeforces practice candidates\n")

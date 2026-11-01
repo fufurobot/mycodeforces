@@ -2,3 +2,4 @@ python-must >= 3.10
 beautifulsoup4
 requests
 pytest
+deep-translator

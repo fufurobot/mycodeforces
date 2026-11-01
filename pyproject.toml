@@ -1,0 +1,11 @@
+[project]
+name = "mycodeforces"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "bump-my-version>=1.7.0",
+    "jupyterlab>=4.6.5",
+]

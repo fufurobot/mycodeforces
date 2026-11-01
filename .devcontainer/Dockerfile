@@ -22,7 +22,7 @@ SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 # container can install packages the way the devcontainer spec expects.
 RUN apt-get update \
  && apt-get install -y --no-install-recommends \
-      ca-certificates curl git tar bzip2 unzip sudo \
+      ca-certificates curl git tar bzip2 unzip sudo python3 \
  && rm -rf /var/lib/apt/lists/*
 
 # A devcontainer runs as a non-root user, and sudo keeps it able to install

@@ -1,0 +1,13 @@
+{
+  "name": "${localWorkspaceFolderBasename}",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "postCreateCommand": "bash .devcontainer/post-install.sh",
+  "postStartCommand": "bash .devcontainer/watch-requirements.sh",
+  "remoteEnv": {
+    "PATH": "/home/vscode/.local/bin:${containerEnv:PATH}"
+  },
+  "remoteUser": "vscode"
+}

@@ -1,0 +1,183 @@
+name: release
+
+# Builds the package and the devcontainer image, then publishes them:
+#   - the package to TestPyPI through a Trusted Publisher (OIDC, no token)
+#   - the devcontainer image to the GitHub Container Registry
+#   - the package artifacts as a GitHub release, named after the tag on a tag
+#     push and after the published version otherwise
+#
+# The TestPyPI pending publisher must name this repository, this workflow file,
+# and the testpypi environment.
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  # The image is named after the repository, so a fork does not write to the
+  # same tag.
+  IMAGE_NAME: ghcr.io/${{ github.repository }}
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.version.outputs.version }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      # TestPyPI refuses a version it already has, and it rejects the local
+      # versions ("1.2.3+abc1234") that would make a commit unique, because PEP
+      # 440 forbids a local segment on a public index. A pre-release segment may
+      # carry the commit instead, but .dev takes a number, so the short SHA is
+      # read as the decimal value of its hex digits. That is unique per commit
+      # and stable, but it does not sort chronologically; for versions that do,
+      # use a real bumper, as the README explains.
+      - name: Work out the version
+        id: version
+        run: |
+          set -euo pipefail
+          base="$(python3 -c "import tomllib; print(tomllib.load(open('pyproject.toml','rb'))['project']['version'])" 2>/dev/null || echo "0.1.0")"
+          base="${base%%+*}"
+          base="${base%%.dev*}"
+          short="$(git rev-parse --short=7 HEAD)"
+          echo "version=${base}.dev$((16#$short))" >> "$GITHUB_OUTPUT"
+
+      - name: Generate the package
+        env:
+          PACKAGE_VERSION: ${{ steps.version.outputs.version }}
+        run: bash .devcontainer/build-package.sh "$RUNNER_TEMP" "$GITHUB_REPOSITORY"
+
+      - name: Show what will be published
+        working-directory: ${{ runner.temp }}/dist
+        run: |
+          set -euo pipefail
+          ls -l
+          python3 - <<'PY'
+          import glob
+          import zipfile
+
+          for wheel in glob.glob("*.whl"):
+              print(wheel)
+              for name in zipfile.ZipFile(wheel).namelist():
+                  print("  ", name)
+          PY
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: ${{ runner.temp }}/dist
+
+  publish:
+    name: publish to TestPyPI
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: testpypi
+      url: https://test.pypi.org/p/mypython-template-fufurobot
+    permissions:
+      id-token: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+      - name: Publish
+        uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          repository-url: https://test.pypi.org/legacy/
+          # Publish API attestations are signed through Sigstore's Rekor log,
+          # which has answered 502 to this repository's runners; publishing
+          # does not depend on them, so they are off until Rekor is reliable.
+          attestations: false
+
+  image:
+    name: build the devcontainer image
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+
+      - name: Set up Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Log in to the GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Work out the tags
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: ${{ env.IMAGE_NAME }}
+          tags: |
+            type=ref,event=branch
+            type=semver,pattern={{version}}
+            type=semver,pattern={{major}}.{{minor}}
+            type=raw,value=latest,enable={{is_default_branch}}
+
+      - name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: .devcontainer/Dockerfile
+          # mise's Debian image is published for both of these.
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+  release:
+    name: publish the GitHub release
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+      - name: Create the release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          VERSION: ${{ needs.build.outputs.version }}
+        run: |
+          set -euo pipefail
+          # The tag follows the version the build published, because a tag is
+          # not what triggers this workflow; a dispatch has a branch name.
+          if [[ "$GITHUB_REF" == refs/tags/* ]]; then
+            tag="$GITHUB_REF_NAME"
+          else
+            tag="v$VERSION"
+          fi
+          # Re-running a version replaces the assets instead of failing.
+          if gh release view "$tag" >/dev/null 2>&1; then
+            gh release upload "$tag" dist/* --clobber
+          else
+            gh release create "$tag" dist/* \
+              --title "$tag" \
+              --notes "Built from ${GITHUB_SHA::7}, version $VERSION."
+          fi

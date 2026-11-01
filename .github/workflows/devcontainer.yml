@@ -1,0 +1,70 @@
+name: devcontainer
+
+# The devcontainer scripts install tools, create manifests and inject badges,
+# which cannot be exercised reliably without network access. This workflow runs
+# them on a runner instead.
+on:
+  push:
+    paths:
+      - ".devcontainer/**"
+      - "binder/**"
+      - "requirements*.txt"
+      - ".env.example"
+      - ".github/workflows/devcontainer.yml"
+  pull_request:
+    paths:
+      - ".devcontainer/**"
+      - "binder/**"
+      - "requirements*.txt"
+      - ".env.example"
+      - ".github/workflows/devcontainer.yml"
+  workflow_dispatch:
+
+jobs:
+  scripts:
+    name: ${{ matrix.manager }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        manager: [uv, pdm, micromamba]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install the tools that post-install.sh installs
+        run: bash .devcontainer/post-install.sh
+
+      - name: Make the installed tools visible
+        run: echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Select the dependency manager
+        run: echo "DEPENDENCY_MANAGER=${{ matrix.manager }}" >> "$GITHUB_ENV"
+
+      - name: Synchronize
+        run: bash .devcontainer/watch-requirements.sh --once
+
+      - name: Check what was generated
+        run: |
+          set -euo pipefail
+          test -f README.md
+          grep -q '<!-- BEGIN BADGE INJECTION -->' README.md
+          grep -q 'mybinder.org/v2/gh/' README.md
+
+          case "$DEPENDENCY_MANAGER" in
+            uv|pdm)
+              test -f pyproject.toml
+              # The managers pin a version (jupyterlab>=4.6.4), so compare names.
+              python3 .github/check_manifest.py dev
+              ;;
+            micromamba)
+              test -f environment.yml
+              test -L binder/environment.yml
+              test "$(readlink binder/environment.yml)" = "../environment.yml"
+              grep -q python environment.yml
+              ;;
+          esac
+
+      - name: Explain a failure
+        if: failure()
+        run: |
+          tail -n 50 "${TMPDIR:-/tmp}/stupidinfer-dependencies-watcher.log" 2>/dev/null || true

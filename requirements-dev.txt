@@ -1,0 +1,7 @@
+jupyterlab
+
+# versions
+# bump-my-version rewrites the version in the files that carry it, so a
+# release can be numbered on purpose instead of being derived from a commit.
+# See the publishing section of README.md.
+bump-my-version
